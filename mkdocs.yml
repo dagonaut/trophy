@@ -1,0 +1,41 @@
+site_name: Trophy
+site_url: https://example.com   # optional; set your real URL if you have one
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - content.code.copy
+    - toc.integrate
+
+# "docs" points to the symlinked Obsidian subfolder
+docs_dir: tophy-site/docs
+use_directory_urls: true
+
+plugins:
+  - search
+  - roamlinks
+  - awesome-pages
+  - glightbox
+  - minify:
+      minify_html: true
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.critic
+
+# Optional: If you want to hide the "Made with Material for MkDocs" footer
+extra:
+  generator: false
