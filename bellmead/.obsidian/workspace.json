@@ -4,24 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "64bef55bce5e3968",
+        "id": "b93239419ba1106f",
         "type": "tabs",
         "children": [
           {
-            "id": "868a4ee7ea2945fc",
+            "id": "1d299e9628fcdb31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trophy/jorando/Alaric and Liorna.md",
+                "file": "trophy/jorando/The Hollowed Saint.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alaric and Liorna"
+              "title": "The Hollowed Saint"
+            }
+          },
+          {
+            "id": "c98fdb1802cf3aa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "trophy/jorando/items/Fragment of the First Tear.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fragment of the First Tear"
+            }
+          },
+          {
+            "id": "29271356ad555e43",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "trophy/Trophy-Gold-Reference-Sheet.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Trophy-Gold-Reference-Sheet"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bog hear",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,16 +190,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1020c829f87cd758",
+  "active": "29271356ad555e43",
   "lastOpenFiles": [
-    "Alaric & Liorna.md",
-    "trophy/jorando/Alaric and Liorna.md",
-    "trophy/jorando/The Rite of Reclamation.md",
-    "brindlewood bay/Session Notes.md",
-    "trophy/jorando/All Items.md",
-    "brindlewood bay/Campaign Notes & Clues.md",
-    "trophy/jorando/Father Lorian.md",
+    "trophy/Risk Roll.md",
     "trophy/jorando/The Hollowed Saint.md",
+    "trophy/jorando/items/Fragment of the First Tear.md",
+    "trophy/jorando/Father Lorian.md",
+    "trophy/jorando/The Rite of Reclamation.md",
+    "trophy/jorando/items/Dust Covered Manuscript.md",
+    "trophy/Trophy-Gold-Reference-Sheet.pdf",
+    "trophy/jorando/items",
+    "trophy/jorando/sets/Whispering Marshes/The Bog Heart.md",
+    "trophy/jorando/sets/Whispering Marshes/Whispering Marshes.md",
+    "trophy/jorando/sets/Evershade/Liorna.md",
+    "trophy/jorando/sets/Evershade/items/Silver Locket of Eternal Vows.md",
+    "trophy/jorando/Alaric and Liorna.md",
+    "Shattered Legion.md",
+    "trophy/jorando/The Shattered Legion.md",
+    "trophy/jorando/All Items.md",
+    "trophy/jorando/items/Reliquary of the Hollowed Saints.md",
+    "trophy/jorando/sets/Evershade/Gravemind Rootsnare.md",
+    "trophy/Trophy Resources.md",
+    "trophy/jorando/sets/Whispering Marshes/wm-assets/wm-c-will-o-wisp-green.png",
+    "trophy/jorando/sets/Whispering Marshes/wm-assets/wm-c-huskspinner.png",
+    "trophy/jorando/sets/Whispering Marshes/wm-assets/Drowned King-pixel-simple.png",
+    "trophy/jorando/sets/Whispering Marshes/wm-assets/Drowned King-pixel-24bit-no-sword.webp",
+    "Alaric & Liorna.md",
+    "brindlewood bay/Session Notes.md",
+    "brindlewood bay/Campaign Notes & Clues.md",
     "trophy/jorando/Shattered Legion Halberd.md",
     "trophy/jorando/Lorain.md",
     "trophy/jorando/Rhaskor.md",
@@ -184,33 +229,14 @@
     "trophy/jorando/sets/Ruined Church/assets/rc-i-saints-finger.png",
     "trophy/jorando/sets/Ruined Church/assets/rc-i-saints-finger-bone.png",
     "trophy/jorando/sets/Ruined Church/assets/rc-i-stained-glass.png",
-    "trophy/jorando/sets/Evershade/The Last Pilgrim.md",
-    "trophy/jorando/Unsorted Items.md",
-    "trophy/jorando/sets/Ruined Church/Twisted Branch.md",
-    "trophy/jorando/sets/Ruined Church/Stained Glass Shard.md",
-    "trophy/jorando/sets/Ruined Church/Cracked Relic of the Hollowed Saints.md",
-    "trophy/jorando/sets/Ruined Church/Saint’s Fingerbone.md",
-    "trophy/jorando/sets/Ruined Church/Cursed Hollowed Saints.md",
-    "trophy/index.md",
-    "trophy/jorando/sets/Weeping Well/Wailbound Drowned.md",
-    "trophy/jorando/sets/Ruined Church/Sacrificial Dagger of the Fallen Priests.md",
-    "Sacrificial Dagger of the Fallen Priests.md",
     "trophy/jorando/sets/Ruined Church/assets/hc-i-dagger.png",
-    "trophy/jorando/sets/Ruined Church/assets/hc-hollowed-saints.png",
     "trophy/jorando/sets/Ruined Church/assets",
     "trophy/jorando/sets/Ruined Church/Untitled",
-    "Cursed Hollowed Saints.md",
-    "trophy/jorando/sets/Ruined Church/set_ruined_church.md",
-    "trophy/You Died.png",
-    "trophy/jorando/sets/Lake of Tears/ferry-of-bones.png",
-    "trophy/jorando/sets/Lake of Tears/lake-intro.png",
     "_site/trophy/jorando/sets/Whispering Marshes/items/Venomous Dart/index.html",
     "_site/trophy/jorando/sets/Whispering Marshes/items/Venomous Dart",
     "_site/trophy/jorando/sets/Whispering Marshes/items/Waterlogged Journal/index.html",
     "_site/trophy/jorando/sets/Whispering Marshes/items/Waterlogged Journal",
     "_site/trophy/jorando/sets/Whispering Marshes/items/Tears of Lacrimara/index.html",
-    "_site/trophy/jorando/sets/Whispering Marshes/items/Tears of Lacrimara",
-    "_site/trophy/jorando/sets/Whispering Marshes/items/Tear-Stained Chalice/index.html",
     "trophy/jorando/Untitled.canvas"
   ]
 }
