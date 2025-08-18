@@ -1,0 +1,7 @@
+![[LICicLRQ0WTEsZVRtqesWFV9RY%3D.webp]]
+
+- Mysterious Waters: The water's surface unnaturally still, with no apparent source. The lake reflects distorted images of the surface (often said to be portents of your future), and seems to ripple in response to unseen movements deep below.
+ 
+- Legends of the Lake: Legends about the lake abound among the scholars and students. Some believe it to be a portal to other dimensions or realms, while others claim that creatures or entities dwell beneath its dark waters. On rare occasions, people have gone missing near the lake, their fates are reflected in the waters, if you know how to see them.
+
+- Connection to the Cosmic God: This is a Lake in the middle of a Batholith that is likely the skeleton of an ancient Cosmic God. Do something with that. Maybe its the heart of the God, the water being blood/lifeforce. That's why it has such "purity" is valuable to the communities. It heals and has other properties. Initially this was shared altruistically, but later controlled, and later still deemed to be dangerous and volatile. It may aid with the portals. It may be the origin of the [[Art of Memory]]. 

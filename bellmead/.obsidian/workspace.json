@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "f29f144d4c3541b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "64bef55bce5e3968",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "868a4ee7ea2945fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "trophy/jorando/Alaric and Liorna.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alaric and Liorna"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "918db6cfd0c088e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "343ad2652b2ec7b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1020c829f87cd758",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ac01d037b6477f6c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "aadc19ffe77cabb3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 322.5
+  },
+  "right": {
+    "id": "ef0b2bfbf514f2a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f94d6652bdb8b8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d781cc46d526bcb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "bellmead/Eras/02 Anweald/Anweald.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Anweald"
+            }
+          },
+          {
+            "id": "81ddc91f26eee11a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "bellmead/Eras/02 Anweald/Anweald.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Anweald"
+            }
+          },
+          {
+            "id": "a18f1b2c297c439d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5a5421292d6acf58",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "bellmead/Eras/02 Anweald/Anweald.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Anweald"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1020c829f87cd758",
+  "lastOpenFiles": [
+    "Alaric & Liorna.md",
+    "trophy/jorando/Alaric and Liorna.md",
+    "trophy/jorando/The Rite of Reclamation.md",
+    "brindlewood bay/Session Notes.md",
+    "trophy/jorando/All Items.md",
+    "brindlewood bay/Campaign Notes & Clues.md",
+    "trophy/jorando/Father Lorian.md",
+    "trophy/jorando/The Hollowed Saint.md",
+    "trophy/jorando/Shattered Legion Halberd.md",
+    "trophy/jorando/Lorain.md",
+    "trophy/jorando/Rhaskor.md",
+    "trophy/jorando/Kalduhr.md",
+    "trophy/jorando/sets/Cistern/set_cistern.md",
+    "trophy/jorando/sets/Cistern/assets",
+    "trophy/jorando/sets/Ruined Church/assets/rc-i-saints-finger-whack.png",
+    "trophy/jorando/sets/Ruined Church/assets/rc-i-twisted-branch.png",
+    "trophy/jorando/sets/Ruined Church/assets/rc-i-saints-finger.png",
+    "trophy/jorando/sets/Ruined Church/assets/rc-i-saints-finger-bone.png",
+    "trophy/jorando/sets/Ruined Church/assets/rc-i-stained-glass.png",
+    "trophy/jorando/sets/Evershade/The Last Pilgrim.md",
+    "trophy/jorando/Unsorted Items.md",
+    "trophy/jorando/sets/Ruined Church/Twisted Branch.md",
+    "trophy/jorando/sets/Ruined Church/Stained Glass Shard.md",
+    "trophy/jorando/sets/Ruined Church/Cracked Relic of the Hollowed Saints.md",
+    "trophy/jorando/sets/Ruined Church/Saint’s Fingerbone.md",
+    "trophy/jorando/sets/Ruined Church/Cursed Hollowed Saints.md",
+    "trophy/index.md",
+    "trophy/jorando/sets/Weeping Well/Wailbound Drowned.md",
+    "trophy/jorando/sets/Ruined Church/Sacrificial Dagger of the Fallen Priests.md",
+    "Sacrificial Dagger of the Fallen Priests.md",
+    "trophy/jorando/sets/Ruined Church/assets/hc-i-dagger.png",
+    "trophy/jorando/sets/Ruined Church/assets/hc-hollowed-saints.png",
+    "trophy/jorando/sets/Ruined Church/assets",
+    "trophy/jorando/sets/Ruined Church/Untitled",
+    "Cursed Hollowed Saints.md",
+    "trophy/jorando/sets/Ruined Church/set_ruined_church.md",
+    "trophy/You Died.png",
+    "trophy/jorando/sets/Lake of Tears/ferry-of-bones.png",
+    "trophy/jorando/sets/Lake of Tears/lake-intro.png",
+    "_site/trophy/jorando/sets/Whispering Marshes/items/Venomous Dart/index.html",
+    "_site/trophy/jorando/sets/Whispering Marshes/items/Venomous Dart",
+    "_site/trophy/jorando/sets/Whispering Marshes/items/Waterlogged Journal/index.html",
+    "_site/trophy/jorando/sets/Whispering Marshes/items/Waterlogged Journal",
+    "_site/trophy/jorando/sets/Whispering Marshes/items/Tears of Lacrimara/index.html",
+    "_site/trophy/jorando/sets/Whispering Marshes/items/Tears of Lacrimara",
+    "_site/trophy/jorando/sets/Whispering Marshes/items/Tear-Stained Chalice/index.html",
+    "trophy/jorando/Untitled.canvas"
+  ]
+}
