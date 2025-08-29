@@ -22,16 +22,16 @@ Reveals the location of a hidden compartment beneath the Bell Tower. The compart
 
 ---
 
-### 🔗 Suggested Structure
+### Flow
 
-- The **Faded Love Letter** leads players to the **Silver Locket**, acting as a key or trigger object for a larger ritual or memory mechanic.
+- The **Faded Love Letter** leads players to the **Silver Locket**, acting as a key to trigger [[The Bell Tower]] room with the [[The Rite of Reclamation]]
     
 - The **Locket** grants spiritual resistance and may allow players to see glimpses of what happened at the Reclamation site.
     
 - The letter also establishes a **personal** emotional anchor between **Alaric and Liora**, grounding the larger mystery of the Reclamation in human loss and love.
     
 
-Would you like me to card the letter (and later the locket) in a narrative-focused format? Or would you prefer this shown via an in-world document visual first?
+
 
 old:
 A letter written by a villager to a lost loved one. Reading it fills the reader with sorrow but reveals a hidden location within the village.

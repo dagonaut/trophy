@@ -112,7 +112,7 @@ A multi-set restoration mechanic intended to reverse the corruption of Jorando a
 
 ---
 
-> 🔹 This document should be cross-referenced with:
+Cross Reference
 - **Weeping Well** (Threshold, Names, Hope Tokens)
 - **The Ruined Church** (Saint’s Ledger, Choir Hymns)
 - **The Cistern** (Vial, Waters, Corrupted Saints)
