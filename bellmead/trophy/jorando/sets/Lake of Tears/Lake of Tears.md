@@ -1,5 +1,4 @@
-![[lake-intro.png|400]]
-
+![[lake-intro.png|400]]  
 The Lake of Tears, once known as **Lacrimara** or the **Lake of Lament**, is a vast, still body of water whose surface reflects not only the sky but the deepest sorrows of any who gaze upon it. Pilgrims once journeyed here to cast away grief, believing the lake would grant them peace. Instead, their tears bound them to its depths, and over centuries the water absorbed their anguish and became a sentient mirror of despair.
 
 ### **Goals**
@@ -21,43 +20,29 @@ The Lake of Tears, once known as **Lacrimara** or the **Lake of Lament**, is a v
 - A whisper carried on the breeze echoes the name of someone you’ve lost.    
 - The water’s surface ripples, showing not your reflection but a past memory.    
 - A lone lantern drifts across the lake, its glow revealing submerged shapes.    
-- On a moonless night, the lake shimmers with an inner light, as though lit from below. 
+- On a moonless night, the lake shimmers with an inner light, as though lit from below.  
+- **Perpetual Dusk:** Even at high noon, the horizon remains muted—colors drain into greys.    
+- **Echoing Whispers:** The lake’s name carried on the wind, always just out of vocal range.    
+- **Weight of Grief:** Characters feel physically heavier with each step toward the water’s edge.   
+- **Tearshell Mollusk**: A pale shellfish whose pearls are said to hold condensed grief—harvesting one inflicts a moment of overwhelming sadness.    
+- **Sorrow Lily**: A black-petaled flower that blooms on stones at the lake’s edge. Its scent soothes Ruin but risks luring spirits.    
 
 ### **Locations / Traps / Opportunities**
 - **Submerged Altar**  
     Beneath the lake lies a broken altar to an unnamed deity. Removing a relic may calm the lake’s wrath—or provoke it.
 * **Island of Broken Vows**: 
 	* Challenge room (island)
-	* Location for over-arching reclamation ritual
+	* Location for over-arching reclamation ritual?
+	* Opportunity for an Echo
 
 ### **Baddies & Hazards**
-
 * **Gravemare Shades**
 	Ghostly figures that emerge from the water, their outstretched hands dragging victims beneath.    
 - **Sorrow Eddies**  
-    Sudden whirlpools of grief-laden water that pull characters under unless they succeed on a Willpower check.    
+    Sudden whirlpools of grief-laden water that pull characters under
 - **Hollowed Fish**  
-    Schooling fish whose scales mirror the faces of the damned; approaching them invites haunting visions.
+    Fish whose scales reflect the faces of the damned; approaching them invites haunting visions.
 
-### **Unique Flora & Fauna**
-
-- **Tearshell Mollusk**  
-    A pale shellfish whose pearls are said to hold condensed grief—harvesting one inflicts a moment of overwhelming sadness.    
-- **Sorrow Lily**  
-    A black-petaled flower that blooms on stones at the lake’s edge. Its scent soothes Ruin but risks luring spirits.    
-- **Reflection Eel**  
-    Slender eels that slither over submerged objects, revealing hidden runes when touched.
-    
-
----
-
-### **Atmospheric Effects**
-
-- **Perpetual Dusk:** Even at high noon, the horizon remains muted—colors drain into greys.    
-- **Echoing Whispers:** The lake’s name carried on the wind, always just out of vocal range.    
-- **Weight of Grief:** Characters feel physically heavier with each step toward the water’s edge.    
-
----
 
 ### **Mysteries & Lore**
 
@@ -76,8 +61,7 @@ The Lake of Tears, once known as **Lacrimara** or the **Lake of Lament**, is a v
 
 ### **Way Forward**
 
-- **Ferry of Bones:** A spectral boat arrives at dusk, unmanned but always ready to cross.
-    
-- **Rite of the True Tear:** Perform a genuine confession at the Mirror Pool to part the waters and reveal the Submerged Altar.
-    
-- **Blood Moon Passage:** Only under a red moon does the Island of Broken Vows become accessible—prepare for a night of reckoning.
+- **Ferry of Bones:** A spectral boat arrives at dusk, unmanned but always ready to cross.      
+- **(optional) Blood Moon Passage:** Under a red moon the Island of Broken Vows become accessible—prepare for a night of reckoning.
+
+![[ferry-of-bones.png|400]]

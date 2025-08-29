@@ -1,5 +1,5 @@
 
-The church stands alone on a shrinking island, barely large enough to support its crumbling foundations. Once a grand structure surrounded by gardens and shrines, it now teeters on the brink of collapse, the lake having slowly claimed the land over centuries. No one remembers when the waters began to rise, only that they did so after the saints ceased their vigil. The Lake of Tears, once sacred, has become tainted, its surface reflecting not light but loss.
+The church stands alone on a shrinking island, barely large enough to support its crumbling foundations. Once a grand structure surrounded by gardens and shrines, it now teeters on the brink of collapse, the lake having slowly claimed the land over centuries. No one remembers when the waters began to rise, only that they did so after the saints ceased their vigil. [[Lake of Tears]], once sacred, has become tainted, its surface reflecting not light but loss.
 
 Inside, decay reigns. The Hollowed Saints who once absolved grief now guard their reliquary with cursed fervor. Their faith twisted by despair, they remain bound to the church and its crypt. The Weeping Well beneath, fed by underground springs and sorrow, connects to the Cistern, and carries with it whispers of the church's final days.
 
@@ -72,15 +72,6 @@ Inside, decay reigns. The Hollowed Saints who once absolved grief now guard thei
 
 ### Boss: 
 #### [[Cursed Hollowed Saints]]
-
-- **Description**: Once devoted priests, the saints hollowed themselves to bear the sorrows of others. Now, they are husks of faith, twisted by the curse, bound in rusted vestments and ancient grief.
-- **Abilities**:
-  - Devour Hope: Strip a memory of joy from a character.
-  - Bound Devotion: Immune to harm unless a relic is used.
-  - Unending Vigil: Resurrect once unless their hymn is sung.
-- **Weaknesses**:
-  - Can be calmed with the Choir’s Hymn.
-  - Vulnerable to the Sacrificial Dagger during rites.
 - GM NOTE/Paul Note:
   - Maybe run this like the boss of the Sunken Church in DS3, a mob with a spirit the moves into other "Deacons" 
 
@@ -91,7 +82,7 @@ Inside, decay reigns. The Hollowed Saints who once absolved grief now guard thei
 1. **[[Saint’s Fingerbone]]**
 2. **[[Twisted Branch]]**
 3. **[[Cracked Relic of the Hollowed Saints]]**
-4. **[[Sacrificial Dagger of the Fallen Priests]]**
+4. **[[Sacrificial Dagger]]**
 5. **[[Stained Glass Shard]]**
 6. Ring of Some Kind
 7. Key of some kind
@@ -115,6 +106,6 @@ Inside, decay reigns. The Hollowed Saints who once absolved grief now guard thei
 ### Way Forward
 
 - **To the Cistern** via spiral stairs hidden in the crypt.
-- **Back to the Lake** via collapsed causeway.
+- **To the Lake** via collapsed causeway.
 - **Subversion**: Return a lost relic to the reliquary to pass without conflict.
 

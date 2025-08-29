@@ -39,7 +39,7 @@
 [[Saint’s Fingerbone]]
 [[Twisted Branch]]
 [[Cracked Relic of the Hollowed Saints]]
-[[Sacrificial Dagger of the Fallen Priests]]
+[[Sacrificial Dagger]]
 [[Stained Glass Shard]]
 
 Categorize.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trophy/jorando/The Rite of Reclamation.md",
+                "file": "trophy/jorando/sets/Cistern/The Cistern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Rite of Reclamation"
+              "title": "The Cistern"
             }
           }
         ]
@@ -166,8 +166,20 @@
   },
   "active": "7c15ed848ab38e07",
   "lastOpenFiles": [
-    "bellmead/Art of Memory.md",
+    "trophy/jorando/sets/Cistern/cistern lore.md",
+    "trophy/jorando/sets/Lake of Tears/Lake of Tears.md",
+    "trophy/jorando/sets/Lake of Tears/ferry-of-bones.png",
+    "trophy/jorando/sets/Ruined Church/Church of the Hollowed Saints.md",
+    "trophy/jorando/sets/Ruined Church/Sacrificial Dagger.md",
+    "trophy/jorando/sets/Ruined Church/Cursed Hollowed Saints.md",
+    "trophy/jorando/sets/Ruined Church/Saint’s Fingerbone.md",
+    "trophy/jorando/sets/Ruined Church/assets/rc-i-saints-finger.png",
+    "trophy/jorando/sets/Ruined Church/assets/rc-i-saints-finger-whack.png",
+    "trophy/jorando/sets/Ruined Church/assets/rc-i-saints-finger-bone.png",
+    "trophy/jorando/sets/Ruined Church/Twisted Branch.md",
+    "trophy/jorando/sets/Ruined Church/Stained Glass Shard.md",
     "trophy/jorando/The Rite of Reclamation.md",
+    "bellmead/Art of Memory.md",
     "trophy/jorando/The Shattered Legion.md",
     "trophy/jorando/Unsorted Ideas.md",
     "trophy/jorando/Unsorted Items.md",
@@ -186,23 +198,11 @@
     "trophy/jorando/sets/Weeping Well/set_the_weeping_well_v1.md",
     "trophy/jorando/the_rite_of_reclamation.md",
     "trophy/jorando/sets/Whispering Marshes/items/Faded Love Letter.md",
-    "trophy/jorando/sets/Ruined Church/Church of the Hollowed Saints.md",
     "trophy/jorando/sets/Ruined Church/Cracked Relic of the Hollowed Saints.md",
-    "trophy/jorando/sets/Ruined Church/Cursed Hollowed Saints.md",
     "trophy/jorando/sets/Ruined Church/Living Coffer.md",
-    "trophy/jorando/sets/Ruined Church/Sacrificial Dagger of the Fallen Priests.md",
-    "trophy/jorando/sets/Ruined Church/Saint’s Fingerbone.md",
     "trophy/jorando/sets/Weeping Well/ww-weeping-shade.webp",
-    "trophy/jorando/sets/Ruined Church/Stained Glass Shard.md",
     "trophy/jorando/sets/Whispering Marshes/Whispering Marshes.md",
     "trophy/jorando/sets/Whispering Marshes/The Silt Circle.md",
-    "trophy/jorando/sets/Whispering Marshes/The Mourning Stones.md",
-    "trophy/jorando/sets/Whispering Marshes/The Shrouded Path.md",
-    "trophy/jorando/images/item-crown-of-the-drowned-king.png",
-    "trophy/jorando/sets/Whispering Marshes/wm-weeping-shade.webp",
-    "trophy/jorando/sets/Whispering Marshes/The Bog Heart.md",
-    "trophy/jorando/sets/Whispering Marshes/wm-assets/wm-shrouded path (with stones).webp",
-    "trophy/jorando/sets/Whispering Marshes/wm-assets/wm-ritual site-mausoleum.webp",
     "trophy/jorando/images",
     "trophy/Trophy-Gold-Reference-Sheet.pdf",
     "trophy/jorando/items",

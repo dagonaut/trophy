@@ -1,12 +1,8 @@
 
 _The Cistern is a place of dangerous reverence. Its waters remember everything. Its silence is never empty._
 
-
 Beneath the split flagstones of the Ruined Church lies the cistern: a once-holy reservoir now drowned in sanctified corruption. Pilgrims once descended these dripping stairs to draw water blessed by the Hollowed Saints, believing it could soothe grief and scour sickness. But the Lake of Tears seeped into its foundations, and the saints—desperate, faithful, frightened—blended sacred rites with the lake’s sorrow. The water grew heavy and still. It began to mirror regret more readily than faces, and the stone learned to listen. Now the cistern reflects not grace but grief. The chambers hum with low hymns that have forgotten their words. Bones kneel in prayer that never ends. Every ripple carries a memory, whether you want it or not. The cistern does not forgive; it keeps.
-
----
-
-## Goal
+### Goal
 
 - Explore the cistern to uncover remnants of sacred rites.    
 - Withstand its emotional and spiritual corruption.    
@@ -14,10 +10,7 @@ Beneath the split flagstones of the Ruined Church lies the cistern: a once-holy 
 - **Objective:** Reach the depths of the cistern and cleanse or claim its heart.    
 - **Discover:** What became of the final saints who performed the forbidden rites.    
 - **Complication:** Any who touch the water risk the slow onset of the Hollowing Curse.    
-
----
-
-## Moments
+### Moments
 
 - A ripple in the water mirrors your past, not your reflection.    
 - A soft chant echoes as if from inside the walls.    
@@ -27,9 +20,7 @@ Beneath the split flagstones of the Ruined Church lies the cistern: a once-holy 
 - A ripple moves opposite to your step.    
 - A broken mask floats on the surface of the cistern.    
 
----
-
-## Questions
+### Questions
 
 - What memory returns to you when you see your reflection here?    
 - What part of you feels at home in the sorrow?    
@@ -38,22 +29,7 @@ Beneath the split flagstones of the Ruined Church lies the cistern: a once-holy 
 - Who among you carries a vial of the church’s water from before it was corrupted?    
 - What vision of grief seizes you when you hear the water stir?    
 
----
-
-## The Hollowing Curse (Set Rule)
-
-**Three tiers of exposure:**
-
-- **Touch (scene):** Skin contact or splashes mark **Hollowing (Touch)**. Until the scene ends, roll with disadvantage to resist despair/echo effects. Cleansed by intact salt circles, the Mitre (while active), or a true confession at the Altar.
-    
-- **Drink (delve):** A measured draught grants its listed boon **and** you gain **1 Burden: Thirst for Lament**. While marked, the first failed resistance each scene also erases a pleasant memory (returns when cleansed). Cleanse at the Altar (purify path) or by using a **Coin of Release**.
-    
-- **Immerse (persistent):** Submersion marks **Hollowing (Major)**. Each time you speak your name, weep, or take a Ruin/Wear die here, advance a 3‑tick **Hollowing clock**. At 3 ticks, you draw the Wailbound or briefly take on their traits (GM move) until someone steadies you. Only the Lake’s rite or an exorcism using a **Dry Reliquary Shard** removes it.
-    
-
----
-
-## Locations / Events
+### Locations / Events
 
 ### 1) The Overflow Tunnel
 
@@ -237,7 +213,7 @@ The resting place of the final saints. Bones carefully arranged in prayer.
 
 ---
 
-## Items (10–12)
+### Items
 
 1. **Hollowed Relic**  
     _Description:_ A small, twisted idol that seems to drink sound.  
@@ -315,32 +291,7 @@ The resting place of the final saints. Bones carefully arranged in prayer.
 
 ## Way Forward
 
-- **Upward** to the Crypt via the spiral stair.
-    
-- **To the Church** through a sealed passage opened by the Sorrowbound Key.
-    
-- **To the Lake** via a flooded causeway revealed at low tide.
-    
-- **Downward** toward the bedrock roots and the lake’s source.
-    
+- **Upward** to the Crypt via the spiral stair.      
+- **To the Church** through a sealed passage opened by the Sorrowbound Key.      
+- **To the Lake** via a flooded causeway revealed at low tide.      
 - **Subversion:** Let a single character take the grief of all, allowing others to pass unscathed—at permanent cost.
-    
-
----
-
-## Image Asset Notes (for art pipeline)
-
-- **Landscape (1792×1024):** “cistern-heart-pool.png” — broad chamber, still black water, broken mask afloat, salt glyphs, low candles.
-    
-- **Character (1024×1024):** “character-weeping-echo.png” — humanoid silhouette stitched from tears, faces flickering.
-    
-- **Characters (1024×1024):** “character-wailbound-acolyte.png”; “character-sorrow-eel-swarm.png”; “character-bone-rat.png”.
-    
-- **Objects (1024×1024):** “object-mitre-weeping-saint.png”; “object-sorrowblade.png”; “object-fragment-lacrimara.png”; “object-fragment-weeping-well.png”; “object-dry-reliquary-shard.png”; “object-valve-wheel-talisman.png”.
-    
-
----
-
-## Cross-Links
-
-- Arrives from **Weeping Well / Hidden Tunnel** and **Ruined Church**; thematic ties to **Lake of Tears**.
