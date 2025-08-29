@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trophy/jorando/sets/Cistern/The Cistern.md",
+                "file": "trophy/jorando/sets/Cistern/The Weeping Echo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Cistern"
+              "title": "The Weeping Echo"
             }
           }
         ]
@@ -184,10 +184,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c15ed848ab38e07",
+  "active": "1020c829f87cd758",
   "lastOpenFiles": [
-    "The Weeping Echo.md",
     "trophy/jorando/sets/Cistern/The Cistern.md",
+    "trophy/jorando/sets/Cistern/The Weeping Echo.md",
     "trophy/jorando/sets/Weeping Well/ww-weeping-shade.webp",
     "trophy/jorando/sets/Weeping Well/Weeping Well.md",
     "trophy/jorando/sets/Cistern/cistern lore.md",
