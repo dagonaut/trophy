@@ -225,4 +225,33 @@ Hy, Tilly, & Ernie go to speak with Prof. about the whaling history specifically
 Hammer says: delivers a Hard Times promo.
 Sounds like Hammer is a bit of a dummy. 
 
+---
+2025-08-19
+Earth Shaker was electrocuted.
 
+Grape Abe
+Alister Abercombie
+Sophia Zaibotski - promoter
+
+Powerslap 
+
+smells of brine and incense
+
+We just found Mother Hawthorne from Christmas game in a secret passage
+You midwived the truth but whose child is really coming?
+
+Bonus scene:
+Habor Master  Issaiah Langmore pulls a net with a dagon in it. The Tide comes in soon.
+
+---
+2025-08-26
+
+House exposition: Mrs. Carfax tells us that the house has been dormant for a long time. The Cole's purchased it. It goes way back to Stockton.
+
+Hazel saved Latisha (f'd the scenario) we're now tracking her attempted murder.
+
+Carfax was a badass, there's a dope picture of her hanging out the window with a gun.
+
+Small Town Big Crime. 
+
+Laura is excited to hear from the Mavens. 

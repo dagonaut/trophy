@@ -197,22 +197,48 @@ Released from Gauntlet League Wrestling for his 3rd Wellness violation he's retu
 Ulix Sandow - Hazel's nephew (Mythic Hammer, Philosoplex)
 Hammer Hartigan
 Earthshaker - Clayton Barbosa (The Ungovernable)
-The Peacock
+The Peacock-Has cans on Rose
 Star Swinger--Detective Sam Cooper!
 Mister Proper-Algernon P Willoby Smithe
 
 ##### Clues:
 * A revolver with one of his signature red hairs.  (gun was in his shorts)
-* Slam Chowder
+* Slam Chowder --handbills for a show
 * VOID: Wrestling figure with a knot of red hair around its throat
-* Gauntlet League Wrestling scouting reports in the victim's hand
-* VOID: a wrestler wears a crimson mask
+* Gauntlet League Wrestling scouting reports in the victim's handwriting
+* VOID: a wrestler wears a crimson mask (blood)
 * A kid found some pictures, they were compromising. 
 * Barbosa's keys in a suspect's bag
 * Pregnancy test in the RV
 * Appraisal for the Championship belt
 * Medications and stuff
-* 
+* VOID: crowd chanting (purple eyeless wow)
+* Book of knots
+* VOID: life struggles with dead
+* VOID: severed leg
+
+---
+### Tea Time (7)
+
+Latisha - Tilly's friend
+Eva Cole - proprietor
+Phoenix Cole - male proprietor
+Sam Cooper - is here and baking
+Percy Underwood - waiter/bellhop/whatever... the employee, cosplayer (sherlock holmes today)
+Mrs. Carfax - she's a permanent resident 
+Damien Swallow - property guy
+Laura Sanchez - crime podcaster
+Mr. Proper - is here.
+
+
+#### Clues:
+* photo of woman hanging out a window with a gun (Mrs. Carfax)
+* a mortar and pistil with nightshade and other poison
+* shorthand book LYTTON
+* VOID: purple on the beach -- Latisha has seen some weird shit; Laura Sanchez brought her here. Magic affair on beach. Purple fire. 
+* Whack ass scarecrow/dead body. 
+* Weird other passports for Eva & Phoenix
+
 
 
 

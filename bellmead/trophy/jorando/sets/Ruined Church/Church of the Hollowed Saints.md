@@ -67,6 +67,7 @@ Inside, decay reigns. The Hollowed Saints who once absolved grief now guard thei
   - **Secret Exit** behind a sarcophagus.
 
 ### Baddies:
+* [[Living Coffer]]
 * List of hazards
 
 ### Boss: 

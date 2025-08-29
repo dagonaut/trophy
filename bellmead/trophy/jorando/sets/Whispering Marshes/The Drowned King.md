@@ -21,4 +21,22 @@ _Once a noble ruler of Kalduhr, the Drowned King came to Jorando to atone for hi
 * <span style="color:rgb(0, 176, 80)">Weakness</span>: **Light of the Ancients** – The Drowned King is vulnerable to radiant or holy light. Players can find an ancient lantern in the Whispering Marshes that, when combined with the [[Priests Jaw Bone]] & lit, weakens his endurance by 4
 #### Treasures:
 - **Crown of the Drowned King (Helm)** – A rusted crown that grants the wearer resistance to poison and disease, but slowly drains their vitality.
+- ![[item-crown-of-the-drowned-king.png]]
+
+This tarnished, barnacle-crusted crown once adorned a noble ruler's brow. Its faint green glow whispers of both regal power and the crushing weight of eternal stewardship.
+
+_"To wear the crown is to bear the weight of every soul it protects--and fails."_
+_“To wear the weight of the crown is to bear the grief of all who drowned for your glory.”_
+
+Armor. Effect: Grants resistance to water based attacks, but slowly drains vitality.
+
+
 - **Sword of the Sunken Empire (Weapon)** – A heavy, two-handed sword with the power to summon waves of water with each swing. It deals extra damage to fire-based enemies.
+
+### **Sword of the Sunken Empire**
+
+_A heavy blade, its surface mottled with rust, barnacles, and salt-stained etchings. The hilt is wrapped in soaked leather, and each swing drips with the weight of the drowned past._
+
+> “The sea remembers every oath—and every betrayal.”
+
+**Weapon**: Delivers a cleaving water strike, +1 to 1 black die result. +1 to all black die results against fire-based enemies.

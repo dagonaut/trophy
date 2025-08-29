@@ -46,3 +46,9 @@ The once holy cistern has become a dark mirror to the Lake of Tears, its waters 
 ---
 
 The Hollowed Saints would have people weep into the waters, catch the water in the cistern and purify it, absolving people of their sins and guilt.
+
+
+
+The Corruption of the Lake didn't happen overnight, it was a slow process leading to several small eras of Jorando as it was falling into ruin.
+
+There's no one catalyst people can point to that led to the corruption. Most people point to the Sundering as being the starting point, but others would say it started long before then. Members of the Church, like Father Lorian believe it was always going to be this way and perhaps that was by design.

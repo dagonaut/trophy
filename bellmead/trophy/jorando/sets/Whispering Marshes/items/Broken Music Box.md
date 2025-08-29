@@ -2,6 +2,7 @@
 _A rusted, wind-up music box etched with a cracked heart inside its lid. The melody it plays is faint and uneven—like a memory trying to remember itself._
 
 _"It only plays when no one is listening. That’s when she hears it."_
+_"When the girl gave the box to Aelithia, she told her... it's so you won't be alone when you cry." _
 
 **Effect:**  
 Plays a sorrowful tune that soothes restless spirits. Use to abate the spirit in the [[Weeping Well]].

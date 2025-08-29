@@ -1,6 +1,9 @@
 
 ![[pilgrim-8-bit.webp|300]]
 
+![[ev-last-pilgrim-scythe.png|300]]  ![[ev-last-pilgrim-scythe-red.png|300]]
+
+
 **Description:**
 
 The Last Pilgrim is a gaunt, enigmatic figure who roams the desolate remnants of Evershade, driven by a singular, unwavering purpose. Clad in tattered, once-ceremonial robes that flutter in the wind, the Pilgrim’s face is obscured by a weathered hood and a metal mask resembling a weeping visage. Their hands are gloved and clutch a staff topped with an intricately carved symbol of a fallen star, a relic of forgotten rituals.
