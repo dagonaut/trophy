@@ -29,6 +29,10 @@
          <lastmod>2025-08-29</lastmod>
     </url>
     <url>
+         <loc>https://example.com/jorando/Intro/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
          <loc>https://example.com/jorando/Kalduhr/</loc>
          <lastmod>2025-08-29</lastmod>
     </url>
@@ -73,10 +77,6 @@
          <lastmod>2025-08-29</lastmod>
     </url>
     <url>
-         <loc>https://example.com/jorando/the_rite_of_reclamation/</loc>
-         <lastmod>2025-08-29</lastmod>
-    </url>
-    <url>
          <loc>https://example.com/jorando/items/Dust%20Covered%20Manuscript/</loc>
          <lastmod>2025-08-29</lastmod>
     </url>
@@ -94,10 +94,6 @@
     </url>
     <url>
          <loc>https://example.com/jorando/sets/Cistern/cistern%20lore/</loc>
-         <lastmod>2025-08-29</lastmod>
-    </url>
-    <url>
-         <loc>https://example.com/jorando/sets/Cistern/set_cistern/</loc>
          <lastmod>2025-08-29</lastmod>
     </url>
     <url>
@@ -145,10 +141,6 @@
          <lastmod>2025-08-29</lastmod>
     </url>
     <url>
-         <loc>https://example.com/jorando/sets/Evershade/evershade_v1/</loc>
-         <lastmod>2025-08-29</lastmod>
-    </url>
-    <url>
          <loc>https://example.com/jorando/sets/Evershade/items/Silver%20Locket%20of%20Eternal%20Vows/</loc>
          <lastmod>2025-08-29</lastmod>
     </url>
@@ -177,6 +169,10 @@
          <lastmod>2025-08-29</lastmod>
     </url>
     <url>
+         <loc>https://example.com/jorando/sets/Ruined%20Church/Living%20Coffer/</loc>
+         <lastmod>2025-08-29</lastmod>
+    </url>
+    <url>
          <loc>https://example.com/jorando/sets/Ruined%20Church/Sacrificial%20Dagger%20of%20the%20Fallen%20Priests/</loc>
          <lastmod>2025-08-29</lastmod>
     </url>
@@ -190,10 +186,6 @@
     </url>
     <url>
          <loc>https://example.com/jorando/sets/Ruined%20Church/Twisted%20Branch/</loc>
-         <lastmod>2025-08-29</lastmod>
-    </url>
-    <url>
-         <loc>https://example.com/jorando/sets/Ruined%20Church/set_ruined_church/</loc>
          <lastmod>2025-08-29</lastmod>
     </url>
     <url>
@@ -222,10 +214,6 @@
     </url>
     <url>
          <loc>https://example.com/jorando/sets/Weeping%20Well/Weeping%20Well/</loc>
-         <lastmod>2025-08-29</lastmod>
-    </url>
-    <url>
-         <loc>https://example.com/jorando/sets/Weeping%20Well/set_the_weeping_well_v1/</loc>
          <lastmod>2025-08-29</lastmod>
     </url>
     <url>
