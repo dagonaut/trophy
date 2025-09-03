@@ -3,7 +3,7 @@ _A yellowed piece of parchment folded many times over, the ink faded but still l
 
 **Contents:**
 
-> _My Dearest Liora,_
+> _My Dearest Liorna,_
 > 
 > The nights grow colder without you by my side, and the shadows in this cursed village grow longer with each passing day. I fear what they say about the lake, but my love for you burns brighter than any fear in my heart.
 > 
@@ -28,7 +28,7 @@ Reveals the location of a hidden compartment beneath the Bell Tower. The compart
     
 - The **Locket** grants spiritual resistance and may allow players to see glimpses of what happened at the Reclamation site.
     
-- The letter also establishes a **personal** emotional anchor between **Alaric and Liora**, grounding the larger mystery of the Reclamation in human loss and love.
+- The letter also establishes a **personal** emotional anchor between [[Alaric and Liorna]], grounding the larger mystery of the Reclamation in human loss and love.
     
 
 
@@ -42,7 +42,7 @@ Mechanic: Reveals the location of some cool shit and some lore.
 
 <span style="color:rgb(255, 0, 0)">Spout some lore</span>
 
-**My Dearest Liora,**
+**My Dearest Liorna,**
 
 The nights grow colder without you by my side, and the shadows in this cursed village grow longer with each passing day. I fear what they say about the lake, but my love for you burns brighter than any fear in my heart.
 

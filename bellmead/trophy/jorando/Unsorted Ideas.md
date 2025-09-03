@@ -12,4 +12,7 @@ Research in MD/Obsidian TAGS to help implement LORE links (maybe TOP MATTER), al
 
 A lot of the sorrow theme is “echos of someone you lost, voice of someone you lost…” What are some other ways to discuss/show/inflict sorrow outside of losing someone? Failure. Existential dread. Religious. Physical. Non-descript psychic pain.
 
-# MIMIC
+[[Living Coffer]]
+
+Reminder that time is not 
+

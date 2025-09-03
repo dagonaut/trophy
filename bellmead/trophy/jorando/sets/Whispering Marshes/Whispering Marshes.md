@@ -32,6 +32,8 @@ The Whispering Marshes are a vast expanse of mist-covered wetlands surrounding t
 - A Drowned King’s shadow passes overhead.  
 - A fetid bloom releases spores that force hallucinations.  
 
+### Weeping Shade Appearance
+
 ### Locations / Traps / Opportunities:
 
 ##### [[The Shrouded Path]]: 
@@ -100,9 +102,9 @@ NOTE: Prioritize Journal, Lantern, and Feyheart Blossum
 - A ghost weeps tears of joy, finally remembering their name (==or ask the players why==).
 
 ### Way Forward:
-Trade x Hunt Tokens:
-1 - Find the [[Priests Jaw Bone]]
-3 - Reveal the path to [[Evershade]] blocked by [[The Drowned King]]
+Trade x Hunt Tokens:  
+1 - Find the [[Priests Jaw Bone]]  
+3 - Reveal the path to [[Evershade]] blocked by [[The Drowned King]]  
 5 - **Subversion**: Sing to the fog—if the song is true, it parts and leads the way to [[Evershade]], bypassing [[The Drowned King]]
 
 **To [[Evershade]]**: The path solidifies underfoot for those who speak their sorrow aloud.

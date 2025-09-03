@@ -7,6 +7,7 @@ Create stories that we’re tracking down from the past and they preset Tears/Ec
  * Whomever was last in the [[The Murmuring Cell]] (Reps the Cistern, discovering the secret passage will allow for the finding of his Echo)
  * Someone in the Church - New Priest-who dis? (he was a link between the Church and Evershade). His echo could be found as early as WM
  
+[[List of Echoes & Souls]]
 
 Each area needs a story like this that can be used. They all have a puzzle/gimmick to put them to rest and get the echo.
 

@@ -36,5 +36,3 @@ The **Broken Music Box** once belonged to a child Aelitha comforted—a little g
 When Aelitha was imprisoned in the well, she would hum the tune in the darkness until her voice gave out. Even now, the faint melody carried by the music box stills her rage for a moment and reminds her of something she no longer fully understands: kindness.
 
 Aelitha hummed with 
-
----
