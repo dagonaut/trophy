@@ -11,7 +11,7 @@ When [[The Shattered Legion]] is first introduced ask them what they know about 
 
 _**“Jorando is a land where sorrow does not fade—it lingers, festers, and devours.”**_
 
-_The land of **Jorando** is drowned in sorrow. Once, pilgrims came here to weep their burdens into the **[[Lake of Tears]]**, leaving their burdens in the care of the Hollowed Saints. But grief lingers, and what was meant to heal has only festered. The saints hollowed themselves, and in their devotion became husks bound to grief and ruin._
+_The land of **Jorando** is drowned in sorrow. Once, **pilgrims** came here to weep their burdens into the **[[Lake of Tears]]**, leaving their burdens in the care of the Hollowed Saints. But grief lingers, and what was meant to heal has only festered. The saints hollowed themselves, and in their devotion became husks bound to grief and ruin._
 
 _The villages have crumbled. The bridges rot above black waters. The marshes whisper with voices that know your name. All around are remnants of faith twisted by despair: shrines that weep, bells that toll without a hand, graves that do not keep the dead still._
 

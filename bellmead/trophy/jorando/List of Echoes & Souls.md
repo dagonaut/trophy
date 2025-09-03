@@ -1,19 +1,23 @@
 
-Alaric - Devotion - Blue Ribbon
-Liorna - Longing - Locket
-Aelitha - Resentment - Mirror Shard
-Drowned King - Guilt - Fragment of Crown
+Alaric - Devotion - Blue Ribbon  
+Liorna - Longing - Locket  
+Aelitha - Resentment - Mirror Shard  
+Father Lorian - Duty - Bone  
+Drowned King - Guilt - Fragment of Crown  
+The Cursed Saints?  
+
 
 ### Alaric (The Last Pilgrim)
 **Echo of the Pilgrim’s Vow**
+![[echo-of-the-pilgrims-vow.png|300]]
+A tattered blue ribbon, frayed and stained with earth, once bound around Alaric’s wrist. Though faded, it still carries a faint shimmer, as if lit by the memory of devotion, and when touched, it quickens with another’s heartbeat. Alaric swore himself to Liorna with this ribbon as their bond, and when duty pulled him away to rebellion and loss, he carried it as his anchor, a vow he could not break. He walked until his feet bled, bore every burden placed upon him, and returned only to find her gone. Still he did not falter—he bound his life to her memory, to her protection even in death, carrying her presence like a lantern against the dark. His vow was his strength, his burden, and ultimately his cage.
 
-_A tattered scrap of ribbon, faded blue, bound around a fragment of worn wood from his scythe. The fabric feels warm to the touch, as though still carrying the weight of a promise once made._
+_"Alaric returned to find his lover gone, he wept in Lacrimara, the last pilgrim to do so, and then began his vigil."_
 
 _"For her, I walked until my feet bled. For her, I carried every sorrow. For her, I will not falter, even now."_
 _"For her, I went to war. For her, I killed an army. For her, I will continue to fight. For her, I will not falter, especially now."_
 
 **Effect:**
-
 - **Rite of Reclamation:** Burn the vow to shield another — transfer one Burden from an ally to yourself.      
 - **Invocation:** Once per delve, the Echo steadies the weak — an ally automatically succeeds on a Willpower check.      
 - **Transmutation:**      
@@ -22,11 +26,29 @@ _"For her, I went to war. For her, I killed an army. For her, I will continue to
 
 
 ### Liorna
+##### **Echo of the Silent Vigil**
+![[echo-of-the-silent-vigil.png|300]]
+A tattered blue ribbon, softer and finer than its twin, with strands of golden hair woven through its frayed ends. Liorna tied it in her hair the day Alaric left for rebellion, a token to match the one he bound around his wrist. Each night she climbed the Bell Tower and lit a lamp, beckoning a figure that never returned. She withered in her waiting, the ribbon clinging to her even as her body grew frail, until she was little more than a shadow holding fast to a hope long drowned. When she died, it fell from her hair and floated on the wind still searching for its twin. The ribbon remembers her vigil, her devotion turned to longing, and her longing turned to silence. 
+
+_"I lit the lamp each night, though no footsteps came to the door. Still, I waited."_
+
+##### **Echo of the Hollow Flame**
+![[echo-of-the-hollow-flame.png|300]]
+A small glass lantern, its frame blackened with soot, holds no flame — only a faint glow that stirs when grief is near. Each night Liorna carried it to the Bell Tower as a beacon for the one she loved, but no figure ever came. The flame guttered the night she died — her devotion burned to silence. Now, when held, the lantern flickers back to life, not with fire, but with the dim embers of a love unfulfilled.
+
+_"I lit the lamp each night, though no footsteps came to the door. Still, I waited."_
+
+Alt Text:
+_A small, glass lantern, its frame blackened with soot. Inside is no flame, only a faint glow that stirs when grief is near. It feels warm in the hand, but its light never reaches far, as though it were meant only for someone who never arrived._
+
+Each night, Liorna carried this lantern to the Bell Tower, lighting it as a beacon for the one she loved. Its smoke stained the stone, its glow became a fixture in the village, and still the figure she longed for never came. The flame guttered the night she died, but the lantern itself remains — not empty, but aching. It remembers her vigil, the long hours of waiting, the devotion that became longing, and the longing that burned itself away. Now, when held, the lantern flickers back to life, not with fire, but with the dim embers of a love unfulfilled.
+
+##### More notes
 If Alaric’s Echo is **Devotion**, then Liorna’s is **Longing** — an endless waiting that hollowed her out. She embodies a tragic stillness: the one who stayed, who waited, and who was consumed by her own hope turned to sorrow. 
 
 She cried into the Lake day after day waiting for him to return. Some say that her grief was so strong it was enough to corrupt the lake. 
 
-**Echo of the Pilgrim’s Longing**
+##### **Echo of the Pilgrim’s Longing**
 
 _A silver locket tarnished with age, inside a faded portrait of a woman gazing toward an unseen horizon. When opened, the air grows heavy, and for a moment it feels as though someone is waiting for you, just beyond reach._
 

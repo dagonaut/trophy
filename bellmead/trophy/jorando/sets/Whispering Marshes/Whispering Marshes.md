@@ -22,18 +22,16 @@ The Whispering Marshes are a vast expanse of mist-covered wetlands surrounding t
 - The fog is thick, reducing visibility to only a few feet, and the air is heavy with the scent of decay and stagnant water.    
 - The haunting whispers revealing cryptic hints about Jorando and its past. 
 	- <span style='color:red;'>what is revealed</span>❓
-- Note Found: _“The air grows thick with sorrow, heavier each day. The lake no longer reflects the light; it only swallows it whole. The whispers speak of a reckoning, of shadows creeping from the marshes, of saints no longer hallowed but truly hollow. The tears will drown more than just our hopes. May the gods have mercy on our souls.”_ -[[Father Lorian]]
+- Note Found: _“The air grows thick with sorrow, heavier each day. The lake no longer reflects the light; it only swallows it whole. Echoes speak of a reckoning, of shadows creeping from the marshes, of saints preferring to be hallowed than hollow. The tears will drown more than just our hopes. May the gods have mercy on your souls.”_ -[[Seer of the Well|Aelitha]]
 - The Wailing Spirit - an ethereal spirit stuck between worlds--it entices you, but to what end?  
 - You are wet all over. While chilly, the dampness is like humidity.  
 - A flower blooms as if watching the party pass.  
 - A corpse speaks a memory that belongs to someone in the group.  
-- The fog clears just enough to reveal a glimpse of a forgotten ruin, then closes again.  
-- The fog splits, revealing a drowned village beneath the water - a mirage or a prophecy?    
 - A Drowned King’s shadow passes overhead.  
 - A fetid bloom releases spores that force hallucinations.  
-
 ### Weeping Shade Appearance
-
+![[wm-weeping-shade.webp|200]] 
+Briefly the fog clears and you see a shade quietly weeping, it looks at you and stops, for just a moment. It appears to be about to speak when the fog returns and obscures it again.
 ### Locations / Traps / Opportunities:
 
 ##### [[The Shrouded Path]]: 
@@ -77,6 +75,9 @@ Deep in the marsh lies a stagnant pool where the whispering fog thickens. This i
 
 ### Boss:
 [[The Drowned King]] (Endurance 10) 
+
+### Echoes:
+* [[List of Echoes & Souls#Liorna|Liorna]] (it literally falls into your hand as if carried on the wind)
 
 ### Items/Treasures (d12)
 NOTE: Prioritize Journal, Lantern, and Feyheart Blossum  
