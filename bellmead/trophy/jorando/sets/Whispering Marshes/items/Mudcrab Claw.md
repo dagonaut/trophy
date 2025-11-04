@@ -5,4 +5,4 @@
 
 **Effect:** Negates damage from one attack without sacrifice.
 
-![[wm-item-ds-mudcrab-claw.png]]
+![[wm-i-ds-mudcrab-claw2.png|300]]

@@ -2,15 +2,15 @@
 
 *The Whispering Marshes sprawl with unnatural stillness, where the air is thick with fog and sorrow. Once a fertile expanse, the land now chokes on brackish water and creeping vines. The fog whispers secrets—some true, some unkind—feeding on the grief of any who linger. It is a place of transition, between the realms of the living and the dead, between memory and forgetting.*
 
-*Travelers avoid the marshes, claiming that those who enter often forget why they came—or who they were. Strange flowers bloom in silence, and the mud seems to suck at boots with a mind of its own. This is a place where sorrows echo. It is said the dead rise here not out of vengeance, but confusion, trying to finish lives long faded.*
+*Travelers avoid the marshes, claiming that those who enter often forget why they came—or who they are. Strange flowers bloom in silence, and the mud seems to suck at boots with a mind of its own. This is a place where sorrows echo. It is said the dead rise here not out of vengeance, but confusion, trying to finish lives long faded.*
+
+*This is the road to the village [[Evershade]], if you can find it.*
 
 The Whispering Marshes are a vast expanse of mist-covered wetlands surrounding the approach to [[Evershade]]. The ground is soft and treacherous, with twisted trees rising from the murky waters, their roots exposed like grasping fingers. The air is thick with fog and the distant sound of whispered voices, barely discernible and impossible to locate. These whispers seem to come from all directions, filling the players with a sense of unease and foreboding.
 
 ### Goals:
-- Navigate the treacherous path(s) to find The Abandoned Village: [[Evershade]]
-- Uncover hints of the deeper mysteries and sorrows that plague Jorando
-- Recover something lost—physically or emotionally.
-- Avoid being consumed by the whispering fog.
+- Find The Abandoned Village: [[Evershade]]
+- Discover the Echoes of the Past of Jorando
 
 ### Questions/Paint the Scene:
 * What sorrow brought you to the marshes?
@@ -36,6 +36,7 @@ Briefly the fog clears and you see a shade quietly weeping, it looks at you and 
 
 ##### [[The Shrouded Path]]: 
 A narrow, winding trail of firmer ground that leads through the marshes; the ostensible path to [[Evershade]]. It is lined with ancient, moss-covered stones, some of which bear strange symbols that glow faintly in the mist.  
+* Paint the scene
 * The Wailing Wisps: Ghostly, pale lights that float just above the marsh's surface, leading travelers off the Path, deeper into the marshes towards [[The Bog Heart]] and away from safety. Those who follow them find themselves lost in the fog, surrounded by the whispering voices of the marsh. **Usually a precursor to another are or [[Lantern Maw]]**.  
 * The Bog Heart, where you are led, is a good place to harvest [[Feyheart Blossom]].  
 

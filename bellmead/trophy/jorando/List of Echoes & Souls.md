@@ -1,11 +1,11 @@
 
-Alaric - Devotion - Blue Ribbon  
-Liorna - Longing - Locket  
-Aelitha - Resentment - Mirror Shard  
-Father Lorian - Duty - Bone  
-Drowned King - Guilt - Fragment of Crown  
-The Cursed Saints?  
-
+[[Alaric and Liorna|Alaric]] - Devotion - Blue Ribbon  
+[[Liorna]] - Longing - Locket  
+[[Seer of the Well|Aelitha]] - Resentment - Mirror Shard  
+[[Father Lorian]] - Duty - Bone  
+[[The Drowned King]] - Guilt - Fragment of Crown  
+[[Cursed Hollowed Saints]]
+[[The Weeping Echo]]
 
 ### Alaric (The Last Pilgrim)
 **Echo of the Pilgrim’s Vow**
@@ -27,8 +27,8 @@ _"For her, I went to war. For her, I killed an army. For her, I will continue to
 
 ### Liorna
 ##### **Echo of the Silent Vigil**
-![[echo-of-the-silent-vigil.png|300]]
-A tattered blue ribbon, softer and finer than its twin, with strands of golden hair woven through its frayed ends. Liorna tied it in her hair the day Alaric left for rebellion, a token to match the one he bound around his wrist. Each night she climbed the Bell Tower and lit a lamp, beckoning a figure that never returned. She withered in her waiting, the ribbon clinging to her even as her body grew frail, until she was little more than a shadow holding fast to a hope long drowned. When she died, it fell from her hair and floated on the wind still searching for its twin. The ribbon remembers her vigil, her devotion turned to longing, and her longing turned to silence. 
+![[wm-echo-card-liorna.png|300]]
+A tatter blue ribbon, soft and fine with strands of golden hair woven through its frayed ends. Liorna tied it in her hair the day Alaric left a token to match his own. As she stood vigil each night she grew frail until she was little more than a shadow. In death the ribbon fell from her hair and floated on the wind searching for its twin. The ribbon remembers her longing turned to silence.
 
 _"I lit the lamp each night, though no footsteps came to the door. Still, I waited."_
 
@@ -102,11 +102,12 @@ _"They called me mad. They sealed me away. I see them still, drowning in the end
 
 ### The Drowned King
 
-**Echo of the King’s Guilt**
+**Echo of a King’s Guilt**
+![[echo-of-a-kings-guilt.png|300]]
+A broken shard of the crown of The Drowned who King failed to protect his people when the floods came—whether through command or inaction, none can say. Their cries clung tighter than any crown, sinking him to a throne of silt and bone. Accusation given form, and his silence echoing still.
 
-_A fragment of his broken crown, heavy with salt and sorrow. The metal is warped, but when held it feels unbearably weighty—as though pressing down with the grief of a thousand drowned voices._
+_"I hear them still, asking why I didn't protect them."_
 
-_"I was their king… and I led them to the water. I hear them still, calling my name, asking why I did nothing."_
 
 **Effect:**
 

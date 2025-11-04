@@ -1,3 +1,25 @@
+## Risk
+Ask the team what could go wrong.
+Grab a light die for a skill
+Grab a light die for a Devil's Bargin
+Grab a dark die if you are willing to expose yourself to danger (Ritual requires a dark die)
+
+## Devil's Bargin
+You lose something/take on a complication/something whack happens, but it **has** to happen
+
+## Help
+How is the helper exposed to danger?
+Add a light die
+There has to be a DARK die in play. Ruin roll will apply to all involved.
+
+## Combat
+* Regular roll
+* Ranged
+* Rituals
+* Retreat
+* Risk rolls as combat
+* Risk rolls in combat/to augment combat
+
 ### RISK ROLL [[Trophy-Gold-Reference-Sheet.pdf|Chart]]
 
 When you attempt a risky task, say what you hope will happen and ask the GM and the other players what could possibly go wrong. Then gather 6-sided dice.
@@ -24,7 +46,6 @@ If you are unhappy with your roll and your highest die is a light die, you may a
 **THE FOREST'S RULE**
 
 When dark and light dice are tied, the dark die is considered the highest.
-
 
 ### DEVIL'S BARGAINS
 
@@ -53,3 +74,9 @@ They may include your light die's result when considering their overall success.
 You can only mark a maximum of 1 Ruin when helping on a roll. This is particularly relevant when a player re-rolls a Risk Roll. The helping player doesn't re-roll their light die. However, you still mark 1 Ruin if any re-rolled dice show the same number as your light die (provided you haven't marked 1 Ruin already due to this roll).
 
 More than one player may offer to help, in which case each player rolls their own light die. The helped player can incorporate all of the light dice into their own Risk Roll.
+
+### RITUALS
+Roll a RISK roll requiring a DARK die. 
+
+### RUIN
+Is your black die is **greater** than your RUIN, take RUIN

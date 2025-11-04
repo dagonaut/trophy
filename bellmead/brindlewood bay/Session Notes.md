@@ -255,3 +255,65 @@ Carfax was a badass, there's a dope picture of her hanging out the window with a
 Small Town Big Crime. 
 
 Laura is excited to hear from the Mavens. 
+
+Abraham Stockton is coming across a field to see Haz, Hy, & Nellie.
+
+Cave smell, incense. 
+
+Cat goes out and comes back with the blue print
+
+We head into the cave... find alter
+
+There is a network of caves... we find our way to the beach. We find the wreckage of the U-Boat.
+
+We get into the secret cult nook and Percy finds us immediately. 
+
+---
+Everything is turning to blood. Making wine, changing the oil in the car, making dinner. 
+
+What is the goal of the Cult? Where are they trying to do it? How do we thwart them?
+
+We meet with Sam Cooper and she's an ally. She's actually with the FBI on a special taskforce. Sam wants to get close to the lunch club. 
+
+June Willoby - related to Hale Willoby.
+She whack and is acting strange. Something is off.
+
+Melanie Blair - is in the booth. 
+
+The phone rings... it is evidence, and we need to turn it in. We think it may not have been the police.
+
+Factions?
+
+We go to the Maritime Research Department to look at the mystery box. What's in the box? Mask and robes of the midwives.
+
+Hippie commune shows up... shit goes down. This was on the Stockton land.
+
+George Maplethorpe disappeared and was never recovered.
+
+Bricked up room.
+
+---
+
+We're looking for 2424 Shady Lane and stop and ask Timothy Boosh for directions that he gives us in strange slang.
+
+2424 Shady Lane is the abandoned Cannery. The place is unnaturally shady. 
+
+If you want to stop them, you must pay the price. 
+
+Hazel gets a natural 12 investigating the machinery in the Cannery
+There is a lamp on in the office and there are some papers. 
+
+The calling from below, can hear it more and more each day. It wants me to join them.
+
+We may actually be in the stockton farm.
+
+We head to the u-boat bulk head so Nellie can put her hand up to the eye amongst the glyphs. 
+
+---
+
+Tilly's square burger is gay Krystal
+
+Up high view looking down near water's edge is a stone bowl.
+
+We burn down the lunch club
+

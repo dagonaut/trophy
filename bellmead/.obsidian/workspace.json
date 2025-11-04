@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "c9a98a53afcb4f96",
+        "id": "45bbeb71c7896f7e",
         "type": "tabs",
         "children": [
           {
-            "id": "7c15ed848ab38e07",
+            "id": "88e9bb880dd79a80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trophy/jorando/List of Echoes & Souls.md",
+                "file": "trophy/Trophy Resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "List of Echoes & Souls"
+              "title": "Trophy Resources"
+            }
+          },
+          {
+            "id": "d77a4800d3390a96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mx/story notes/PROD-6068-Randomized-Email.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PROD-6068-Randomized-Email"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ribbon",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.5
+    "width": 483.5
   },
   "right": {
     "id": "ef0b2bfbf514f2a8",
@@ -94,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "trophy/jorando/sets/Ruined Church/Stained Glass Shard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Stained Glass Shard"
+              "title": "Backlinks"
             }
           },
           {
@@ -164,54 +178,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c15ed848ab38e07",
+  "active": "d77a4800d3390a96",
   "lastOpenFiles": [
-    "trophy/jorando/images/echo-of-the-hollow-flame.png",
-    "trophy/jorando/images/echo-of-the-silent-vigil.png",
-    "trophy/jorando/images/echo-of-the-silent-vigil-alt.png",
-    "trophy/jorando/images/echo-of-the-silent-vigil-alt-2.png",
-    "trophy/jorando/sets/Whispering Marshes/Whispering Marshes.md",
-    "trophy/jorando/List of Echoes & Souls.md",
-    "trophy/jorando/All Items.md",
-    "trophy/jorando/items/Fragment of the First Tear.md",
-    "trophy/jorando/sets/Whispering Marshes/items/Tears of Lacrimara.md",
-    "trophy/jorando/Father Lorian.md",
-    "trophy/jorando/Intro.md",
-    "trophy/jorando/images/blue-ribbon.png",
-    "trophy/jorando/images/blue-yellow-ribbon.png",
-    "trophy/jorando/images/echo-of-the-pilgrims-vow.png",
-    "trophy/jorando/images/echo-of-hollowed-duty.png",
-    "trophy/jorando/images/echo-of-the-forsaken-sight.png",
-    "trophy/jorando/images/echo-mirror-shard.png",
-    "trophy/jorando/sets/Weeping Well/Seer of the Well.md",
-    "trophy/jorando/images/echo-locket 1.png",
-    "trophy/jorando/sets/Cistern/The Weeping Echo.md",
-    "trophy/jorando/sets/Cistern/The Cistern.md",
-    "trophy/jorando/sets/Weeping Well/Weeping Well.md",
-    "trophy/jorando/sets/Cistern/cistern lore.md",
-    "trophy/jorando/sets/Lake of Tears/Lake of Tears.md",
-    "trophy/jorando/sets/Ruined Church/Church of the Hollowed Saints.md",
-    "trophy/jorando/sets/Ruined Church/Sacrificial Dagger.md",
-    "trophy/jorando/sets/Ruined Church/Cursed Hollowed Saints.md",
-    "trophy/jorando/sets/Ruined Church/Saint’s Fingerbone.md",
-    "trophy/jorando/sets/Ruined Church/Twisted Branch.md",
-    "trophy/jorando/sets/Ruined Church/Stained Glass Shard.md",
-    "trophy/jorando/The Rite of Reclamation.md",
-    "bellmead/Art of Memory.md",
-    "trophy/jorando/The Shattered Legion.md",
-    "trophy/jorando/Unsorted Ideas.md",
-    "trophy/jorando/Unsorted Items.md",
-    "trophy/jorando/Untitled.canvas",
-    "trophy/jorando/The Hollowed Saint.md",
-    "trophy/jorando/images",
+    "trophy/jorando/session_zero/Session 0 extra notes.md",
+    "trophy/jorando/session_zero/session zero.md",
+    "trophy/jorando/session_zero/Thorn-Crown of Baelric.md",
+    "trophy/jorando/images/intro-32b-better-fire.png",
+    "trophy/jorando/images/intro-16b-quote-fire.png",
+    "trophy/jorando/images/intro-bog-wraith-boat.png",
+    "trophy/jorando/images/intro-32b-fire.png",
+    "trophy/jorando/images/intro-32b.png",
+    "trophy/jorando/images/intro-16b-quote.png",
+    "trophy/jorando/images/intro-16b-fire.png",
+    "trophy/jorando/images/intro-8b-fire.png",
+    "trophy/jorando/images/echo-locket.png",
+    "trophy/jorando/images/echo-drowned-king.png",
+    "trophy/index.md",
+    "mx/story notes/PROD-6068-Randomized-Email.md",
+    "trophy/Trophy Resources.md",
+    "trophy_public/Trophy-Gold-Reference-Sheet_public.pdf",
     "trophy/Trophy-Gold-Reference-Sheet.pdf",
-    "trophy/jorando/items",
-    "trophy/jorando/sets/Cistern/assets",
-    "trophy/jorando/sets/Ruined Church/assets",
-    "trophy/jorando/sets/Ruined Church/Untitled",
-    "_site/trophy/jorando/sets/Whispering Marshes/items/Venomous Dart/index.html",
-    "_site/trophy/jorando/sets/Whispering Marshes/items/Venomous Dart",
-    "_site/trophy/jorando/sets/Whispering Marshes/items/Waterlogged Journal/index.html",
-    "_site/trophy/jorando/sets/Whispering Marshes/items/Waterlogged Journal"
+    "trophy/jorando/session_zero/Whispering Marshes Session Notes.md",
+    "trophy/jorando/Intro.md",
+    "trophy/jorando/sets/Whispering Marshes/items/Crumbling Diary.md",
+    "trophy/jorando/Lake of Tears Lore.md",
+    "trophy/jorando/campaign/Vero (Pete).md",
+    "trophy/jorando/campaign/Valen (Philip).md",
+    "trophy/jorando/campaign/Sareh (Shea).md",
+    "trophy/jorando/campaign/Benah (Mark).md",
+    "trophy/jorando/campaign/Aram (Brad).md",
+    "trophy/jorando/sets/Whispering Marshes/items/Waterlogged Journal.md",
+    "trophy/jorando/sets/Whispering Marshes/Whispering Marshes.md",
+    "trophy/jorando/items/Reliquary of the Hollowed Saints.md",
+    "trophy/jorando/items/Dust Covered Manuscript.md",
+    "trophy/jorando/items/Fragment of the First Tear.md",
+    "trophy/jorando/sets/Whispering Marshes/items/Marshwalker Boots.md",
+    "trophy/jorando/sets/Whispering Marshes/items/Drowned Amulet.md",
+    "trophy/jorando/sets/Whispering Marshes/items/Mudcrab Claw.md",
+    "trophy/jorando/sets/Whispering Marshes/items/Feyheart Blossom.md",
+    "trophy/jorando/List of Echoes & Souls.md",
+    "trophy/jorando/Shattered Legion Halberd.md",
+    "mx/guides",
+    "trophy/jorando/campaign",
+    "mx/story notes",
+    "mx",
+    "trophy_public",
+    "trophy/jorando/session_zero",
+    "trophy/jorando/Untitled.canvas",
+    "trophy/jorando/images",
+    "trophy/jorando/items"
   ]
 }

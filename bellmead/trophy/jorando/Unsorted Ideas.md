@@ -14,5 +14,5 @@ A lot of the sorrow theme is “echos of someone you lost, voice of someone you 
 
 [[Living Coffer]]
 
-Reminder that time is not 
+Reminder that time is not of the essence. 
 

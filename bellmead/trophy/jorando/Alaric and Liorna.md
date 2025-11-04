@@ -1,3 +1,7 @@
+---
+aliases:
+  - Liorna
+---
 
 Lovers. Resistance to [[The Shattered Legion]]. Know shit was going wrong with the Lake. He was taken, she waited. She dies. He’s actually [[The Last Pilgrim]]?
 
@@ -17,7 +21,7 @@ Liorna is a descendant of [[Father Lorian]]. She knows that things are whack and
 
 
 Liorna's ribbon
-IT's a blue ribbon she used to wear in her hair given to her by Alaric. She gave Alaric part of the ribbon as a rememberance when he left. 
+IT's a blue ribbon she used to wear in her hair given to her by Alaric. She gave Alaric part of the ribbon as a remembrance when he left. 
 A fragment of the ribbon can be found in Whispering Marshes, noting that there is a still a golden colored hair on it.
 The ribbon can be seen in the locket image of a golden haired girl wearing the ribbon
 

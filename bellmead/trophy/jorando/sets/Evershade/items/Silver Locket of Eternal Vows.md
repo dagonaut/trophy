@@ -12,7 +12,7 @@ _”Love remembers—even when all else is forgotten.”_
 **Effect:**  
 When worn near the mural in the bell tower, the locket causes hidden glyphs to reveal themselves—glyphs detailing the Reclamation ritual. It also grants brief resistance to spirit influence while worn. 
 
-Wearing it in the [[The Silent Graveyard]] near [[Liorna]]’s grave triggers her last moment.
+Wearing it in the [[The Silent Graveyard]] near [[trophy/jorando/sets/Evershade/Liorna]]’s grave triggers her last moment.
 
 The locket is small and intricately crafted, its surface engraved with delicate patterns of entwined vines and flowers. Time has tarnished the silver, but a faint glow emanates from the locket, as if it still holds the warmth of the love that once filled it. Inside, there are two tiny portraits—one of Alaric and the other of Liorna—painted with exquisite detail. Beneath the portraits, folded within the locket, is a dried, pressed flower, the same kind that bloomed in Evershade before the village fell into ruin.
 

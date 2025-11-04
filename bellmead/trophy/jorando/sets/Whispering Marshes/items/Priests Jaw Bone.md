@@ -5,7 +5,7 @@ _A crumbling lower jawbone, etched with half-erased prayers and wrapped in the r
 
 _"He spoke of salvation until the end. Now, his silence speaks louder."_
 
-**Effect:** Once per session, grants immunity to fear or compels a nearby spirit to answer one question truthfully. May cause 1 Ruin if overused.
+**Effect:** Once per session, grants immunity to fear or compels a nearby spirit to answer one question truthfully. Maybe treacherous if overused.
 
 Lore Link: [[Waterlogged Journal]]
 

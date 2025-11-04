@@ -15,7 +15,7 @@ _The land of **Jorando** is drowned in sorrow. Once, **pilgrims** came here to w
 
 _The villages have crumbled. The bridges rot above black waters. The marshes whisper with voices that know your name. All around are remnants of faith twisted by despair: shrines that weep, bells that toll without a hand, graves that do not keep the dead still._
 
-_Travelers now come to Jorando not for solace, but for what might be scavenged from its wreck. Treasures lie buried with faded saints and drowned kings, relics steeped in sorrow yet touched with power. Few who enter return whole._
+_Travelers now come to Jorando not for solace, but for what might be scavenged from its wreckage. Treasures lie buried with faded saints and drowned kings, relics steeped in sorrow yet touched with power. Few who enter return whole._
 
 _And in the shadows wander those broken by war—**[[The Shattered Legion]]**—their banners lost, their purpose confused, but their cruelty sharpened by grief._
 

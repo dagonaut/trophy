@@ -229,6 +229,7 @@ Mrs. Carfax - she's a permanent resident
 Damien Swallow - property guy
 Laura Sanchez - crime podcaster
 Mr. Proper - is here.
+Abraham Stockton
 
 
 #### Clues:
@@ -238,8 +239,50 @@ Mr. Proper - is here.
 * VOID: purple on the beach -- Latisha has seen some weird shit; Laura Sanchez brought her here. Magic affair on beach. Purple fire. 
 * Whack ass scarecrow/dead body. 
 * Weird other passports for Eva & Phoenix
+* Microcassettes with interview information regarding ritualistic abuse
+* Old B & B layout blueprint with secret room
+* VOID: black orb shrine
+* Wreckage of the U-Boat
+* Scrolls in a hidden doorway (ancient land deeds all over BBay)
+* guest book with a page torn out
 
 
+
+Over arching notes: go  to the maritime museum during the final mystery
+* Fish market -- because of maritime shit
+
+
+LEVEL!
+
+---
+
+### Void Mystery 7
+
+Clues:
+* Weird ritual shit
+* Thin paper/graphite -- an etching -- some text in German - This is from the hull of the submarine. It is talking about depth.
+* Mask and robes of the midwives. (urgent box)
+* Nellie - Eye on palm
+* Ledger from the Deep Reaver - 7 mirrors, polished obsidian, specimens (keep wet)
+* Hand eye - stirs the dead... re-animates
+* Chain of Names - Dory, Samantha, Abner
+* Salt encrusted papers. 
+* Hair-catcher with reflectors.
+* Old Andy before youth serum
+* Shadowbox of key, kelp, tooth necklace, & hair band braid
+* Don't give up knife has runes
+* 
+
+The birth of the new Dagon
+
+Direction:
+Infiltrate lunch club (has its own local)
+Shady Lane
+Bake Off Location
+
+
+They're farming/fishing for squidly's and using them to build new people.
+The squids are the object of attention for the midwives.
 
 
 
