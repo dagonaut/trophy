@@ -47,6 +47,7 @@ exclude_docs: |
 
 
 # Optional: If you want to hide the "Made with Material for MkDocs" footer
+# h: true is for macros to hide things in the block
 extra:
   generator: false
-  build_env: "pub"
+  h: true
