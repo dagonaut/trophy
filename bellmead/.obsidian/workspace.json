@@ -123,12 +123,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trophy/campaign/bestiary/Barnacle Bug.md",
+                "file": "trophy/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Barnacle Bug"
+              "title": "index"
             }
           }
         ],
@@ -358,8 +358,8 @@
   },
   "active": "f37e8b3ba0a0f9fa",
   "lastOpenFiles": [
-    "trophy/jorando/sets/Whispering Marshes/baddies/Huskspinner.md",
     "trophy/campaign/bestiary/Barnacle Bug.md",
+    "trophy/jorando/sets/Whispering Marshes/baddies/Huskspinner.md",
     "trophy/jorando/Trophy Creature Template.md",
     "trophy/campaign/bestiary",
     "trophy/index.md",

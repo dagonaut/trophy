@@ -50,4 +50,5 @@ exclude_docs: |
 # h: true is for macros to hide things in the block
 extra:
   generator: false
-  h: true
+  hc: true
+  h: "hide"

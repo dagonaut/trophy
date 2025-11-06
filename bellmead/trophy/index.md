@@ -13,3 +13,28 @@ Sets:
 Tacos
 ```
 
+
+{% if !hc %}
+!HC
+{% endif %}
+
+{% if hc %}
+HC
+{% endif %}
+
+{% if hc == true %}
+HC == true
+{% endif %}
+
+{% if hc == false %}
+hc = false
+{% endif %}
+
+{% if h != "hide" %}
+!= hide
+{% endif %}
+
+{% if h == "hide" %}
+== hide
+{% endif %}
+

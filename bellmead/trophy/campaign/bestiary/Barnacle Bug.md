@@ -7,7 +7,7 @@ a.k.a. Barnacle Buddy
 **Physical Description:**
 A bloated, carapaced insect the size of a hound, its back split open into a nest of writhing feelers and twitching legs. Milky, lidless eyes scan ceaselessly, and its mandibles drip with reeking bile. Its belly is translucent, revealing smaller larvae pulsing within.
 
-{% if h %}
+{% if h = hide %}
 **Abilities:**
 - **Web-Egg Bomb:** Launches a sac that bursts into acidic webs; immobilizes and burns armor/flesh.
 - **Piercing Mandibles:** Injects numbing venom; untreated wounds may hatch larvae.
