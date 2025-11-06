@@ -14,9 +14,6 @@ Tacos
 ```
 
 
-{% if !hc %}
-!HC
-{% endif %}
 
 {% if hc %}
 HC
