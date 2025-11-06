@@ -81,26 +81,6 @@
          <lastmod>2025-11-06</lastmod>
     </url>
     <url>
-         <loc>https://example.com/jorando/campaign/Aram%20%28Brad%29/</loc>
-         <lastmod>2025-11-06</lastmod>
-    </url>
-    <url>
-         <loc>https://example.com/jorando/campaign/Benah%20%28Mark%29/</loc>
-         <lastmod>2025-11-06</lastmod>
-    </url>
-    <url>
-         <loc>https://example.com/jorando/campaign/Sareh%20%28Shea%29/</loc>
-         <lastmod>2025-11-06</lastmod>
-    </url>
-    <url>
-         <loc>https://example.com/jorando/campaign/Valen%20%28Philip%29/</loc>
-         <lastmod>2025-11-06</lastmod>
-    </url>
-    <url>
-         <loc>https://example.com/jorando/campaign/Vero%20%28Pete%29/</loc>
-         <lastmod>2025-11-06</lastmod>
-    </url>
-    <url>
          <loc>https://example.com/jorando/items/Dust%20Covered%20Manuscript/</loc>
          <lastmod>2025-11-06</lastmod>
     </url>
@@ -398,6 +378,26 @@
     </url>
     <url>
          <loc>https://example.com/jorando/sets/Whispering%20Marshes/items/Waterlogged%20Journal/</loc>
+         <lastmod>2025-11-06</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/public/campaign/Aram%20%28Brad%29/</loc>
+         <lastmod>2025-11-06</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/public/campaign/Benah%20%28Mark%29/</loc>
+         <lastmod>2025-11-06</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/public/campaign/Sareh%20%28Shea%29/</loc>
+         <lastmod>2025-11-06</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/public/campaign/Valen%20%28Philip%29/</loc>
+         <lastmod>2025-11-06</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/public/campaign/Vero%20%28Pete%29/</loc>
          <lastmod>2025-11-06</lastmod>
     </url>
 </urlset>
