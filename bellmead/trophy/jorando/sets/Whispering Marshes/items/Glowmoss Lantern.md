@@ -1,3 +1,24 @@
+
+![[i-ds-glowmoss-lantern-edit.png|300]]![[i-ds-lantern-of-the-hollowed-voice.png|300]]
+
+##### Glowmoss Lantern
+_A tarnished lantern filled with living glowmoss, casting an eerie green light. Its glow pulses like breath, illuminating hidden paths—but it also draws unwanted eyes in the dark._
+
+_“Some things come not for the light—but for what it reveals.”_
+
+**Effect:** Reveals things hidden in the marsh.
+
+---
+##### **Lantern of the Hollow Voice**
+_A tarnished lantern entwined with bone and scripture, the Glowmoss within now flickering in time with whispered prayers. The hollow jaw whispers in a dead tongue, drawing lost spirits close enough to listen—or obey._
+
+_“When the dead preach by borrowed light, even kings remember their sins.”_
+
+**Effect:** Reveals secrets lost to the marsh. When used in the presence of the Drowned King reduce his endurance by 2. 
+
+---
+
+
 ![[wm-item-Glowmoss Lantern-pixel-simple.webp|300]]  ![[wm-i-glowmoss-lantern2.webp|300]]
 
 *A lantern filled with glowing moss that thrives in the marshes. It provides dim light and can be used to reveal hidden secrets, but the glow attracts creatures of the swamp... an elsewhere.*

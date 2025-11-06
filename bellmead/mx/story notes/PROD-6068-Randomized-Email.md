@@ -47,11 +47,17 @@ sudo aws s3 cp s3://mx-dependencies-233870680723/scripts-mxreports/postfix_mxtoo
 
 echo "Test" | mail -s "Catch-all test" something-random@mxtoolbox-report.net
 
-we need to use the /etc/postfix/virtual
-prepend "@mxtoolbox-report.net tools" to the file. (wildcards don't work)
-run postmap /etc/postfix/virtual
+-we need to use the /etc/postfix/virtual-
+-prepend "@mxtoolbox-report.net tools" to the file. (wildcards don't work)-
+-run postmap /etc/postfix/virtual-
 run postfix reload
 
+TLS IS MANDATORY FOR THIS TO WORK
 
+[/postfix/MxReports/logs](https://us-east-1.console.aws.amazon.com/cloudwatch/home?region=us-east-1#logsV2:log-groups/log-group/$252Fpostfix$252FMxReports$252Flogs)
+
+
+
+Postfix environment dimension: mxreports > operationstatus
 
 

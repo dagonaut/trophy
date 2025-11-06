@@ -2,6 +2,9 @@ You have debts. There is one in particular that plagues you, that can't be paid 
 
 Bonfire refresh... this didn't happen before. Is this a product of Jorando or some magicks that the benefactor has bestowed upon you.
 
+Julio "The Saint" DeSantos
+Gaudy-papal crime boss
+
 <span style="color:rgb(255, 0, 0)">What is your debt?</span>
 
 <span style="color:rgb(255, 0, 0)">How were you contacted?</span>

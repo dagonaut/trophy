@@ -4,39 +4,123 @@
     "type": "split",
     "children": [
       {
-        "id": "45bbeb71c7896f7e",
+        "id": "e5954185a8e18e59",
         "type": "tabs",
         "children": [
           {
-            "id": "88e9bb880dd79a80",
+            "id": "1cfb8119c1f80d38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trophy/Trophy Resources.md",
+                "file": "trophy/jorando/campaign/Sareh (Shea).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trophy Resources"
+              "title": "Sareh (Shea)"
             }
           },
           {
-            "id": "d77a4800d3390a96",
+            "id": "5726ce0b9457c825",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mx/story notes/PROD-6068-Randomized-Email.md",
+                "file": "trophy/jorando/campaign/Vero (Pete).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PROD-6068-Randomized-Email"
+              "title": "Vero (Pete)"
+            }
+          },
+          {
+            "id": "b8852a86a18e05bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "trophy/jorando/campaign/Benah (Mark).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Benah (Mark)"
+            }
+          },
+          {
+            "id": "4a09a9ff2720ee9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "trophy/jorando/campaign/Valen (Philip).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Valen (Philip)"
+            }
+          },
+          {
+            "id": "a1b094c3936fc239",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "trophy/jorando/session_zero/Session 0 extra notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 0 extra notes"
+            }
+          },
+          {
+            "id": "b3c0ca02dd53a5db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "trophy/jorando/Intro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intro"
+            }
+          },
+          {
+            "id": "eef22185aef9d12f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "trophy/jorando/sets/Whispering Marshes/items/Waterlogged Journal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Waterlogged Journal"
+            }
+          },
+          {
+            "id": "17a5165bfc014795",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal Entries.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Journal Entries"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -93,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 483.5
+    "width": 330.5
   },
   "right": {
     "id": "ef0b2bfbf514f2a8",
@@ -178,53 +262,168 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d77a4800d3390a96",
+  "floating": {
+    "id": "4a3a3ca464bbb3ea",
+    "type": "floating",
+    "children": [
+      {
+        "id": "dfad1fb4948a32a0",
+        "type": "window",
+        "children": [
+          {
+            "id": "14859844164285ab",
+            "type": "tabs",
+            "dimension": 41.614583333333336,
+            "children": [
+              {
+                "id": "850ce70a34d2f123",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "trophy/jorando/sets/Whispering Marshes/Whispering Marshes.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Whispering Marshes"
+                }
+              }
+            ]
+          },
+          {
+            "id": "035b4a4b4a416f48",
+            "type": "tabs",
+            "dimension": 35.833333333333336,
+            "children": [
+              {
+                "id": "e7a84c92324f2fb5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "trophy/jorando/session_zero/Whispering Marshes Session Notes.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Whispering Marshes Session Notes"
+                }
+              }
+            ]
+          },
+          {
+            "id": "bccb64086fe0740d",
+            "type": "tabs",
+            "dimension": 22.552083333333332,
+            "children": [
+              {
+                "id": "fdedd6dfb5cbc744",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Notes"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2848,
+        "y": 39,
+        "width": 600,
+        "height": 600,
+        "maximize": true,
+        "zoom": 0
+      },
+      {
+        "id": "29a893ccab06f18f",
+        "type": "window",
+        "children": [
+          {
+            "id": "cef9245e63783d51",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c0172f827955ecfc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "mx/story notes/PROD-6068-Randomized-Email.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "PROD-6068-Randomized-Email"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 105,
+        "y": 279,
+        "width": 1545,
+        "height": 1112,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "c0172f827955ecfc",
   "lastOpenFiles": [
+    "Notes.md",
+    "trophy/jorando/sets/Whispering Marshes/Whispering Marshes.md",
+    "trophy/jorando/Intro.md",
+    "mx/story notes/PROD-6068-Randomized-Email.md",
+    "trophy/jorando/sets/Whispering Marshes/baddies/Huskspinner.md",
+    "trophy/jorando/sets/Whispering Marshes/items/Waterlogged Journal.md",
+    "Journal Entries.md",
+    "trophy/jorando/campaign/Aram (Brad).md",
+    "trophy/jorando/campaign/Valen (Philip).md",
+    "trophy/jorando/session_zero/Whispering Marshes Session Notes.md",
+    "trophy/jorando/campaign/Vero (Pete).md",
+    "trophy/jorando/campaign/Sareh (Shea).md",
+    "trophy/jorando/Unsorted Ideas.md",
+    "trophy/jorando/Unsorted Items.md",
+    "trophy/jorando/Untitled.canvas",
+    "trophy/jorando/campaign/Benah (Mark).md",
     "trophy/jorando/session_zero/Session 0 extra notes.md",
     "trophy/jorando/session_zero/session zero.md",
-    "trophy/jorando/session_zero/Thorn-Crown of Baelric.md",
+    "trophy/jorando/Father Lorian.md",
+    "trophy/jorando/Rhaskor.md",
+    "trophy/jorando/sets/Whispering Marshes/wm-assets/drowned king-obscured.png",
+    "trophy/jorando/sets/Whispering Marshes/baddies/Lantern Maw.md",
+    "trophy/jorando/The Hollowed Saint.md",
+    "trophy/jorando/sets/Whispering Marshes/items/Crumbling Diary.md",
+    "trophy/jorando/sets/Whispering Marshes/items/Priests Jaw Bone.md",
+    "trophy/jorando/sets/Whispering Marshes/items/Reedwoven Cloak.md",
+    "trophy/jorando/sets/Whispering Marshes/items/Rusty Scythe.md",
+    "trophy/jorando/sets/Whispering Marshes/items/Shattered Legion Camp.md",
+    "trophy/jorando/sets/Whispering Marshes/wm-assets/l-bog-heart-blue.png",
+    "trophy/jorando/sets/Whispering Marshes/wm-assets/l-bog-heart-green.png",
+    "trophy/jorando/sets/Whispering Marshes/wm-assets/wm-i-glowmoss-lantern2.webp",
+    "trophy/jorando/sets/Whispering Marshes/wm-assets/i-ds-glowmoss-lantern-edit.png",
+    "trophy/jorando/sets/Whispering Marshes/wm-assets/i-ds-glowmoss-lantern.png",
+    "trophy/jorando/sets/Whispering Marshes/wm-assets/i-ds-lantern-of-the-hollowed-voice.png",
+    "trophy/jorando/sets/Whispering Marshes/wm-assets/wm-i-ds-waterlogged-journal-edit.png",
     "trophy/jorando/images/intro-32b-better-fire.png",
     "trophy/jorando/images/intro-16b-quote-fire.png",
-    "trophy/jorando/images/intro-bog-wraith-boat.png",
-    "trophy/jorando/images/intro-32b-fire.png",
-    "trophy/jorando/images/intro-32b.png",
-    "trophy/jorando/images/intro-16b-quote.png",
-    "trophy/jorando/images/intro-16b-fire.png",
-    "trophy/jorando/images/intro-8b-fire.png",
-    "trophy/jorando/images/echo-locket.png",
-    "trophy/jorando/images/echo-drowned-king.png",
-    "trophy/index.md",
-    "mx/story notes/PROD-6068-Randomized-Email.md",
-    "trophy/Trophy Resources.md",
     "trophy_public/Trophy-Gold-Reference-Sheet_public.pdf",
     "trophy/Trophy-Gold-Reference-Sheet.pdf",
-    "trophy/jorando/session_zero/Whispering Marshes Session Notes.md",
-    "trophy/jorando/Intro.md",
-    "trophy/jorando/sets/Whispering Marshes/items/Crumbling Diary.md",
-    "trophy/jorando/Lake of Tears Lore.md",
-    "trophy/jorando/campaign/Vero (Pete).md",
-    "trophy/jorando/campaign/Valen (Philip).md",
-    "trophy/jorando/campaign/Sareh (Shea).md",
-    "trophy/jorando/campaign/Benah (Mark).md",
-    "trophy/jorando/campaign/Aram (Brad).md",
-    "trophy/jorando/sets/Whispering Marshes/items/Waterlogged Journal.md",
-    "trophy/jorando/sets/Whispering Marshes/Whispering Marshes.md",
-    "trophy/jorando/items/Reliquary of the Hollowed Saints.md",
-    "trophy/jorando/items/Dust Covered Manuscript.md",
-    "trophy/jorando/items/Fragment of the First Tear.md",
-    "trophy/jorando/sets/Whispering Marshes/items/Marshwalker Boots.md",
-    "trophy/jorando/sets/Whispering Marshes/items/Drowned Amulet.md",
-    "trophy/jorando/sets/Whispering Marshes/items/Mudcrab Claw.md",
-    "trophy/jorando/sets/Whispering Marshes/items/Feyheart Blossom.md",
-    "trophy/jorando/List of Echoes & Souls.md",
-    "trophy/jorando/Shattered Legion Halberd.md",
     "mx/guides",
     "trophy/jorando/campaign",
     "mx/story notes",
     "mx",
     "trophy_public",
     "trophy/jorando/session_zero",
-    "trophy/jorando/Untitled.canvas",
     "trophy/jorando/images",
     "trophy/jorando/items"
   ]

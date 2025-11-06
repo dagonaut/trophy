@@ -2,11 +2,11 @@ You have all rested at the bonfire and your items/ruin is reset to its base. You
 
 Ask about people's individual religions? The Sisters. 
 
-- [ ] Find the first Echo [[Alaric and Liorna|Liorna]]
+- [x] Find the first Echo [[Alaric and Liorna|Liorna]]
 - [ ] Find the [[Shattered Legion Halberd]]
 - [ ] Find the [[Priests Jaw Bone]]
-- [ ] Find the [[Glowmoss Lantern]]
-- [ ] Find the [[Waterlogged Journal]] - players can HUNT roll it.
+- [x] Find the [[Glowmoss Lantern]]
+- [x] Find the [[Waterlogged Journal]] - players can HUNT roll it.
 - [ ] Encounter [[The Drowned King]] or subvert it
 - [ ] [[Marrow Cling]], [[Feyheart Blossom]], and making items. The former can be harvested.. let players get clever.
 

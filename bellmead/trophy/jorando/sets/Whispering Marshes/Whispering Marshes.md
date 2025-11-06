@@ -9,7 +9,7 @@
 The Whispering Marshes are a vast expanse of mist-covered wetlands surrounding the approach to [[Evershade]]. The ground is soft and treacherous, with twisted trees rising from the murky waters, their roots exposed like grasping fingers. The air is thick with fog and the distant sound of whispered voices, barely discernible and impossible to locate. These whispers seem to come from all directions, filling the players with a sense of unease and foreboding.
 
 ### Goals:
-- Find The Abandoned Village: [[Evershade]]
+- Find the path leading out of the Whispering Marshes
 - Discover the Echoes of the Past of Jorando
 
 ### Questions/Paint the Scene:
@@ -45,9 +45,12 @@ Large, upright stones scattered throughout the marsh, etched with ancient carvin
 * <span style="color:rgb(255, 0, 0)">What do you see?</span>  
 * <span style="color:rgb(0, 112, 192)">Remind them of the sorrowful nature of the environment</span>  
 * On a failure, you see a sign of your own fate, it is not good. Take the condition: Memento Mori  
+* Marrow cling
 
 ##### [[The Silt Circle]]: 
 Hidden among the reeds and fog there is an ancient ritual site. The site is marked by faded glyphs, weathered altars, and scattered relics of a bygone era. Strange symbols are etched into the ground and the air feels charged with residual magic.  
+
+The mausoleum is Father Lorian's or purported to be. ==How do you know it is? What makes you doubt it?== Clearly this has been pilfered, little remains. When you search the ruins you find the jaw bone.  
 * [[Priests Jaw Bone]]  
 - <span style="color:rgb(255, 0, 0)">What do you see?</span>  
 * <span style="color:rgb(0, 112, 192)">GM note: what does it summon/trigger/do?</span>  

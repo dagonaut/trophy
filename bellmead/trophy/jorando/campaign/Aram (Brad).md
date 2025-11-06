@@ -6,7 +6,7 @@ Drive: Earn the right to your family’s name
 Inventory:
 Bear trap
 Musk, bear & deer (6 uses) 
-Soap (6 uses)
+Soap (5 uses)
 
 Weapons: Hefty Cudgel
 Armor: Stiff Wool Cloak
@@ -19,6 +19,6 @@ Memento: the Bezoar stone
 
 Debt: bought a Bezoar's stone to cover debts, that's put the family business in jepordy
 
-Reason: benefactor is debtor... mr. patron. forgery
+Reason: benefactor is debtor... The Saint... forgery
 
 Chalice of Rhaskor

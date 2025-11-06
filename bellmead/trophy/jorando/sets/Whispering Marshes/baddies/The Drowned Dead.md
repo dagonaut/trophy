@@ -12,7 +12,7 @@ The remains of those who perished in the marsh long ago. These undead creatures 
 These come in many varieties and drop a broken, rusty version of their weapon if it still exists.
 
 **Weakness:**
-They fear fire and sunlight. A lantern held high or a strong holy symbol will cause them to recoil and disperse temporarily.
+Speaking a prayer aloud and with conviction or a strong holy symbol will cause them to recoil and disperse temporarily.
 
 **Attacks:**
 - **Dragging Grasp** – Grabs at a target’s legs with bloated, unyielding hands. If successful, the victim is pulled into the water and must pass a Strength or Reflex check to escape drowning.

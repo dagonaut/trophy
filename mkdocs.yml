@@ -37,9 +37,7 @@ markdown_extensions:
   - pymdownx.critic
 
 exclude_docs: |
-  jorando/sets/Cistern
-  drafts/
-  old-versions/*.md
+  jorando/sets/Cistern/
 
 
 # Optional: If you want to hide the "Made with Material for MkDocs" footer

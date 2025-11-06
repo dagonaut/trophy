@@ -14,12 +14,70 @@ There has to be a DARK die in play. Ruin roll will apply to all involved.
 
 ## Combat
 * Regular roll
-* Ranged
+* Ranged (up to 3) 1-3 lose slot 4-6 reduce endurance by one (can only be one)
 * Rituals
 * Retreat
 * Risk rolls as combat
 * Risk rolls in combat/to augment combat
 
+#### Additional Combat Rolls:
+RISK ROLLS IN COMBAT
+
+Rather than participating directly in the Combat Roll, you can attempt to weaken the monster
+
+by making a Risk Roll. Say how you’re trying to weaken the monster, then make a Risk Roll as
+
+normal. If your roll succeeds (highest die of 4, 5, or 6), you reduce the monster’s Endurance by
+
+1. If you are using a Ritual as a part of your Risk Roll, see Rituals in Combat on the next page.
+
+Using a Ritual can potentially reduce the monster’s Endurance by 2 (instead of just 1), but comes with the risk of being totally taken out of the Combat on a failed roll.
+
+RANGED WEAPONS IN COMBAT
+
+Ranged weapons—such as bows, crossbows, slings, and thrown weapons—can be treated as
+
+any other weapon when used in combat. However, ranged weapons may be used to reduce
+
+a monster’s Endurance by putting your ammunition—and the use of your weapon—at risk.
+
+Ranged weapons start with 3 slots of ammunition. Make a Risk Roll to reduce Endurance as
+
+normal, but add a light die for each unmarked slot of ammunition you’re willing to risk. For
+
+each light die that comes up a 1, 2, or 3, mark a slot of ammunition. When you have no more
+
+unmarked slots, you can no longer use this weapon. You can spend 1 Gold back in town to clear
+
+all marks on a single ranged weapon.
+
+RITUALS IN COMBAT
+
+Rituals may be used two different ways in combat. Before the Combat Roll, declare whether
+
+you’re using your magic to attempt to weaken the monster, or directly attack it.
+
+For weakening, you may not directly participate in the Combat Roll. Instead, make a Risk Roll
+
+as usual. In addition to the normal impact of the Risk Roll, if your highest die is a:
+
+1–3: You don’t reduce the monster’s Endurance, and you also suffer some kind of consequence.
+
+This might be exhaustion, magical backlash, a monster attack, or something else that prevents
+
+you from engaging in the Combat Roll. You may continue to use other kinds of rolls to aid in
+
+combat, however.
+
+4–5: You reduce the monster’s Endurance by 1.
+
+6: You reduce the monster’s Endurance by 2.
+
+For a direct attack, you may be able to treat your Ritual as a weapon, rolling a Weak Point and
+
+Combat Roll dice as usual. This is an especially risky use of magic, however, and the gm may
+
+require you to make a Risk Roll before using your Ritual this way.
 ### RISK ROLL [[Trophy-Gold-Reference-Sheet.pdf|Chart]]
 
 When you attempt a risky task, say what you hope will happen and ask the GM and the other players what could possibly go wrong. Then gather 6-sided dice.
