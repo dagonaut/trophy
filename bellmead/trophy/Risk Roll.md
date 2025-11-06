@@ -78,7 +78,7 @@ For a direct attack, you may be able to treat your Ritual as a weapon, rolling a
 Combat Roll dice as usual. This is an especially risky use of magic, however, and the gm may
 
 require you to make a Risk Roll before using your Ritual this way.
-### RISK ROLL [[Trophy-Gold-Reference-Sheet.pdf|Chart]]
+### RISK ROLL [[trophy/Trophy-Gold-Reference-Sheet.pdf|Chart]]
 
 When you attempt a risky task, say what you hope will happen and ask the GM and the other players what could possibly go wrong. Then gather 6-sided dice.
 

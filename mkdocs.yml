@@ -20,6 +20,7 @@ plugins:
   - glightbox
   - minify:
       minify_html: true
+  - macros
 
 markdown_extensions:
   - admonition
@@ -35,6 +36,11 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.critic
+  - pymdownx.superfences:
+      custom_fences:
+        - name: obsidian-only
+          class: ignore
+          format: !!python/name:pymdownx.superfences.fence_code_format
 
 exclude_docs: |
   jorando/sets/Cistern/
@@ -43,3 +49,4 @@ exclude_docs: |
 # Optional: If you want to hide the "Made with Material for MkDocs" footer
 extra:
   generator: false
+  build_env: "pub"

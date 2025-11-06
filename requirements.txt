@@ -4,4 +4,5 @@ mkdocs-roamlinks-plugin
 mkdocs-awesome-pages-plugin
 mkdocs-minify-plugin
 mkdocs-glightbox
+mkdocs-macros-plugin
 pymdown-extensions

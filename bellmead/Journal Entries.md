@@ -1,6 +1,6 @@
 
 ### Waterlogged Journal 
-### **1. The Words of Father Lorian**
+### The Words of Father Lorian
 
 > “The air grows thick with sorrow, heavier each day. The lake no longer reflects the light; it only swallows it whole. The whispers speak of a reckoning—of saints no longer hallowed, but truly hollow. The tears will drown more than our hopes.”  
 > _—Fragment of a sermon found near Evershade’s ruined chapel_
