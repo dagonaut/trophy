@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal Entries.md",
+                "file": "trophy/jorando/Journal Entries.md",
                 "mode": "source",
                 "source": false
               },
@@ -121,18 +121,30 @@
             "id": "f37e8b3ba0a0f9fa",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "trophy/campaign/images/lake-assets/ferry-of-bones.png"
+              },
+              "icon": "lucide-image",
+              "title": "ferry-of-bones"
+            }
+          },
+          {
+            "id": "fa68e4dcdb88cc2a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "trophy/index.md",
+                "file": "trophy/jorando/sets/Whispering Marshes/items/Waterlogged Journal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Waterlogged Journal"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -335,7 +347,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Notes.md",
+                    "file": "trophy/jorando/Notes.md",
                     "mode": "source",
                     "source": false
                   },
@@ -347,25 +359,35 @@
           }
         ],
         "direction": "vertical",
-        "x": 2848,
-        "y": 39,
-        "width": 600,
-        "height": 600,
-        "maximize": true,
+        "x": 959,
+        "y": -53,
+        "width": 400,
+        "height": 400,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "f37e8b3ba0a0f9fa",
+  "active": "1020c829f87cd758",
   "lastOpenFiles": [
+    "trophy/campaign/Lore.md",
+    "trophy/campaign/items",
+    "trophy/jorando/Notes.md",
+    "trophy/jorando/sets/Whispering Marshes/Whispering Marshes.md",
+    "trophy/campaign/bestiary/Muck Wraith.md",
+    "trophy/campaign/bestiary/The Dank.md",
+    "trophy/jorando/sets/Whispering Marshes/baddies/The Drowned Dead.md",
+    "trophy/campaign/images/intro-l-drowned-dead.png",
+    "trophy/campaign/images/lake-assets/lake-intro.png",
+    "trophy/campaign/images/lake-assets",
+    "trophy/campaign/images/lake-assets/ferry-of-bones.png",
     "trophy/campaign/bestiary/Barnacle Bug.md",
+    "trophy/index.md",
     "trophy/jorando/sets/Whispering Marshes/baddies/Huskspinner.md",
     "trophy/jorando/Trophy Creature Template.md",
     "trophy/campaign/bestiary",
-    "trophy/index.md",
-    "Notes.md",
     "mx/story notes/PROD-6068-Randomized-Email.md",
-    "Journal Entries.md",
+    "trophy/jorando/Journal Entries.md",
     "trophy/jorando/List of Echoes & Souls.md",
     "trophy/jorando/Lake of Tears Lore.md",
     "trophy/jorando/sets/Whispering Marshes/items/Waterlogged Journal.md",
@@ -373,7 +395,6 @@
     "trophy_public/Trophy-Gold-Reference-Sheet.pdf",
     "trophy/campaign",
     "trophy/jorando/Intro.md",
-    "trophy/jorando/sets/Whispering Marshes/Whispering Marshes.md",
     "trophy/campaign/players/Aram (Brad).md",
     "trophy/campaign/players/Valen (Philip).md",
     "trophy/jorando/session_zero/Whispering Marshes Session Notes.md",
@@ -384,26 +405,16 @@
     "trophy/jorando/Untitled.canvas",
     "trophy/campaign/players/Benah (Mark).md",
     "trophy/jorando/session_zero/Session 0 extra notes.md",
-    "trophy/jorando/session_zero/session zero.md",
-    "trophy/jorando/Father Lorian.md",
-    "trophy/jorando/Rhaskor.md",
     "trophy/campaign/images/wm-assets/drowned king-obscured.png",
-    "trophy/jorando/sets/Whispering Marshes/baddies/Lantern Maw.md",
-    "trophy/jorando/The Hollowed Saint.md",
     "trophy/campaign/images/wm-assets/l-bog-heart-blue.png",
     "trophy/campaign/images/wm-assets/l-bog-heart-green.png",
     "trophy/campaign/images/wm-assets/wm-i-glowmoss-lantern2.webp",
     "trophy/campaign/images/wm-assets/i-ds-glowmoss-lantern-edit.png",
     "trophy/campaign/images/wm-assets/i-ds-glowmoss-lantern.png",
     "trophy/campaign/images/wm-assets/i-ds-lantern-of-the-hollowed-voice.png",
-    "trophy/campaign/images/wm-assets/wm-i-ds-waterlogged-journal-edit.png",
-    "trophy/campaign/images/intro-32b-better-fire.png",
-    "trophy/campaign/images/intro-16b-quote-fire.png",
     "mx/guides",
     "trophy/campaign/players",
     "mx/story notes",
-    "mx",
-    "trophy_public",
-    "trophy/jorando/session_zero"
+    "mx"
   ]
 }
