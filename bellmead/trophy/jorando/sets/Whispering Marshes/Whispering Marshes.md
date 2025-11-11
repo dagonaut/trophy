@@ -23,6 +23,7 @@ The Whispering Marshes are a vast expanse of mist-covered wetlands surrounding t
 - The haunting whispers revealing cryptic hints about Jorando and its past. 
 	- <span style='color:red;'>what is revealed</span>❓
 - Note Found: _“The air grows thick with sorrow, heavier each day. The lake no longer reflects the light; it only swallows it whole. Echoes speak of a reckoning, of shadows creeping from the marshes, of saints preferring to be hallowed than hollow. The tears will drown more than just our hopes. May the gods have mercy on your souls.”_ -[[Seer of the Well|Aelitha]]
+- ![[wm-aelitha-note.png|200]]
 - The Wailing Spirit - an ethereal spirit stuck between worlds--it entices you, but to what end?  
 - You are wet all over. While chilly, the dampness is like humidity.  
 - A flower blooms as if watching the party pass.  
@@ -48,12 +49,7 @@ Large, upright stones scattered throughout the marsh, etched with ancient carvin
 * Marrow cling
 
 ##### [[The Silt Circle]]: 
-Hidden among the reeds and fog there is an ancient ritual site. The site is marked by faded glyphs, weathered altars, and scattered relics of a bygone era. Strange symbols are etched into the ground and the air feels charged with residual magic.  
 
-The mausoleum is Father Lorian's or purported to be. ==How do you know it is? What makes you doubt it?== Clearly this has been pilfered, little remains. When you search the ruins you find the jaw bone.  
-* [[Priests Jaw Bone]]  
-- <span style="color:rgb(255, 0, 0)">What do you see?</span>  
-* <span style="color:rgb(0, 112, 192)">GM note: what does it summon/trigger/do?</span>  
 
 ##### [[The Bog Heart]]
 Deep in the marsh lies a stagnant pool where the whispering fog thickens. This is where the [[Lantern Maw]] congregate, perhaps this is where they are created.  

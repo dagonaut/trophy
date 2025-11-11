@@ -135,16 +135,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trophy/jorando/sets/Whispering Marshes/items/Waterlogged Journal.md",
+                "file": "mx/story notes/PROD-6068-Randomized-Email.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Waterlogged Journal"
+              "title": "PROD-6068-Randomized-Email"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -318,7 +317,7 @@
           {
             "id": "035b4a4b4a416f48",
             "type": "tabs",
-            "dimension": 35.833333333333336,
+            "dimension": 35.83333333333333,
             "children": [
               {
                 "id": "e7a84c92324f2fb5",
@@ -339,7 +338,7 @@
           {
             "id": "bccb64086fe0740d",
             "type": "tabs",
-            "dimension": 22.552083333333332,
+            "dimension": 22.55208333333333,
             "children": [
               {
                 "id": "fdedd6dfb5cbc744",
@@ -359,21 +358,37 @@
           }
         ],
         "direction": "vertical",
-        "x": 959,
-        "y": -53,
+        "x": 1056,
+        "y": 191,
         "width": 400,
         "height": 400,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "1020c829f87cd758",
+  "active": "850ce70a34d2f123",
   "lastOpenFiles": [
+    "trophy/campaign/players/Sareh (Shea).md",
+    "trophy/jorando/sets/Evershade/Evershade.md",
+    "trophy/jorando/sets/Whispering Marshes/Whispering Marshes.md",
+    "trophy/campaign/images/wm-assets/wm-aelitha-note.png",
+    "trophy/jorando/session_zero/Whispering Marshes Session Notes.md",
+    "trophy/jorando/sets/Evershade/The Silent Graveyard.md",
+    "trophy/jorando/sets/Evershade/The Hollowed Tavern.md",
+    "trophy/campaign/images/ev-assets/ev-approach-bonfire.png",
+    "trophy/jorando/sets/Evershade/Abandoned Village Notes.md",
+    "trophy/jorando/sets/Whispering Marshes/The Silt Circle.md",
+    "trophy/campaign/images/wm-assets/wm-l-maus-tapestry-mouth.png",
+    "trophy/campaign/images/wm-assets/wm-l-maus-secret.png",
+    "trophy/campaign/images/wm-assets/wm-l-maus-inside.png",
+    "trophy/campaign/images/wm-assets/wm-l-maus-tapestry-open.png",
+    "trophy/campaign/images/wm-assets/wm-l-maus-tapestry-regular.png",
+    "trophy/jorando/Notes.md",
+    "mx/story notes/PROD-6068-Randomized-Email.md",
+    "trophy/jorando/sets/Whispering Marshes/items/Waterlogged Journal.md",
     "trophy/campaign/Lore.md",
     "trophy/campaign/items",
-    "trophy/jorando/Notes.md",
-    "trophy/jorando/sets/Whispering Marshes/Whispering Marshes.md",
     "trophy/campaign/bestiary/Muck Wraith.md",
     "trophy/campaign/bestiary/The Dank.md",
     "trophy/jorando/sets/Whispering Marshes/baddies/The Drowned Dead.md",
@@ -386,32 +401,16 @@
     "trophy/jorando/sets/Whispering Marshes/baddies/Huskspinner.md",
     "trophy/jorando/Trophy Creature Template.md",
     "trophy/campaign/bestiary",
-    "mx/story notes/PROD-6068-Randomized-Email.md",
     "trophy/jorando/Journal Entries.md",
     "trophy/jorando/List of Echoes & Souls.md",
     "trophy/jorando/Lake of Tears Lore.md",
-    "trophy/jorando/sets/Whispering Marshes/items/Waterlogged Journal.md",
     "trophy/Trophy-Gold-Reference-Sheet.pdf",
     "trophy_public/Trophy-Gold-Reference-Sheet.pdf",
     "trophy/campaign",
     "trophy/jorando/Intro.md",
     "trophy/campaign/players/Aram (Brad).md",
     "trophy/campaign/players/Valen (Philip).md",
-    "trophy/jorando/session_zero/Whispering Marshes Session Notes.md",
-    "trophy/campaign/players/Vero (Pete).md",
-    "trophy/campaign/players/Sareh (Shea).md",
-    "trophy/jorando/Unsorted Ideas.md",
-    "trophy/jorando/Unsorted Items.md",
     "trophy/jorando/Untitled.canvas",
-    "trophy/campaign/players/Benah (Mark).md",
-    "trophy/jorando/session_zero/Session 0 extra notes.md",
-    "trophy/campaign/images/wm-assets/drowned king-obscured.png",
-    "trophy/campaign/images/wm-assets/l-bog-heart-blue.png",
-    "trophy/campaign/images/wm-assets/l-bog-heart-green.png",
-    "trophy/campaign/images/wm-assets/wm-i-glowmoss-lantern2.webp",
-    "trophy/campaign/images/wm-assets/i-ds-glowmoss-lantern-edit.png",
-    "trophy/campaign/images/wm-assets/i-ds-glowmoss-lantern.png",
-    "trophy/campaign/images/wm-assets/i-ds-lantern-of-the-hollowed-voice.png",
     "mx/guides",
     "trophy/campaign/players",
     "mx/story notes",

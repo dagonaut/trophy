@@ -15,7 +15,7 @@ Gnarled Staff, Bolt of Arcane Energy
 Armor: 
 Amulet of Protection
 
-Rituals: (3)
+Rituals: (2)
 Shroud — as long as they remain motionless, a group of creatures are hidden from others’ senses
 Feral — increase the size, temper, and monstrosity of a creature you touch
 

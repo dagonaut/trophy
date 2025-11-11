@@ -1,3 +1,5 @@
+![[ev-approach-bonfire.png]]
+
 ![[ev-intro.png]]
 
 The village of **Evershade** once thrived on the shores of the [[Lake of Tears]], sustained by its proximity to the [[Church of the Hollowed Saints]]. The villagers were devoted followers of the church, and many of them worked as caretakers of the holy site, tending to the church’s needs and supporting the pilgrims who came to seek solace in the lake’s sorrowful waters. While the village thrived, it never turned to opulence returning all resources to the village, church, and pilgrims that came to find peace.

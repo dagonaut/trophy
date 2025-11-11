@@ -10,11 +10,22 @@ Ask about people's individual religions? The Sisters.
 - [ ] Encounter [[The Drowned King]] or subvert it
 - [ ] [[Marrow Cling]], [[Feyheart Blossom]], and making items. The former can be harvested.. let players get clever.
 
+Session 2:
+- [ ] Aelita's note
+
+
 Progression:
-- [ ] Shrouded Path (where you start)
-- [ ] Mourning Stones (where-ever)
+- [x] Shrouded Path (where you start)
+- [x] Mourning Stones (where-ever)
 - [ ] Silt Circle (where you find [[Priests Jaw Bone]])
-- [ ] Bog Heart (where you end up)
+- [x] Bog Heart (where you end up)
+
+==NEED==
+You hunt the waterlogged journal based on an idea. So you need to be specific
+Lorian or the Hollowed Priest is something
+The Jawbone
+The King
+Establishing image of the approach to [[Evershade]]
 
 Lore:
 - [ ] Echoes are a thing
