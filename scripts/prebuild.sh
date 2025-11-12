@@ -9,5 +9,5 @@ rsync -av --delete "./bellmead/trophy/" ./trophy-site/docs/
 
 # Convert Obsidian image resize syntax to MkDocs-friendly syntax
 find ./trophy-site/docs -type f -name '*.md' -print0 | xargs -0 perl -pi -e '
-s/!\[\[([^|\]]+)\|(\d+)\]\]/![](trophy\/campaign\/images\/\1){ width=\2 }/g
+s/!\[\[([^|\]]+)\|(\d+)\]\]/![](\1){ width=\2 }/g
 '
