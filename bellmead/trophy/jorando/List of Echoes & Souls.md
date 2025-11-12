@@ -27,7 +27,7 @@ _"For her, I went to war. For her, I killed an army. For her, I will continue to
 
 ### Liorna
 ##### **Echo of the Silent Vigil**
-![[wm-echo-card-liorna.png|300]]
+![[i-echo-silent-vigil.png|300]]
 A tatter blue ribbon, soft and fine with strands of golden hair woven through its frayed ends. Liorna tied it in her hair the day Alaric left a token to match his own. As she stood vigil each night she grew frail until she was little more than a shadow. In death the ribbon fell from her hair and floated on the wind searching for its twin. The ribbon remembers her longing turned to silence.
 
 _"I lit the lamp each night, though no footsteps came to the door. Still, I waited."_

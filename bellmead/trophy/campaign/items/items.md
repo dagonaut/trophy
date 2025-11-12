@@ -7,7 +7,7 @@
 
 ![[Glowmoss Lantern#^glowmoss-lantern]]
 ![[Waterlogged Journal#^waterlogged-journal]]
-  ![[wm-i-ds-marrow-cling.png|300]] 
+  ![[i-marrow-cling.png|300]] 
 
 ![[Thorn Crown of Baelric#^crown-of-baelric]]
 ![[Feather of a Pale Roc#^feather-of-pale-roc]]
