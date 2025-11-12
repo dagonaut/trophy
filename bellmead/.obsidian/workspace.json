@@ -4,143 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e5954185a8e18e59",
+        "id": "b439c67cd5d38760",
         "type": "tabs",
         "children": [
           {
-            "id": "1cfb8119c1f80d38",
+            "id": "42f0fbc7758220a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trophy/campaign/players/Sareh (Shea).md",
+                "file": "trophy/campaign/items/items.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sareh (Shea)"
-            }
-          },
-          {
-            "id": "5726ce0b9457c825",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "trophy/campaign/players/Vero (Pete).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vero (Pete)"
-            }
-          },
-          {
-            "id": "b8852a86a18e05bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "trophy/campaign/players/Benah (Mark).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Benah (Mark)"
-            }
-          },
-          {
-            "id": "4a09a9ff2720ee9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "trophy/campaign/players/Valen (Philip).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Valen (Philip)"
-            }
-          },
-          {
-            "id": "a1b094c3936fc239",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "trophy/jorando/session_zero/Session 0 extra notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 0 extra notes"
-            }
-          },
-          {
-            "id": "b3c0ca02dd53a5db",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "trophy/Trophy-Gold-Reference-Sheet.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Trophy-Gold-Reference-Sheet"
-            }
-          },
-          {
-            "id": "eef22185aef9d12f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "trophy/jorando/sets/Whispering Marshes/items/Waterlogged Journal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Waterlogged Journal"
-            }
-          },
-          {
-            "id": "17a5165bfc014795",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "trophy/jorando/Journal Entries.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Journal Entries"
-            }
-          },
-          {
-            "id": "f37e8b3ba0a0f9fa",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "trophy/campaign/images/lake-assets/ferry-of-bones.png"
-              },
-              "icon": "lucide-image",
-              "title": "ferry-of-bones"
-            }
-          },
-          {
-            "id": "fa68e4dcdb88cc2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mx/story notes/PROD-6068-Randomized-Email.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PROD-6068-Randomized-Email"
+              "title": "items"
             }
           }
         ]
@@ -285,93 +163,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "4a3a3ca464bbb3ea",
-    "type": "floating",
-    "children": [
-      {
-        "id": "dfad1fb4948a32a0",
-        "type": "window",
-        "children": [
-          {
-            "id": "14859844164285ab",
-            "type": "tabs",
-            "dimension": 41.614583333333336,
-            "children": [
-              {
-                "id": "850ce70a34d2f123",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "trophy/jorando/sets/Whispering Marshes/Whispering Marshes.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Whispering Marshes"
-                }
-              }
-            ]
-          },
-          {
-            "id": "035b4a4b4a416f48",
-            "type": "tabs",
-            "dimension": 35.83333333333333,
-            "children": [
-              {
-                "id": "e7a84c92324f2fb5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "trophy/jorando/session_zero/Whispering Marshes Session Notes.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Whispering Marshes Session Notes"
-                }
-              }
-            ]
-          },
-          {
-            "id": "bccb64086fe0740d",
-            "type": "tabs",
-            "dimension": 22.55208333333333,
-            "children": [
-              {
-                "id": "fdedd6dfb5cbc744",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "trophy/jorando/Notes.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Notes"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1056,
-        "y": 191,
-        "width": 400,
-        "height": 400,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "850ce70a34d2f123",
+  "active": "42f0fbc7758220a6",
   "lastOpenFiles": [
+    "trophy/campaign/items/Feather of a Pale Roc.md",
+    "trophy/campaign/items/items.md",
+    "trophy/campaign/items/Thorn Crown of Baelric.md",
+    "trophy/campaign/items/Glowmoss Lantern.md",
+    "trophy/index.md",
+    "trophy/campaign/items/Echo of the Silent Vigil.md",
+    "trophy/campaign/images/i-thorn-crown-of-baelric.png",
+    "trophy/campaign/images/i-feather-of-a-pale-roc.png",
+    "trophy/campaign/images/i-chalice-of-rhaskor.png",
+    "trophy/campaign/images/i-shard-of-sundering-bell.png",
+    "trophy/campaign/images/i-oil-of-oltuun.png",
+    "trophy/jorando/Notes.md",
+    "trophy/campaign/Lore.md",
+    "trophy/campaign/items",
+    "trophy/campaign/players/Aram (Brad).md",
+    "trophy/campaign/players/Benah (Mark).md",
     "trophy/campaign/players/Sareh (Shea).md",
-    "trophy/jorando/sets/Evershade/Evershade.md",
     "trophy/jorando/sets/Whispering Marshes/Whispering Marshes.md",
+    "trophy/jorando/sets/Evershade/Evershade.md",
     "trophy/campaign/images/wm-assets/wm-aelitha-note.png",
     "trophy/jorando/session_zero/Whispering Marshes Session Notes.md",
     "trophy/jorando/sets/Evershade/The Silent Graveyard.md",
@@ -382,38 +194,23 @@
     "trophy/campaign/images/wm-assets/wm-l-maus-tapestry-mouth.png",
     "trophy/campaign/images/wm-assets/wm-l-maus-secret.png",
     "trophy/campaign/images/wm-assets/wm-l-maus-inside.png",
-    "trophy/campaign/images/wm-assets/wm-l-maus-tapestry-open.png",
-    "trophy/campaign/images/wm-assets/wm-l-maus-tapestry-regular.png",
-    "trophy/jorando/Notes.md",
     "mx/story notes/PROD-6068-Randomized-Email.md",
-    "trophy/jorando/sets/Whispering Marshes/items/Waterlogged Journal.md",
-    "trophy/campaign/Lore.md",
+    "trophy/campaign/items/Waterlogged Journal.md",
     "trophy/campaign/items",
     "trophy/campaign/bestiary/Muck Wraith.md",
     "trophy/campaign/bestiary/The Dank.md",
     "trophy/jorando/sets/Whispering Marshes/baddies/The Drowned Dead.md",
-    "trophy/campaign/images/intro-l-drowned-dead.png",
-    "trophy/campaign/images/lake-assets/lake-intro.png",
     "trophy/campaign/images/lake-assets",
-    "trophy/campaign/images/lake-assets/ferry-of-bones.png",
     "trophy/campaign/bestiary/Barnacle Bug.md",
-    "trophy/index.md",
     "trophy/jorando/sets/Whispering Marshes/baddies/Huskspinner.md",
     "trophy/jorando/Trophy Creature Template.md",
     "trophy/campaign/bestiary",
-    "trophy/jorando/Journal Entries.md",
-    "trophy/jorando/List of Echoes & Souls.md",
-    "trophy/jorando/Lake of Tears Lore.md",
     "trophy/Trophy-Gold-Reference-Sheet.pdf",
     "trophy_public/Trophy-Gold-Reference-Sheet.pdf",
     "trophy/campaign",
-    "trophy/jorando/Intro.md",
-    "trophy/campaign/players/Aram (Brad).md",
-    "trophy/campaign/players/Valen (Philip).md",
     "trophy/jorando/Untitled.canvas",
     "mx/guides",
     "trophy/campaign/players",
-    "mx/story notes",
-    "mx"
+    "mx/story notes"
   ]
 }

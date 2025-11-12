@@ -1,4 +1,4 @@
-![[intro-thorn-crown-of-baelric.png|300]]
+![[intro-thorn-crown-of-baelric.png|300]] ^90e806
 
 _A circlet of rusted wire and bone shards. When worn, faint scars appear on the skin, no matter how briefly._
 

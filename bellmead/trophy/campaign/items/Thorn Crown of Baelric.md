@@ -1,0 +1,3 @@
+| ![[i-thorn-crown-of-baelric.png\|300]] | A circlet of rusted wire and bone shards. When worn, faint scars appear on the skin, no matter how briefly.<br><br>_"King Baelric wore it to hear the cousel of the dead."_<br><br>Effect: Ask a dead soul one question, at a cost. |
+| -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+^crown-of-baelric
