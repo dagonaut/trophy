@@ -1,8 +1,7 @@
-| ![[i-glowmoss-lantern-edit.png\|300]] | <br>_A tarnished lantern filled with living glowmoss, casting an eerie green light. Its glow pulses like breath, illuminating hidden paths—but it also draws unwanted eyes in the dark._<br><br>_“Some things come not for the light—but for what it reveals.”_<br><br>**Effect:** Reveals things hidden in the marsh. |
-| ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+| ![[i-glowmoss-lantern-edit.png]] | <br>_A tarnished lantern filled with living glowmoss, casting an eerie green light. Its glow pulses like breath, illuminating hidden paths—but it also draws unwanted eyes in the dark._<br><br>_“Some things come not for the light—but for what it reveals.”_<br><br>**Effect:** Reveals things hidden in the marsh. |
+| -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 ^glowmoss-lantern
-
-
 
 
 {% if h != "hide" %}
