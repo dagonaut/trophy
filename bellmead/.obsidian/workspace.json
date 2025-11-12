@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b439c67cd5d38760",
+        "id": "05d857cca153f062",
         "type": "tabs",
         "children": [
           {
-            "id": "42f0fbc7758220a6",
+            "id": "b97342a55cd43143",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trophy/campaign/items/items.md",
+                "file": "trophy/campaign/items/Marrow Cling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "items"
+              "title": "Marrow Cling"
             }
           }
         ]
@@ -163,26 +163,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42f0fbc7758220a6",
+  "active": "b97342a55cd43143",
   "lastOpenFiles": [
-    "trophy/campaign/items/Feather of a Pale Roc.md",
+    "trophy/jorando/sets/Whispering Marshes/items/Waterlogged Journal.md",
+    "trophy/jorando/sets/Whispering Marshes/items/Marrow Cling.md",
+    "trophy/jorando/sets/Whispering Marshes/items/Glowmoss Lantern.md",
     "trophy/campaign/items/items.md",
-    "trophy/campaign/items/Thorn Crown of Baelric.md",
-    "trophy/campaign/items/Glowmoss Lantern.md",
-    "trophy/index.md",
-    "trophy/campaign/items/Echo of the Silent Vigil.md",
-    "trophy/campaign/images/i-thorn-crown-of-baelric.png",
-    "trophy/campaign/images/i-feather-of-a-pale-roc.png",
-    "trophy/campaign/images/i-chalice-of-rhaskor.png",
-    "trophy/campaign/images/i-shard-of-sundering-bell.png",
-    "trophy/campaign/images/i-oil-of-oltuun.png",
-    "trophy/jorando/Notes.md",
-    "trophy/campaign/Lore.md",
-    "trophy/campaign/items",
-    "trophy/campaign/players/Aram (Brad).md",
-    "trophy/campaign/players/Benah (Mark).md",
+    "trophy/campaign/items/Marrow Cling.md",
+    "trophy/campaign/items/Untitled.md",
+    "trophy/campaign/items/Waterlogged Journal.md",
+    "trophy/campaign/items/Oil of Oltuun.md",
+    "trophy/campaign/items/Chalice of Rhaskor.md",
+    "trophy/campaign/items/Shard of the Sundering Bell.md",
     "trophy/campaign/players/Sareh (Shea).md",
     "trophy/jorando/sets/Whispering Marshes/Whispering Marshes.md",
+    "trophy/campaign/items/Feather of a Pale Roc.md",
+    "trophy/campaign/items/Thorn Crown of Baelric.md",
+    "trophy/campaign/items/Glowmoss Lantern.md",
+    "trophy/campaign/items/Echo of the Silent Vigil.md",
+    "trophy/campaign/images/i-thorn-crown-of-baelric.png",
+    "trophy/campaign/images/i-chalice-of-rhaskor.png",
+    "trophy/campaign/images/i-oil-of-oltuun.png",
+    "trophy/campaign/images/i-shard-of-sundering-bell.png",
+    "trophy/campaign/images/i-feather-of-a-pale-roc.png",
+    "trophy/campaign/items",
     "trophy/jorando/sets/Evershade/Evershade.md",
     "trophy/campaign/images/wm-assets/wm-aelitha-note.png",
     "trophy/jorando/session_zero/Whispering Marshes Session Notes.md",
@@ -194,16 +198,11 @@
     "trophy/campaign/images/wm-assets/wm-l-maus-tapestry-mouth.png",
     "trophy/campaign/images/wm-assets/wm-l-maus-secret.png",
     "trophy/campaign/images/wm-assets/wm-l-maus-inside.png",
+    "trophy/jorando/Notes.md",
     "mx/story notes/PROD-6068-Randomized-Email.md",
-    "trophy/campaign/items/Waterlogged Journal.md",
-    "trophy/campaign/items",
+    "trophy/campaign/Lore.md",
     "trophy/campaign/bestiary/Muck Wraith.md",
-    "trophy/campaign/bestiary/The Dank.md",
-    "trophy/jorando/sets/Whispering Marshes/baddies/The Drowned Dead.md",
     "trophy/campaign/images/lake-assets",
-    "trophy/campaign/bestiary/Barnacle Bug.md",
-    "trophy/jorando/sets/Whispering Marshes/baddies/Huskspinner.md",
-    "trophy/jorando/Trophy Creature Template.md",
     "trophy/campaign/bestiary",
     "trophy/Trophy-Gold-Reference-Sheet.pdf",
     "trophy_public/Trophy-Gold-Reference-Sheet.pdf",

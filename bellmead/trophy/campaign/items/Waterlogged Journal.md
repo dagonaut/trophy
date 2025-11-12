@@ -1,10 +1,12 @@
+
+| ![[wm-i-ds-waterlogged-journal-edit.png\|300]] | A half-decayed journal with entries detailing the downfall of a lost expedition. Its pages are soaked and difficult to read.<br><br>*"The words run like ink in water, but many secrets still linger in its pages."*  <br><br>**Effect:** Within, one can hunt for the secrets of Jorando. |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+^waterlogged-journal
+
+{% if h != "hide" %}
 ![[wm-i-ds-waterlogged-journal.png|300]]
 
-*A half-decayed journal with entries detailing the downfall of a lost expedition. Its pages are soaked and difficult to read.*  
 
-*"The words run like ink in water, but many secrets still linger in its pages."*  
-
-**Effect:** Contains deep information about Jorando.
 
 Purpose: This item is to act as a hunt roll to teach you about the world.
 
@@ -49,3 +51,5 @@ Mechanic: ==Spout Lore... what does it tell you?==
 ![[wm-i-ds-journal.png|300]]
 
 ![[wm-i-journal-8bit.png|300]]
+
+{% endif %}
