@@ -1,7 +1,10 @@
+![[i-waterlogged-journal-edit.png|300]]
+A half-decayed journal with entries detailing the downfall of a lost expedition. Its pages are soaked and difficult to read.
 
-| ![[i-waterlogged-journal-edit.png\|300]] | A half-decayed journal with entries detailing the downfall of a lost expedition. Its pages are soaked and difficult to read.<br><br>*"The words run like ink in water, but many secrets still linger in its pages."*  <br><br>**Effect:** Within, one can hunt for the secrets of Jorando. |
-| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-^waterlogged-journal
+*"The words run like ink in water, but many secrets still linger in its pages."*  
+
+**Effect:** Within, one can hunt for the secrets of Jorando.
+
 
 {% if h != "hide" %}
 ![[wm-i-ds-waterlogged-journal.png|300]]
