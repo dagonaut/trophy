@@ -1,4 +1,4 @@
-![[wm-c-huskspinner.png|300]]
+![[c-huskspinner.png|300]]
 
 **Grotesque Marsh Insect – CR 7**
 

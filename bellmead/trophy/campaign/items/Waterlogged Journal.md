@@ -1,4 +1,5 @@
 ![[i-waterlogged-journal-edit.png|300]]
+
 A half-decayed journal with entries detailing the downfall of a lost expedition. Its pages are soaked and difficult to read.
 
 *"The words run like ink in water, but many secrets still linger in its pages."*  

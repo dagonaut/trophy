@@ -1,4 +1,4 @@
-![[wm-c-drowned dead.png|300]]
+![[c-drowned dead.png|300]]
 
 **Bog Menace** - CR 6/7/8/9 (depending on load out)
 
@@ -28,4 +28,4 @@ Speaking a prayer aloud and with conviction or a strong holy symbol will cause t
 | 4   | Circling the base of a Mourning Stone, murmuring inaudibly.                                        |
 | 5   | One drags a half-sunken body, as if trying to save it—or drown it.                                 |
 | 6   | Floating lifelessly, until disturbed by sound or light, then attacking in frenzy.                  |
-![[wm-drowned dead.webp|300]]  ![[wm-drowned dead-blacksmith.webp|300]]![[wm-drowned dead-military.webp|300]]  ![[wm-drowned dead-peasant.webp|300]]
+![[c-drowned dead-regular.webp|300]]  ![[c-drowned dead-blacksmith.webp|300]]![[c-drowned dead-military.webp|300]]  ![[c-drowned dead-peasant.webp|300]]
