@@ -1,6 +1,6 @@
 ![[wm-ritual site-mausoleum.webp]]
 Hidden among the reeds and fog there is an ancient ritual site. The site is marked by mourning stones with faded glyphs, weathered altars, and scattered relics of a bygone era. Strange symbols are etched into the ground and the air feels charged with residual magic. 
-* There is a Feyheart Blossom on one of the Mourning Stones
+* ==There is a Feyheart Blossom on one of the Mourning Stones==
 
 
 There is mausoleum at the center housing the remains of an important man. 
