@@ -13,6 +13,8 @@ Ask about people's individual religions? The Sisters.
 Session 2:
 - [ ] Aelita's note
 
+==Dig into Drives. Don't forget that!==
+
 
 Progression:
 - [x] Shrouded Path (where you start)
@@ -39,7 +41,7 @@ List of complications:
 * A member/an assassin of the Earthen Council is there
 * An agent of the Witch makes their presence known
 * A fighter from the festival is present
-* See [[Whispering Marshes]] Moments
+* See [[trophy/jorando/sets/Whispering Marshes/Whispering Marshes]] Moments
 * Something to use [[Aram (Brad)]]'s soap
 * Monster
 * Trap

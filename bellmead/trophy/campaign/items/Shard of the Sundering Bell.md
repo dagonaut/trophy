@@ -1,4 +1,4 @@
 
-| ![[i-shard-of-sundering-bell.png\|300]] | A jagged piece of dark metal, warped by heat and violence. When struck, it gives off a hollow tone that echoes too long.<br><br>_"When Rhaskor fell, the bell tolled itself into silence."_<br><br>Effect: Ring to repel some spirits and attract others. |
-| --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![[i-shard-of-sundering-bell.png]] | A jagged piece of dark metal, warped by heat and violence. When struck, it gives off a hollow tone that echoes too long.<br><br>_"When Rhaskor fell, the bell tolled itself into silence."_<br><br>Effect: Ring to repel some spirits and attract others. |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 ^shard-of-the-sundering-bell

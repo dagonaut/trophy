@@ -1,4 +1,4 @@
-### [[Whispering Marshes]]
+### [[trophy/jorando/sets/Whispering Marshes/Whispering Marshes]]
 [[Bogwood Staff]]
 [[Glowmoss Lantern]]
 [[Fenroot Elixir]]
