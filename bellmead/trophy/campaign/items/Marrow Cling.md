@@ -1,5 +1,6 @@
 ![[i-marrow-cling.png|300]]
-*A dark, irregular cluster of parasitic barnacles, faintly pulsing with life.*
+
+A dark, irregular cluster of parasitic barnacles, faintly pulsing with life.
 
 *"Its vitality is yours, but it hungers for more."*
 

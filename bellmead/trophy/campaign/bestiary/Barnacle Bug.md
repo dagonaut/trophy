@@ -1,6 +1,6 @@
 a.k.a. Barnacle Buddy
 
-![[wm-c-huskspinner.png|300]]
+![[c-huskspinner.png|300]]
 
 **Grotesque Marsh Insect**
 
