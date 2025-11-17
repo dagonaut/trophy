@@ -1,10 +1,7 @@
-![[i-marrow-cling.png|300]]
 
-A dark, irregular cluster of parasitic barnacles, faintly pulsing with life.
-
-*"Its vitality is yours, but it hungers for more."*
-
-**Effect:** Used in crafting.
+| ![[i-marrow-cling.png\|300]] | *A dark, irregular cluster of parasitic barnacles, faintly pulsing with life.*<br><br>*"Its vitality is yours, but it hungers for more."*<br><br>**Effect:** Used in crafting. |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+^marrow-cling
 
 {% if h != "hide" %}
 
@@ -32,5 +29,8 @@ This is often collected as "treasure"
 To craft with it requires a dark die. It can't give you Ruin, but it can give a condition.
 
 Crafting this, you can apply it to your weapon or armor. Makes armor last twice. Makes weapons +1 to a die roll, but only applies once. 
+
+{% endif %}
+
 
 {% endif %}
