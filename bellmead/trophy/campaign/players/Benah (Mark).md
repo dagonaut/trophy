@@ -1,6 +1,6 @@
 ![[char-benah.png]]
 
-Is: Artificer — alchemy, invention, traps
+Is: Artificer — alchemy, invention, traps   
 Was: Opportunistic Graverobber — death
 
 Drive: Break the geas placed by the Witch of Nevask

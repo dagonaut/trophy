@@ -13,6 +13,9 @@
 **The Shrouded Path & The Mourning Stones**
 ![[wm-shrouded path (with stones).webp]]
 ![[wm-mourning stones on path.webp]]
+**Mourning Stone wrapped in [[Marrow Cling]]**
+![[wm-mourning stone-marrow cling.webp]]
+
 **The Bog Heart**
 ![[l-bog-heart-green.png]]
 ![[l-bog-heart-blue.png]]

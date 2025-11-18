@@ -1,5 +1,7 @@
 ### Next Session Start / Follow-up?
 Starting in the [[The Silt Circle]], they have the items below
+Remind them about Drives, mementos, items
+Changelog: updated Goal
 #### Item/Action Milestones
 - [x] Find the first Echo [[Alaric and Liorna|Liorna]]
 - [ ] Find the [[Shattered Legion Halberd]]
@@ -23,6 +25,7 @@ Starting in the [[The Silt Circle]], they have the items below
 - [x] Mourning Stones (where-ever)
 - [ ] Silt Circle (where you find [[Priests Jaw Bone]])
 - [x] Bog Heart (where you end up)
+- [ ] [[The Drowned King]] Approach
 
 #### Info to remember:
 - [ ] Drives!
