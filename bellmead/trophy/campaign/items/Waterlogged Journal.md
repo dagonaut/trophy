@@ -6,8 +6,18 @@ A half-decayed journal with entries detailing the downfall of a lost expedition.
 
 **Effect:** Within, one can hunt for the secrets of Jorando.
 
-
 {% if h != "hide" %}
+Journal Entries:
+![[i-journal-feyheart.png|300]]
+
+![[i-journal-priest-jaw.png|300]]
+![[i-journal-drowned-king.png|300]]
+
+
+
+
+
+
 ![[wm-i-ds-waterlogged-journal.png|300]]
 
 
@@ -55,5 +65,8 @@ Mechanic: ==Spout Lore... what does it tell you?==
 ![[wm-i-ds-journal.png|300]]
 
 ![[wm-i-journal-8bit.png|300]]
+
+{% endif %}
+
 
 {% endif %}

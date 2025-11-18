@@ -18,7 +18,7 @@ _Once a noble ruler of Kalduhr, the Drowned King came to Jorando to atone for hi
 
 * Special: **Aura of Despair** – Players within close range must pass a [[Risk Roll]] to resist overwhelming sorrow, reducing their combat effectiveness. Condition: despair.   
 
-* <span style="color:rgb(0, 176, 80)">Weakness</span>: **Light of the Ancients** – The Drowned King is vulnerable to radiant or holy light. Players can find an ancient lantern in the Whispering Marshes that, when combined with the [[Priests Jaw Bone]] & lit, weakens his endurance by 4
+* <span style="color:rgb(0, 176, 80)">Weakness</span>: **Light of the Ancients** – The Drowned King is vulnerable to radiant or holy light. Players can find an ancient lantern in the Whispering Marshes that, when combined with the [[Priests Jaw Bone]] & lit, weakens his endurance by 2
 #### Treasures:
 - **Crown of the Drowned King (Helm)** – A rusted crown that grants the wearer resistance to poison and disease, but slowly drains their vitality.
 - ![[item-crown-of-the-drowned-king.png]]
