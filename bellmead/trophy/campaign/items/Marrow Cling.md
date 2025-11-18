@@ -1,6 +1,6 @@
 
-| ![[i-marrow-cling.png\|300]] | *A dark, irregular cluster of parasitic barnacles, faintly pulsing with life.*<br><br>*"Its vitality is yours, but it hungers for more."*<br><br>**Effect:** Used in crafting. |
-| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![[i-marrow-cling.png]] | *A dark, irregular cluster of parasitic barnacles, faintly pulsing with life.*<br><br>*"Its vitality is yours, but it hungers for more."*<br><br>**Effect:** Used in crafting. |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 ^marrow-cling
 
 {% if h != "hide" %}

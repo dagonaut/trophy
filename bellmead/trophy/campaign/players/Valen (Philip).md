@@ -1,3 +1,5 @@
+![[char-valen.png|300]]
+
 Is: Lancer — balance, coordination, precision
 Was: Reckless Moneylender — ambition
 

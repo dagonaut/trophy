@@ -13,7 +13,7 @@ Journal Entries:
 ![[i-journal-priest-jaw.png|300]]
 ![[i-journal-drowned-king.png|300]]
 
-
+![[i-journal-marrow-cling.png|300]]
 
 
 
@@ -35,7 +35,7 @@ List of things you learn:
 	* _"Bind the tongue of the fallen priest to the lantern’s glow, and drown not—let his voice be heard."_
 * Feyheart Blossom
 	* *"The flower is a bloom of hope, it has rejuvenated our spirit, but only for the brave who dare to pluck it."* - instructions on how to brew a tincture. ==describe the recipe==. (they're brave because you gotta get it in the Bogheart)
-* Marrow Cling
+* [[Marrow Cling]]
 	* _"It will cling to you and take your power, but if it clings to something else, perhaps it can give it."_
 * Subversion
 	* _"We travel these lands, lost and scared. The silence here is deafening, the fog yearns to hear the songs of the past."_

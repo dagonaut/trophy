@@ -1,3 +1,5 @@
+![[char-vero.png]]
+
 Is: Lockpick — acrobatics, security, silence
 Was: Reformed Thug — intimidation
 

@@ -1,3 +1,5 @@
+![[char-benah.png]]
+
 Is: Artificer — alchemy, invention, traps
 Was: Opportunistic Graverobber — death
 
@@ -14,7 +16,10 @@ Armor:  studded gauntlets (also weapon)
 Rituals: (1)
 Wall — create a dense wall of fire, ice, stone, thorns, or water
 
-Memento: wedding ring (and finger)
-Debt: husband is Baso, witch of navask still alive, cursed husband (geas). must pay dowery to marry back.
-Reason/skill: forensics
-Thorn-Crown of Baelric
+Memento: wedding ring (and finger)  
+
+Debt: husband is Baso, witch of navask still alive, cursed husband (geas). must pay dowery to marry back.  
+
+Reason/skill: forensics  
+
+Thorn-Crown of Baelric  

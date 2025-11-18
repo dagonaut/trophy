@@ -100,7 +100,7 @@ _"They called me mad. They sealed me away. I see them still, drowning in the end
     - **Veil of the Seer** — A ghostly veil that grants visions of the future but at the cost of sanity.  
     - **Ring of Echoes** — Allows telepathic communion, but the voices grow unbearable over time.  
 
-### The Drowned King
+### The Drowned King [[The Drowned King]]
 
 **Echo of a King’s Guilt**
 ![[echo-of-a-kings-guilt.png|300]]

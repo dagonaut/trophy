@@ -1,7 +1,6 @@
-You have all rested at the bonfire and your items/ruin is reset to its base. You keep your special items and all items that you started with are present.
-
-Ask about people's individual religions? The Sisters. 
-
+### Next Session Start / Follow-up?
+Starting in the [[The Silt Circle]], they have the items below
+#### Item/Action Milestones
 - [x] Find the first Echo [[Alaric and Liorna|Liorna]]
 - [ ] Find the [[Shattered Legion Halberd]]
 - [ ] Find the [[Priests Jaw Bone]]
@@ -9,31 +8,37 @@ Ask about people's individual religions? The Sisters.
 - [x] Find the [[Waterlogged Journal]] - players can HUNT roll it.
 - [ ] Encounter [[The Drowned King]] or subvert it
 - [ ] [[Marrow Cling]], [[Feyheart Blossom]], and making items. The former can be harvested.. let players get clever.
-
-Session 2:
 - [ ] Aelita's note
+- [ ] ==Journal Notes==: Jawbone, Drowned King, Feyheart Blossom, Marrow Cling
 
-==Dig into Drives. Don't forget that!==
-
-
-Progression:
+#### Lore Milestones:
+- [ ] Echoes, what are they? What do they do?
+- [ ] [[Father Lorian]]
+- [ ] The Hollowed Priests and the nature of the Church
+- [ ] The Corruption of the [[Lake of Tears]]
+- [ ] [[Alaric and Liorna]]
+- [ ] [[The Shattered Legion]] Should I still do this?
+#### Set progression:
 - [x] Shrouded Path (where you start)
 - [x] Mourning Stones (where-ever)
 - [ ] Silt Circle (where you find [[Priests Jaw Bone]])
 - [x] Bog Heart (where you end up)
 
-==NEED==
-You hunt the waterlogged journal based on an idea. So you need to be specific
-Lorian or the Hollowed Priest is something
-The Jawbone
-The King
-Establishing image of the approach to [[Evershade]]
+#### Info to remember:
+- [ ] Drives!
 
-[[The Drowned King]]
+#### Questions to ask:
+- [ ] What is your religion, the sisters, how does this align with or challenge your religious sensibilities?
+- [ ] How does this relate to your drives.
+#### TO DO/Build technical stuff: [[Waterlogged Journal]]
+- [x] Journal Entry: Marrow Cling
+- [x] Establishing image of the approach to [[Evershade]]
+- [ ] Journal Entry: Shattered Legion
+- [ ] Drowned King approach image
+- [x] Drowned King item: Crown
+- [x] Drowned King item: Sword
+- [x] Drowned King item: Echo
 
-Lore:
-- [ ] Echoes are a thing
-- [ ] Notes about Shattered Legion (though no encounter)
 
 If you die and respawn, you get an estus flask (The [[Fenroot Elixir]]). Respawn is a death that has not be realized. This area is such that those that die have things left. Most are just shades, but you are something more.
 

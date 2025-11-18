@@ -1,5 +1,5 @@
 site_name: Jorando
-site_url: https://example.com   # optional; set your real URL if you have one
+site_url: https://Jorando.com   # optional; set your real URL if you have one
 theme:
   name: material
   features:

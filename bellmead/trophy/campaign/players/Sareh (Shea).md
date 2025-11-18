@@ -1,3 +1,4 @@
+![[char-sareh.png|300]]
 
 Is: Sorcerer — alchemy, rituals, symbols
 Was: Liberated Prisoner — deals
@@ -19,7 +20,10 @@ Rituals: (2)
 Shroud — as long as they remain motionless, a group of creatures are hidden from others’ senses
 Feral — increase the size, temper, and monstrosity of a creature you touch
 
-Memento: family sash/crest (Cyrus murdered them)
-Debt: Failed assassination of Cyrus; a lot of people died
-Reason/Skill: sense power
-Feather of Pale Roc
+Memento: family sash/crest (Cyrus murdered them)  
+
+Debt: Failed assassination of Cyrus; a lot of people died  
+
+Reason/Skill: sense power  
+
+Feather of Pale Roc  
