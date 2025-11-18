@@ -29,6 +29,8 @@ The Jawbone
 The King
 Establishing image of the approach to [[Evershade]]
 
+[[The Drowned King]]
+
 Lore:
 - [ ] Echoes are a thing
 - [ ] Notes about Shattered Legion (though no encounter)
