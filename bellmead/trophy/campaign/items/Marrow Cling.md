@@ -31,6 +31,3 @@ To craft with it requires a dark die. It can't give you Ruin, but it can give a 
 Crafting this, you can apply it to your weapon or armor. Makes armor last twice. Makes weapons +1 to a die roll, but only applies once. 
 
 {% endif %}
-
-
-{% endif %}
