@@ -67,6 +67,3 @@ Mechanic: ==Spout Lore... what does it tell you?==
 ![[wm-i-journal-8bit.png|300]]
 
 {% endif %}
-
-
-{% endif %}
