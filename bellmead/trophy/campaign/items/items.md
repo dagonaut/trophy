@@ -1,7 +1,9 @@
-
-![[i-glowmoss-lantern-edit.png|300]]  [[Glowmoss Lantern]]
+![[i-lantern-of-the-hollowed-voice.png|300]] [[Lantern of the Hollowed Voice]]
 
 ![[i-waterlogged-journal-edit.png|300]]  [[Waterlogged Journal]]  
+
+![[wm-i-ds-feyheart-blossom-better.png|300]]  [[Feyheart Blossom]]
+
 ![[i-marrow-cling.png|300]] [[Marrow Cling]]
 
 ![[i-thorn-crown-of-baelric.png|300]] [[Thorn Crown of Baelric]]

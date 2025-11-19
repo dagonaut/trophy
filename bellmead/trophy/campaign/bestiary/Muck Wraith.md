@@ -1,4 +1,5 @@
 ![[c-bog-wraith-boat.png|300]]
+
 _Amphibious Predator_ {% if h != "hide" %} 10 {% endif %} 
 
 **Appearance:**  

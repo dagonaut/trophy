@@ -7,9 +7,9 @@ Silt Circle
 Shrouded Path / Mourning Stones
 
 Tokens:
-Shea: 2
-Z: 1
-Brad: 2
+Shea: 1
+Z: 0
+Brad: 1
 
 Water Logged Journal -z
 Glowmoss Lantern -brad
@@ -36,3 +36,42 @@ Huskspinner - barnacle bug
 6
 
 Ended in the Silt Circle. We need to start there. Update all the resources and things. 
+
+---
+2025-11-18
+Revered: The maus is cathedral-esc
+
+Feared:  Inscriptions above and images are of mutilation and unholy acts. 
+
+The Sisters are associated with funerary practices. ==They are in conflict with the Hollowed Saints==
+
+Discover Note, Jawbone, Jawbone lore, Aelitha note
+They get the lantern of the Hollow Voice
+
+Rat fight:
+B: 1
+V: 5
+A: 4 
+
+Bestiary - Pyraats
+
+Goal added: Jawbone Lantern (satisfied)
+Feyheart Blossom
+See the shade... it whispers Aelitha
+
+Asks the priest what do you want. The reverse the corruption of the lake. To allow souls to unburden themselves... to cleanse the cistern... to purify the lake.
+
+Ask the Lantern Maw to take them to the Cistern via the lantern.
+
+Wailing Lantern
+
+Force them into library use. 
+
+Add Aram's image to the website
+
+Ending at the boss fight. 
+
+
+
+
+

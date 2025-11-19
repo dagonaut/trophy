@@ -7,6 +7,7 @@
 *This is the road to the village [[Evershade]], if you can find it.*
 ### Goals:
 - Find the path leading out of the Whispering Marshes
+- Discover the secrets of the Priest's Jaw Bone
 
 ### Locations:
 
@@ -22,3 +23,11 @@
 **The Silt Circle**
 ![[wm-ritual site-mausoleum.webp]]
 Hidden among the reeds and fog there is an ancient ritual site. The site is marked by mourning stones with faded glyphs, weathered altars, and scattered relics of a bygone era. Strange symbols are etched into the ground and the air feels charged with residual magic. 
+
+**The Mausoleum:**
+![[wm-l-maus-inside.png]]
+
+![[wm-l-maus-tapestry-mouth.png]]
+
+![[wm-l-maus-secret.png]]
+

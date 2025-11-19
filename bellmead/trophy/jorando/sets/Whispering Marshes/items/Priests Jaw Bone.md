@@ -18,4 +18,4 @@ _"Only by lighting the forgotten sermon can his sorrow take form."_
 _"The light alone he does not fear, but give it a voice, and he will tremble."_
 _"What was said in death must be shown in light. Only then will the drowned turn their gaze."_
 
-![[wm-i-ds-jawbone-edit.png|300]]
+![[i-jawbone-edit.png|300]]

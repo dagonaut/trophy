@@ -23,3 +23,9 @@ Debt: husband is Baso, witch of navask still alive, cursed husband (geas). must 
 Reason/skill: forensics  
 
 Thorn-Crown of Baelric  
+
+{% if h != 'hide' %}
+
+Religious affiliation: Non-sister
+
+{% endif %}

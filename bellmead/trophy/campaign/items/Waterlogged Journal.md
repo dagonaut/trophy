@@ -6,16 +6,18 @@ A half-decayed journal with entries detailing the downfall of a lost expedition.
 
 **Effect:** Within, one can hunt for the secrets of Jorando.
 
+#### Journal Entries:
+![[i-journal-priest-jaw.png|300]]
+
 {% if h != "hide" %}
 Journal Entries:
 ![[i-journal-feyheart.png|300]]
 
-![[i-journal-priest-jaw.png|300]]
 ![[i-journal-drowned-king.png|300]]
 
 ![[i-journal-marrow-cling.png|300]]
 
-
+![[i-journal-legion.png]]
 
 
 ![[wm-i-ds-waterlogged-journal.png|300]]
