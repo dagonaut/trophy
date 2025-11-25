@@ -6,6 +6,8 @@ _A rare, ethereal flow that blooms in the forgotten places of Jorando. Its petal
 
 **Effect:** Can be brewed into a healing tincture, if you know the recipe.
 
-{% if h != 'hide' %}
+{% if h != "hide" %}
+
 Ask players: Name how the recipe works.
+
 {& endif &}

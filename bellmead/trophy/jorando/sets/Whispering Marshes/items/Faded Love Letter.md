@@ -1,6 +1,7 @@
 
 _A yellowed piece of parchment folded many times over, the ink faded but still legible in soft light. The scent of lavender clings to it faintly, preserved by some emotional residue rather than time. It is tucked in the drawer of a cracked writing desk in the hollowed ruins beneath the bell tower._
 
+![[i-letter.png|300]]
 **Contents:**
 
 > _My Dearest Liorna,_

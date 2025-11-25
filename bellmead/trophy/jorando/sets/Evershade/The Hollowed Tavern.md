@@ -1,4 +1,8 @@
 ![[ev-tavern-external.png|300]] ![[ev-tavern-internal.png|300]]
+![[l-tavern-mirror.png]]
+![[l-tavern-hostel.png]]
+
+
 
 _Once the center of the village, the Hollowed Tavern was a place of warmth, drink, and stories. Now, it stands as a rotting husk of itself—its wooden beams swollen with moisture, the hearth cold, and chairs collapsed in disuse. Yet the air here feels thicker, heavier, as if memory itself lingers like smoke. Sometimes, on the edge of hearing, the crack of a tankard or the lilt of a love song flickers through the silence._
 
@@ -16,4 +20,12 @@ Inside the tavern, the spirits of the dead villagers occasionally replay their f
 - **Bottle of Salted Flame**: Behind the bar lies a sealed bottle of spirit made from water from the [[Lake of Tears]] and rare herbs. When drunk, it grants the condition (magical) which restores 1 use of a magical item or allows one re-roll during a ritual, but causes momentary memory loss.
 
 - **Old Registry Book**: A mold-ridden ledger listing the names of travelers who passed through before the fall. If your name is written in it (or appears mysteriously), the spirits recognize you as a friend—changing how encounters unfold within the tavern and graveyard. May also contain a clue about Alaric or Liora.
+
+* If you spend the night in the Tavern, you can reduce your RUIN by 1. Things will, no doubt occur. Dreams pointing to goals/other features. If you sleep you find the [[Crumbling Diary]], the [[Silver Locket of Eternal Vows]]
+	* Dream of the Feyheart Blossom
+	* Dream of Liorna
+	* Dream of The Graveyard
+	* Dream of the Sentinel and how it destroyed the people of Evershade
+	* Dream of a way to call the boatman (to bypass the Sentinel)
+
   

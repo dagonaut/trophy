@@ -6,7 +6,7 @@ The village of **Evershade** once thrived on the shores of the [[Lake of Tears]]
 
 As [[The Shattered Legion]]'s influence spread, the amount of mourners grew exponentially, but the nature of their sorrow had changed. Turned darker, more violent, seeking vengeance--not peace.
 
-Now the streets of Evershade are silent and overgrown, with crumbling houses and thick vines blocking out the sun. The air is heavy with the scent of decay, and the echoes of past lives  linger in the shadows.  
+Now the streets of Evershade are silent and overgrown, with crumbling houses and thick vines blocking out the sun. The air is heavy with the scent of decay, and the echoes of past lives linger in the shadows.  
 
 ### Goals:
 - Uncover the secrets to find the [[Weeping Well]] and the hidden tunnel to [[The Cistern]]    
