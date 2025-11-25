@@ -2,7 +2,8 @@
 
 ![[i-waterlogged-journal-edit.png|300]]  [[Waterlogged Journal]]  
 
-![[wm-i-ds-feyheart-blossom-better.png|300]]  [[Feyheart Blossom]]
+![[wm-i-ds-feyheart-blossom-better.png|300]]  
+[[Feyheart Blossom]]
 
 ![[i-marrow-cling.png|300]] [[Marrow Cling]]
 

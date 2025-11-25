@@ -5,9 +5,3 @@ _A rare, ethereal flow that blooms in the forgotten places of Jorando. Its petal
 *"The Saints thought it grows in a place where the dead have found peace."*
 
 **Effect:** Can be brewed into a healing tincture, if you know the recipe.
-
-{% if h != "hide" %}
-
-Ask players: Name how the recipe works.
-
-{& endif &}
