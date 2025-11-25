@@ -1,4 +1,4 @@
-![[wm-i-ds-feyheart-blossom-better.png|300]]
+![[i-feyheart-blossom.png|300]]
 
 _A rare, ethereal flow that blooms in the forgotten places of Jorando. Its petals shimmer faintly as if wet with dew, though it never wilts or dries. When held, the pulse of its stem matches the rhythm of the bearer’s heart_
 
