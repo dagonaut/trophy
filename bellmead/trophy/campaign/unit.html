@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="cardMaker">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Unit Card Generator</title>
+  <!-- AngularJS 1.x -->
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.3/angular.min.js"></script>
+  <!-- html2canvas for export -->
+  <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Roboto+Condensed:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    :root{
+      --card-w: 1100px; /* printable width */
+      --card-h: 780px;  /* printable height */
+      --brand:#2b2b2b;
+      --accent:#4caf50;
+      --accent-2:#ffc107;
+      --danger:#ef5350;
+      --light:#f8f9fb;
+      --muted:#8a8f98;
+      --ink:#222;
+    }
+
+    *{ box-sizing:border-box; }
+    body{
+      margin:0; padding:24px;
+      background:#0f1113;
+      color:#e9edf2;
+      font-family: Roboto, system-ui, -apple-system, Segoe UI, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+    }
+
+    h1{
+      font-family: "Roboto Condensed", Roboto, sans-serif;
+      letter-spacing: .5px;
+      margin:0 0 16px;
+      font-weight:700;
+    }
+
+    ul{
+        padding-inline-start:0px;
+    }
+
+    .app{
+      display:grid;
+      grid-template-columns: 420px 1fr;
+      gap:24px;
+      align-items:start;
+    }
+
+    /* ======= CONTROL PANEL ======= */
+    .panel{
+      background:#14171a;
+      border:1px solid #1d232b;
+      border-radius:16px;
+      padding:18px;
+      position:sticky; top:16px;
+      box-shadow: 0 10px 30px rgba(0,0,0,.35);
+    }
+
+    .section{ margin: 12px 0 18px; }
+    .section h3{
+      margin:8px 0 10px; font: 700 14px/1 "Roboto Condensed"; color:#cfd6df; text-transform:uppercase; letter-spacing:.6px;
+      border-bottom:1px dashed #27303b; padding-bottom:6px;
+    }
+    label{ display:block; font-size:12px; color:#9fb0c3; margin:.25rem 0 .15rem; }
+    input[type="text"], input[type="number"], textarea, select{
+      width:100%;
+      background:#0d0f12;
+      border:1px solid #2a313a;
+      color:#e9edf2; padding:10px 12px; border-radius:10px;
+      outline:none;
+    }
+    textarea{ min-height:72px; resize:vertical; }
+    .row{ display:grid; grid-template-columns: 1fr 1fr; gap:10px; }
+    .btn{
+      background:#1f2630; border:1px solid #2a313a; color:#e9edf2;
+      padding:10px 14px; border-radius:12px; cursor:pointer; font-weight:600;
+    }
+    .btn:hover{ background:#232c37; }
+    .btn.primary{ background:#2f7d32; border-color:#388e3c; }
+    .btn.danger{ background:#7c2220; border-color:#8b2b28; }
+    .btn-row{ display:flex; gap:8px; flex-wrap:wrap; }
+
+    .mini-grid{ display:grid; grid-template-columns: 1fr 70px 70px 70px 70px; gap:6px; }
+    .mini-grid span.head{ font:700 12px/1 "Roboto Condensed"; color:#cfd6df; text-transform:uppercase; letter-spacing:.4px; align-self:end }
+
+    .pill{ display:inline-flex; align-items:center; gap:6px; background:#0b0d10; border:1px solid #303a45; padding:6px 8px; border-radius:999px; font-size:12px; }
+
+    /* ======= CARD ======= */
+    .canvas-wrap{ display:flex; flex-direction:column; gap:12px; align-items:flex-start; }
+
+    .card{
+      max-width: 5in;     /* constrain printable width */
+      width: 100%;
+      height: auto;       /* allow content to flow vertically */
+      background: #fff; color: var(--ink);
+      border-radius: 18px; overflow:visible;
+      box-shadow: 0 40px 100px rgba(0,0,0,.55), 0 2px 8px rgba(0,0,0,.35);
+      position:relative; isolation:isolate;
+      font-family: Roboto, sans-serif;
+    }
+
+    .card .watermark{
+      position:absolute; inset:0; display:flex; align-items:center; justify-content:center; opacity:.06; pointer-events:none; mix-blend-mode:multiply; filter: grayscale(1) contrast(1.05);
+    }
+    .card .watermark img{ max-width:80%; max-height:80%; }
+
+    .header{
+      display:grid; grid-template-columns: 1fr auto; align-items:center;
+      padding:12px 16px; background:linear-gradient(180deg,#f5f7fa,#e7ecf3);
+      border-bottom:3px solid #d8dee9;
+    }
+    .title{ font:700 22px/1.2 "Roboto Condensed"; letter-spacing:.5px; }
+    .subtitle{ font:500 12px/1.2 Roboto; color:#5b6775; }
+    .badges{ display:flex; gap:6px; justify-self:end; flex-wrap:wrap; }
+    .badge{ background:#222; color:#fff; padding:6px 10px; border-radius:10px; font:700 11px/1 "Roboto Condensed"; text-transform:uppercase; letter-spacing:.6px; }
+
+    /* stack sections vertically instead of two-column boxes */
+    .grid{
+      display:grid;
+      grid-template-columns: 1fr; /* single column stack */
+      /* gap:12px;       */
+    }
+
+    /* remove boxed appearance and make sections flush/stacked */
+    .bloc{
+      border: none;
+      border-radius: 0;
+      overflow: visible;
+      background: transparent;
+      padding: 0; /* keep content aligned with card edge */
+    }
+    .bloc h4{
+      margin: 0 0 8px 0;
+      padding: 0 0 6px 0;
+      font:700 14px/1 "Roboto Condensed";
+      letter-spacing:.6px;
+      background: transparent;
+      border-bottom: none;
+      text-transform:uppercase;
+      color: #334155;
+    }
+
+    .table{ padding:8px 10px 12px; }
+    table{ width:100%; border-collapse:collapse; font-size:13px; }
+    th, td{ border-bottom:1px solid #e7edf4; padding:6px 6px; text-align:left; }
+    th{ font:700 12px/1 "Roboto Condensed"; color:#334155; text-transform:uppercase; letter-spacing:.5px; }
+    td small{ color:#64758b; }
+
+    .abilities{ padding:0px 6px; }
+    .abilities ul{ margin:8px 0 0 18px; }
+    .abilities li{ margin-bottom:2px; }
+
+    .track{
+    display: grid;
+    /* flow columns for however many pips there are and center them */
+    grid-auto-flow: column;
+    grid-auto-columns: minmax(36px, 1fr);
+    justify-content: center;
+    align-items: center;
+    gap:6px;
+    padding:10px 12px 14px;
+    }
+    .pip{ height:20px; border-radius:4px; background:#cfd8e3; display:flex; align-items:center; justify-content:center; font:700 11px/1 "Roboto Condensed"; }
+    /* ensure the final pip is always red and shows a skull */
+    .pip.last-pip{ background:#e53935 !important; color:#fff !important; font-size:12px; font-weight:900; }
+    .pip.k1{ background:#aad3a6 }
+    .pip.k2{ background:#c6e6a1 }
+    .pip.k3{ background:#f7ec98 }
+    .pip.k4{ background:#ffd98e }
+    .pip.k5{ background:#ffc8a6 }
+    .pip.k6{ background:#ffa6a3 }
+
+    .footer-note{ padding:8px 12px 12px; font-size:11.5px; color:#5a6676; }
+
+    /* ===== PRINT ===== */
+    @media print {
+      body{ background:#fff; padding:0; }
+      .app{ grid-template-columns: 1fr; }
+      .panel{ display:none; }
+      .card{ box-shadow:none; margin:0; }
+    }
+  </style>
+</head>
+<body ng-controller="MainCtrl as vm">
+  <h1>Unit Card Generator</h1>
+  <div class="app">
+    <!-- =================== CONTROL PANEL =================== -->
+    <div class="panel">
+      <div class="section">
+        <h3>Basics</h3>
+        <label>Title</label>
+        <input type="text" ng-model="vm.card.title" placeholder="Strain Leader" />
+        <label>Subtitle</label>
+        <input type="text" ng-model="vm.card.subtitle" placeholder="APL: 2  M: 6\"  Sv: 5+  W: 10" />
+        <div class="row">
+          <div>
+            <label>Badge (left)</label>
+            <input type="text" ng-model="vm.card.badgeL" placeholder="Leader" />
+          </div>
+          <div>
+            <label>Badge (right)</label>
+            <input type="text" ng-model="vm.card.badgeR" placeholder="Vespid" />
+          </div>
+        </div>
+        <label class="mt">Watermark (optional)</label>
+        <input type="file" accept="image/*" ng-model="vm.wmInput" ng-change="vm.handleWatermark($event)" id="wmInput" />
+      </div>
+
+      <div class="section">
+        <h3>Weapons</h3>
+        <div class="mini-grid">
+          <span class="head">Name</span>
+          <span class="head">Atk</span>
+          <span class="head">Hit</span>
+          <span class="head">Dmg</span>
+          <span class="head">WR</span>
+        </div>
+        <div ng-repeat="w in vm.card.weapons track by $index" style="margin:6px 0 10px;">
+          <div class="mini-grid">
+            <input type="text" ng-model="w.name" placeholder="Neutron blaster" />
+            <input type="text" ng-model="w.atk" placeholder="4" />
+            <input type="text" ng-model="w.hit" placeholder="3+" />
+            <input type="text" ng-model="w.dmg" placeholder="3/3" />
+            <input type="text" ng-model="w.wr" placeholder="Devastating 2" />
+          </div>
+          <label>Notes / Traits</label>
+          <input type="text" ng-model="w.traits" placeholder="Keywords, range, special rules…" />
+          <div class="btn-row" style="margin-top:6px">
+            <button class="btn" ng-click="vm.moveWeapon($index,-1)" title="Move up">▲</button>
+            <button class="btn" ng-click="vm.moveWeapon($index,1)" title="Move down">▼</button>
+            <button class="btn danger" ng-click="vm.removeWeapon($index)">Remove</button>
+          </div>
+          <hr style="border:0;border-top:1px dashed #2a313a; margin:10px 0;" ng-if="$index < vm.card.weapons.length-1" />
+        </div>
+        <button class="btn" ng-click="vm.addWeapon()">+ Add weapon</button>
+      </div>
+
+      <div class="section">
+        <h3>Abilities</h3>
+        <div ng-repeat="ab in vm.card.abilities track by $index" style="margin-bottom:8px;">
+          <input type="text" ng-model="ab.title" placeholder="Communion Helm" />
+          <textarea ng-model="ab.text" placeholder="Once during each activation…"></textarea>
+          <div class="btn-row">
+            <button class="btn danger" ng-click="vm.removeAbility($index)">Remove</button>
+          </div>
+        </div>
+        <button class="btn" ng-click="vm.addAbility()">+ Add ability</button>
+      </div>
+
+      <div class="section">
+        <h3>Footer Note</h3>
+        <textarea ng-model="vm.card.footer" placeholder="Optional rules text or reminder…"></textarea>
+      </div>
+
+      <div class="section">
+        <h3>Wound Track</h3>
+        <label>Comma-separated pips (left→right)</label>
+        <input type="text" ng-model="vm.card.pipsRaw" placeholder="10,9,8,7,6,5,4,3,2,1,☠" ng-change="vm.syncPips()" />
+      </div>
+
+      <div class="btn-row">
+        <button class="btn primary" ng-click="vm.exportPNG()">Download PNG</button>
+        <button class="btn" onclick="window.print()">Print</button>
+        <button class="btn" ng-click="vm.loadExample()">Load Example</button>
+        <button class="btn" ng-click="vm.clearForm()">Clear form</button>
+        <a class="btn" href="/mnt/data/hivestorm-cards.png" target="_blank">View Reference</a>
+      </div>
+    </div>
+
+    <!-- =================== CARD (PREVIEW / EXPORT TARGET) =================== -->
+    <div class="canvas-wrap">
+      <div id="exportTarget" class="card">
+        <div class="watermark" ng-if="vm.card.watermark"><img ng-src="{{vm.card.watermark}}" alt="watermark" /></div>
+        <div class="header">
+          <div>
+            <div class="title">{{vm.card.title || 'Unit Name'}}</div>
+            <div class="subtitle">{{vm.card.subtitle || 'APL: –  M: –  Sv: –  W: –'}}</div>
+          </div>
+          <div class="badges">
+            <span class="badge" ng-if="vm.card.badgeL">{{vm.card.badgeL}}</span>
+            <span class="badge" ng-if="vm.card.badgeR">{{vm.card.badgeR}}</span>
+          </div>
+        </div>
+
+        <div class="grid">
+          <!-- Weapons -->
+          <div class="bloc">
+            <div class="table">
+              <table>
+                <thead>
+                  <tr>
+                    <th style="width:42%">Name</th>
+                    <th style="width:10%">Atk</th>
+                    <th style="width:10%">Hit</th>
+                    <th style="width:12%">Dmg</th>
+                    <th>WR / Traits</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr ng-repeat="w in vm.card.weapons">
+                    <td><strong>{{w.name}}</strong><div ng-if="w.traits"><small>{{w.traits}}</small></div></td>
+                    <td>{{w.atk}}</td>
+                    <td>{{w.hit}}</td>
+                    <td>{{w.dmg}}</td>
+                    <td>{{w.wr}}</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <!-- Abilities -->
+          <div class="bloc">
+            <div class="abilities">
+              <ul>
+                <li ng-repeat="ab in vm.card.abilities"><strong>{{ab.title}}:</strong> {{ab.text}}</li>
+              </ul>
+            </div>
+          </div>
+
+          <!-- Track -->
+          <div class="bloc" style="grid-column: 1 / -1;">
+            <div class="track">
+              <div class="pip" ng-repeat="p in vm.card.pips" ng-class="[p.klass, {'last-pip': $last}]">{{ $last ? "☠" : p.text }}</div>
+            </div>
+            <div class="footer-note" ng-if="vm.card.footer">{{vm.card.footer}}</div>
+          </div>
+        </div>
+      </div>
+      <small style="opacity:.7">Tip: Use the “Print” button for high-quality PDF printing; use “Download PNG” for sharing as an image.</small>
+    </div>
+  </div>
+
+  <script>
+  angular.module('cardMaker', [])
+    .controller('MainCtrl', ['$scope', function($scope){
+      const vm = this;
+
+      vm.card = {
+        title: 'Strain Leader',
+        subtitle: 'APL: 2  M: 6\"  Sv: 5+  W: 10',
+        badgeL: 'Leader',
+        badgeR: 'Vespid',
+        weapons: [
+          {name:'Neutron blaster', atk:'4', hit:'3+', dmg:'3/3', wr:'Devastating 2', traits:''},
+          {name:'Claws', atk:'3', hit:'4+', dmg:'3/4', wr:'', traits:''},
+        ],
+        abilities: [
+          {title: 'Communion Helm', text: 'Once during each activation, spend 1 Communion point for free.'},
+          {title: 'Commune', text: 'When selecting your operatives for the battle, also select one strategy ploy. When this operative is in the killzone and not within control range of enemy operatives, that ploy costs you 0CP.'}
+        ],
+        footer: '* Example layout – you can rename any section to match your game. Long rules will wrap automatically. *',
+        pipsRaw: '10,9,8,7,6,5,4,3,2,1,☠',
+        watermark: ''
+      };
+      vm.wmInput = null;
+
+      vm.syncPips = function(){
+        vm.card.pips = (vm.card.pipsRaw||'').split(',').map(t=>t.trim()).filter(Boolean).map((t,i,arr)=>{
+          // color banding across the track
+          const n = arr.length;
+          const idx = i/(n||1);
+          let klass = 'k1';
+          if(idx>.85) klass='k6';
+          else if(idx>.70) klass='k5';
+          else if(idx>.55) klass='k4';
+          else if(idx>.40) klass='k3';
+          else if(idx>.25) klass='k2';
+          else klass='k1';
+          return {text:t, klass};
+        });
+      };
+      vm.syncPips();
+
+      vm.addWeapon = ()=> vm.card.weapons.push({name:'', atk:'', hit:'', dmg:'', wr:'', traits:''});
+      vm.removeWeapon = i => vm.card.weapons.splice(i,1);
+      vm.moveWeapon = (i,dir)=>{
+        const j=i+dir; if(j<0||j>=vm.card.weapons.length) return;
+        const tmp = vm.card.weapons[i]; vm.card.weapons[i]=vm.card.weapons[j]; vm.card.weapons[j]=tmp;
+      };
+
+      vm.addAbility = ()=> vm.card.abilities.push({title:'', text:''});
+      vm.removeAbility = i => vm.card.abilities.splice(i,1);
+
+      vm.handleWatermark = function(evt){
+        const input = evt.target || document.getElementById('wmInput');
+        if(!input.files || !input.files[0]) return;
+        const reader = new FileReader();
+        reader.onload = (e)=>{ $scope.$apply(()=> vm.card.watermark = e.target.result ); };
+        reader.readAsDataURL(input.files[0]);
+      };
+
+      vm.exportPNG = function(){
+        const node = document.getElementById('exportTarget');
+        html2canvas(node, {backgroundColor: null, scale:2}).then(canvas=>{
+          canvas.toBlob(function(blob){
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url; a.download = (vm.card.title||'unit-card') + '.png';
+            document.body.appendChild(a); a.click(); a.remove();
+            setTimeout(()=>URL.revokeObjectURL(url), 1000);
+          });
+        });
+      };
+
+      vm.loadExample = function(){
+        vm.card = {
+          title: 'Oversight Drone',
+          subtitle: 'APL: 2  M: 8\"  Sv: 2+  W: 5',
+          badgeL: 'Drone', badgeR:'Support',
+          weapons: [
+            {name:'Ram', atk:'–', hit:'5+', dmg:'1/2', wr:'', traits:'This operative cannot perform actions other than guidance, dash, fall back…'}
+          ],
+          abilities: [
+            {title:'Evasive Drone', text:'Cannot perform actions other than Aerial Guidance, Charge, Dash, Fall Back, Fight and Reposition. Various visibility and APL adjustments apply.'},
+            {title:'Aerial Guidance 1AP', text:'Select a friendly operative; they gain Saturate on ranged weapons while visible to this operative.'}
+          ],
+          footer:'An example with fewer weapons but more rules text.',
+          pipsRaw: '5,4,3,3,2,1,☠',
+          watermark: vm.card.watermark
+        };
+        vm.syncPips();
+      }
+      
+      // Clear the form to an empty card (keeps loadExample available)
+      vm.clearForm = function(){
+        vm.card = {
+          title: '',
+          subtitle: '',
+          badgeL: '', badgeR: '',
+          weapons: [],
+          abilities: [],
+          footer: '',
+          pipsRaw: '',
+          watermark: ''
+        };
+        vm.wmInput = null;
+        // clear native file input value if present
+        const fin = document.getElementById('wmInput');
+        if(fin) fin.value = '';
+        vm.syncPips();
+      };
+}]);
+    </script>
+  </body>
+</html>
