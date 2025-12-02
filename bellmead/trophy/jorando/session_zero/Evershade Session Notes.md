@@ -13,6 +13,7 @@ How do I give them an opportunity to use their rituals
 - [ ] [[The Shattered Legion]] Should I still do this?
 - [ ] The Shade and the Well
 #### Set progression:
+- [ ] Bonefire -- can spend 1 gold to repair 1 armor. You DO NOT recover RUIN.
 - [ ] [[Shattered Legion Camp]]
 - [ ] [[The Hollowed Tavern]]
 	- [ ] Sleep there

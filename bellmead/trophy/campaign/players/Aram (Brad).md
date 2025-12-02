@@ -1,3 +1,4 @@
+![[char-aram.png|300]]
 
 Is: Merchant — bribery, focus, persuasion   
 Was: Hapless Peddler — trading   
@@ -22,4 +23,4 @@ Debt: bought a Bezoar's stone to cover debts, that's put the family business in 
   
 Reason: benefactor is debtor... The Saint... forgery  
   
-Chalice of Rhaskor  
+[[Chalice of Rhaskor]]
