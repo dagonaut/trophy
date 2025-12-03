@@ -73,7 +73,16 @@ Ending at the boss fight.
 
 ---
 
+Mudcrab Claw - Carbitha
 
+Traitor / failure 
 
+Z sees like a flagulated scarred body. 
 
+Vero upgraded Crown with Marrow Cling -- failed, so it does... something. Permanently attached to Vero
 
+The Wandering Eye
+
+Z sees the Shattered Legion... 
+
+Aram will always have the weeping father around. 

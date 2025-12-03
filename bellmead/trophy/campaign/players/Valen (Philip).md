@@ -17,10 +17,14 @@ Armor: Ornate Cuirass
 Rituals: (1)
 Feather — reduce the density of an object
 
-Memento: lucky token (dabloon)
+Memento: lucky token (doubloon)
 
 Debt: caught throwing fights
 
 Reason: fighting/melee --Shima's festival is the ultimate goal
 
-Oil of Oltuun
+
+{% if h != 'hide' %}
+
+
+{% endif %}

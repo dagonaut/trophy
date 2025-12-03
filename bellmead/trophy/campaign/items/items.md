@@ -18,4 +18,8 @@
 ![[i-oil-of-oltuun.png|300]]  [[Oil of Oltuun]]
 
 ### Echoes:
-![[i-echo-silent-vigil.png|300]] [[Echo of the Silent Vigil]]
+![[i-echo-silent-vigil.png|300]] 
+[[Echo of the Silent Vigil]]
+
+![[i-echo-of-kings-guilt.png|300]]
+[[Echo of a King's Guilt]]

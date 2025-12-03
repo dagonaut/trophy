@@ -27,3 +27,9 @@ Debt: Failed assassination of Cyrus; a lot of people died
 Reason/Skill: sense power  
 
 Feather of Pale Roc  
+Echo of the King's Guilt
+
+{% if h != 'hide' %}
+
+
+{% endif %}

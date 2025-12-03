@@ -1,8 +1,7 @@
+The Wandering Eye
+
 ![[ev-tavern-external.png|300]] ![[ev-tavern-internal.png|300]]
-![[l-tavern-mirror.png]]
 ![[l-tavern-hostel.png]]
-
-
 
 _Once the center of the village, the Hollowed Tavern was a place of warmth, drink, and stories. Now, it stands as a rotting husk of itself—its wooden beams swollen with moisture, the hearth cold, and chairs collapsed in disuse. Yet the air here feels thicker, heavier, as if memory itself lingers like smoke. Sometimes, on the edge of hearing, the crack of a tankard or the lilt of a love song flickers through the silence._
 

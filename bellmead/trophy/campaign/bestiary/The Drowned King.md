@@ -1,8 +1,14 @@
-![[Drowned King-pixel-simple.png|300]]  ![[Drowned King-pixel-24bit-sword.webp|300]]
+![[b-drowned-king-rising.webp|300]]   ![[b-drowned-king-sword.webp|300]]
+{% if h != "hide" %} Endurance 10 {% endif %}
 
-Endurance 10
+_Once a noble ruler, the Drowned King came to Jorando to atone for his sins, but it was too late and he was cursed by the gods for his hubris and now wanders the marshes, twisted by the waters that claimed his life. His body is bloated, adorned in tattered, waterlogged finery. His crown, a symbol of lost glory, is rusted and fused to his skull. He drags a massive sword covered in [[Marrow Cling]] that seems impossibly heavy, but he wields it with terrifying ease. His eyes glow with a sickly green light, and the air around him is filled with the stench of decay._
 
-_Once a noble ruler of Kalduhr, the Drowned King came to Jorando to atone for his sins, but it was too late and he was cursed by the gods for his hubris and now wanders the marshes, twisted by the waters that claimed his life. His body is bloated, adorned in tattered, waterlogged finery. His crown, a symbol of lost glory, is rusted and fused to his skull. He drags a massive sword covered in [[Marrow Cling]] that seems impossibly heavy, but he wields it with terrifying ease. His eyes glow with a sickly green light, and the air around him is filled with the stench of decay._
+He wore his guilt in the barnacles that grew from the scars of his self flagellation. 
+#### Dropped:
+* 
+* [[Echo of a King's Guilt]]
+
+{% if h != "hide" %}
 
 **Lore:**
 - Legends tell of the Drowned King’s hubris during the **Sundering**. Stories differ, some say he came to the marshes to atone for his sins against his people, while others claim he came to the marsh seeking forbidden power. Either way, his attempts at redemption led to him being bound to the marsh: a tragic, cursed figure. His presence is said to ensure no one disturbs the dark secrets buried in the heart of Jorando.
@@ -40,3 +46,5 @@ _A heavy blade, its surface mottled with rust, barnacles, and salt-stained etchi
 > “The sea remembers every oath—and every betrayal.”
 
 **Weapon**: Delivers a cleaving water strike, +1 to 1 black die result. +1 to all black die results against fire-based enemies.
+
+ {% endif %}

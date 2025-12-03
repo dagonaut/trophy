@@ -8,3 +8,5 @@ _"To allow souls to unburden themselves... to allow me to take it for myself... 
 [[Aelitha Note]]
 
 [[Waterlogged Journal]] Entries
+
+The Shattered Legion had a hand in the downfall of [[Evershade]]

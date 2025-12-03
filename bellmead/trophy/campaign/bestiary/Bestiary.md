@@ -3,3 +3,6 @@
 * [[The Dank]]
 * [[Pyraat]]
 * [[Wailing Lantern]]
+
+### Bosses:
+* 

@@ -10,11 +10,11 @@ How do I give them an opportunity to use their rituals
 - [ ] The Hollowed Priests and the nature of the Church
 - [ ] The Corruption of the [[Lake of Tears]]
 - [ ] [[Alaric and Liorna]]
-- [ ] [[The Shattered Legion]] Should I still do this?
+- [x] [[The Shattered Legion]] They have now been named and encountered
 - [ ] The Shade and the Well
 #### Set progression:
-- [ ] Bonfire -- can spend 1 gold to repair 1 armor. You DO NOT recover RUIN.
-- [ ] [[Shattered Legion Camp]]
+- [x] Bonfire -- can spend 1 gold to repair 1 armor. You DO NOT recover RUIN.
+- [x] [[Shattered Legion Camp]]
 - [ ] [[The Hollowed Tavern]]
 	- [ ] Sleep there
 - [ ] [[The Silent Graveyard]]
@@ -28,7 +28,16 @@ How do I give them an opportunity to use their rituals
 - [ ] Weeping Well entrance (no ladder, but built in rungs on the inside--not easy to see)
 - [ ] Establishing shot, minimizing the well
 - [ ] Rework the Hidden Crypt to be the Bell Tower quest.
+- [ ] Fix Crown of Drowned Kinng and Sword of th Sunken Empire
+- [ ] bottle of salted Flame... make an asset. 
+- [ ] silver locket
+- [ ] dreams
+- [ ] Update [[Vero (Pete)]]'s image
 #### Cool shit to add to lore and otherwise
+- [ ] The reverie turned tragic as the wedding toast turned to a memorial after his daughter choked
+- [ ] [[Benah (Mark)]] saw a vision of the destruction of Evershade, the Shattered Legion tromping through.
+- [ ] [[Aram (Brad)]] now has a condition: haunted. The toasting father is staying with him
+- [ ] [[Vero (Pete)]] added the [[Marrow Cling]] to the Crown of the Drowned King; he failed his roll in trying to make it do anything, but as a result of the Devil's bargain, it is not attached to his head/face.
 
 What are the most important things about Evershade?
 - Echo of Alaric

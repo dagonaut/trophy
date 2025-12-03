@@ -1,4 +1,4 @@
-![[char-vero.png]]
+![[char-vero-crown.png|300]]
 
 Is: Lockpick — acrobatics, security, silence
 Was: Reformed Thug — intimidation
@@ -22,4 +22,12 @@ Debt: rock bottom.
 
 Reason: got nothing to lose.
 
-Shard of the Sundering Bell
+[[Shard of the Sundering Bell]]
+Crown of the Drowned King
+
+Condition: Crabbed
+
+{% if h != 'hide' %}
+![[char-vero.png]]
+
+{% endif %}

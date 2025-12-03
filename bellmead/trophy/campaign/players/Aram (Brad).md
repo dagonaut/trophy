@@ -24,3 +24,11 @@ Debt: bought a Bezoar's stone to cover debts, that's put the family business in 
 Reason: benefactor is debtor... The Saint... forgery  
   
 [[Chalice of Rhaskor]]
+
+Condition: Haunted
+
+
+{% if h != 'hide' %}
+
+
+{% endif %}
