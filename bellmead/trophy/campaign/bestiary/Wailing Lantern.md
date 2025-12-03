@@ -1,9 +1,11 @@
 ![[c-wailing-lantern.png|300]]
 
-Wraith - CR 6
+Wraith {% if h != "hide" %} 6 {% endif %}
 
 **Physical Description:**
 A bloated, semi-transparent swamp wraith with a glowing moss-lantern fused into its chest. Its face is stretched into a permanent scream, and spectral limbs drift in and out of its shifting form like trailing smoke.
+
+{% if h != "hide" %}
 
 **Weakness:**
 The Lantern Maw is bound to light—strong sources of fire or focused light briefly banish its limbs, making it vulnerable to attack.
@@ -25,3 +27,4 @@ The Lantern Maw is bound to light—strong sources of fire or focused light brie
 | 4   | Floating just above the surface of a blackwater pool, drawing spirits from below.                              |
 | 5   | Surrounded by the still-burning lights of the Glowmoss Lanterns it has consumed.                               |
 | 6   | Flickering erratically, caught between this world and another, shrieking as it phases in and out of existence. |
+{% endif %}

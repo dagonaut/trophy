@@ -19,7 +19,7 @@ Future — an object disappears, then reappears a short time later in exactly th
   
 Memento: the Bezoar stone  
   
-Debt: bought a Bezoar's stone to cover debts, that's put the family business in jepordy  
+Debt: bought a Bezoar's stone to cover debts, that's put the family business in jeopardy  
   
 Reason: benefactor is debtor... The Saint... forgery  
   

@@ -43,7 +43,7 @@ How do I remind them to use the Journal?
 - [x] Drowned King item: Echo
 
 #### Cool shit to add to lore and otherwise
-- [ ] Add Aram image to website
+- [x] Add Aram image to website
 - [ ] The Sisters are a religious order that have a lot of opinions on austerity particularly around funerary rites. 
 
 
