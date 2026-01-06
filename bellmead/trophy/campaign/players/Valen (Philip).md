@@ -7,21 +7,21 @@ Drive:
 Attend Countess Shima’s Forbidden Festival
 
 Inventory:
-Twine (300’)
-Wind chimes
-Wooden mask, monstrous
+Twine (300’)  
+Wind chimes  
+Wooden mask, monstrous  
 
-Weapons: Knight's lance
-Armor: Ornate Cuirass
+Weapons: Knight's lance  
+Armor: Ornate Cuirass  
 
-Rituals: (1)
-Feather — reduce the density of an object
+Rituals: (1)  
+Feather — reduce the density of an object  
 
-Memento: lucky token (doubloon)
+Memento: lucky token (doubloon)  
 
-Debt: caught throwing fights
+Debt: caught throwing fights  
 
-Reason: fighting/melee --Shima's festival is the ultimate goal
+Reason: fighting/melee --Shima's festival is the ultimate goal  
 
 
 {% if h != 'hide' %}
