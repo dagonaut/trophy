@@ -20,6 +20,8 @@ _"To unmake what sorrow hath made, one must mourn in reverse—remembering joy, 
 
 ---
 
+Aelitha is the one that's been working on this. She's discovered the rite. She was working in the Bell Tower then she was sent to the Well. [[Seer of the Well]]
+
 ## Three Pillars of Reclamation
 
 A multi-set restoration mechanic intended to reverse the corruption of Jorando and return it to a place where sorrow can be relieved, not compounded. 
@@ -39,7 +41,8 @@ Items/Echoes:
 - **Name of the Lost** (Weeping Well): Speak the Seer's name aloud to gain her Echo.
 
 **Echo Sources:**
- * Alaric and Liorna -EV
+ * Liorna -WM/EV
+ * The Drowned King - WM
  * The Last Pilgrim -EV
  * The Seer -WW
  * Whomever was last in the [[The Murmuring Cell]] -WW
@@ -78,4 +81,13 @@ Cross Reference
 - **The Cistern** (Vial, Waters, Corrupted Saints)
 - **Evershade** (First Name Fragment, Names/Echos)
 - **Whispering Marshes** (Names/Echos)
+
+
+
+As Echoes are used they transform. Players get to tell us how. 
+
+We are trying to quiet the choir, to keep it from echoing. Allowing the sorrows to rest. 
+
+
+
 

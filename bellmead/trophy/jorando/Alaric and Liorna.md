@@ -8,7 +8,7 @@ Lovers. Resistance to [[The Shattered Legion]]. Know shit was going wrong with t
 
 [[The Bell Tower]]
 
-[[Silver Locket of Eternal Vows]]
+[[Gold Locket of Eternal Vows]]
 
 
 Alaric was a farmer that stood up and joined the resistance against [[The Shattered Legion]]. He was known from brandishing his [[Rusty Scythe]] like some kind of grim reaper harvesting the souls of the invading force.

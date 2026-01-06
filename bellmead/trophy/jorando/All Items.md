@@ -24,7 +24,7 @@
 [[Tunnel Warden’s Key]]
 [[Censer of Lament]]
 [[Whispering Jar]]
-[[Silver Locket of Eternal Vows]]
+[[Gold Locket of Eternal Vows]]
 
 ### [[Weeping Well]]
 [[Mourner’s Signet]]

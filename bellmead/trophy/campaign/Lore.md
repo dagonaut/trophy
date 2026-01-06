@@ -5,6 +5,8 @@ From the Jaw of the Priest after being attached to the Lantern
 When asked, "What do you want?"
 _"To allow souls to unburden themselves... to allow me to take it for myself... to cleanse the Cistern... to purify the Lake."_
 
+The mysterious ghost in the fog whispered the name Aelitha
+
 [[Aelitha Note]]
 
 [[Waterlogged Journal]] Entries

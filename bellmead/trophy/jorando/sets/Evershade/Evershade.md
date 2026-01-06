@@ -62,7 +62,7 @@ Treasures: Prioritize: Faded Love Letter; Crumbling Diary; Music Box
 **[[Tunnel Warden’s Key]]**
 **[[Censer of Lament]]**
 **[[Whispering Jar]]**
-**[[Silver Locket of Eternal Vows]]**
+**[[Gold Locket of Eternal Vows]]**
 
 ### Moments of Light:
 * **Petals in the Rain**: As mist falls in a steady, gentle drizzle, a gust of wind scatters a cascade of bright golden petals down the narrow village lane. They drift past your feet, untouched by rot, before vanishing beneath the stone where the sun once kissed the earth.

@@ -1,5 +1,6 @@
 
-![[pilgrim-8-bit.webp|300]]
+![[pilgrim-8-bit.webp|300]]  ![[b-last-pilgrim-32.png|300]]
+
 
 ![[ev-last-pilgrim-scythe.png|300]]  ![[ev-last-pilgrim-scythe-red.png|300]]
 
@@ -13,7 +14,7 @@ The Last Pilgrim is a gaunt, enigmatic figure who roams the desolate remnants of
 
 The Last Pilgrim was once a devout guardian of the sacred rites that governed Evershade. When the village fell to ruin and the Shattered Legion’s invasion disrupted their duties, they became a solitary figure, desperately trying to uphold the lost traditions and protect what remains of the village’s sanctity. Now, they wander the ruins, seeking to restore the village’s honor or, failing that, to ensure its secrets remain undisturbed.
 
-  
+This is Alaric.  
 
 **Abilities:**
 
@@ -28,6 +29,7 @@ The Last Pilgrim was once a devout guardian of the sacred rites that governed Ev
   
 
 **Weaknesses:**
+* **Connection to Vow:** If you have the Echo of the Silent Vigil, he will respond to it. If you offer it up and treat him with respect, you can not fight.
 
 - **Burdened by Duty:** The Pilgrim is driven by their sense of responsibility and can become fixated on protecting certain locations or artifacts, making them less responsive to threats outside their immediate focus.
 
@@ -36,12 +38,11 @@ The Last Pilgrim was once a devout guardian of the sacred rites that governed Ev
   
 
 **Treasure and Rewards:**
-
-- **Pilgrim’s Staff:** A magical staff that enhances the wielder's spiritual abilities, granting +2 to rolls related to protective spells and rituals.
-
+* **Rusty Scythe:** Alaric's rusty scythe. It's a weapon. I dunno.
 - **Mask of the Weeping Visage:** A mask that, when worn, provides resistance to fear-based effects and grants the wearer the ability to sense nearby magical disturbances.
 
 - **Last Pilgrim’s Cloak:** A tattered cloak that offers +1 to defense rolls and has a chance to temporarily conceal the wearer in shadows, making them harder to hit in combat.
+- **Echo of the Pilgrim's Vow**
 
 The Last Pilgrim: An invasion! Clad in tattered, once-ceremonial robes that flutter in the wind, the Pilgrim’s face is obscured by a weathered hood and a metal mask resembling a weeping visage. Their hands are gloved and clutch a staff topped with an intricately carved symbol of a fallen star, a relic of forgotten rituals.
 - Trigger: Taking anything from his alter at the Forgotten Shrine
@@ -49,12 +50,3 @@ The Last Pilgrim: An invasion! Clad in tattered, once-ceremonial robes that flut
 **Lore:**
 
 The Last Pilgrim is a tragic remnant of Evershade’s once-sacred order. Their presence is a poignant reminder of the village’s lost glory and the profound sense of duty that bound its people. As they wander the ruins, their quest remains—to either reclaim their lost heritage or to ensure that the village’s secrets are preserved, even if it means facing those who now intrude upon their sacred ground.
-
-**Additional Images:**
-![[pilgrim2.webp|300]]
-
-![[pilgrim3-red.webp|300]]
-
-![[pilgrim-red-2.webp|300]]
-
-![[pilgrim1.webp|300]]

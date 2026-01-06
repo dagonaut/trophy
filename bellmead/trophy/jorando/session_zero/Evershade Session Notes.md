@@ -1,10 +1,20 @@
 ### Next Session Start / Follow-up?
 Remind them about Drives, mementos, items
-How do I remind them to use the Journal?
-How do I give them an opportunity to use their rituals
+How do I remind them to use the Journal? -- Just give them everything.
+How do I give them an opportunity to use their rituals?
+
+Explain new Ruin rubric. The mandatory mark 1 ruin is removed. However, when you hit 6 you are toast. We are reducing Ruin accordingly and with a rest.
+Reduce Ruin:
+Pete: goes to 1
+Brad: goes to 2
+Mark: goes to 2
+Shea: goes to 2
+Philip: goes to 1
+
+Quick review of items/what has happened/lore?
 #### Item/Action Milestones
 - [ ] [[Crumbling Diary]]
-- [ ] [[Silver Locket of Eternal Vows]]
+- [ ] [[Gold Locket of Eternal Vows]]
 #### Lore Milestones:
 - [ ] Echoes, what are they? What do they do?
 - [ ] The Hollowed Priests and the nature of the Church
@@ -12,7 +22,7 @@ How do I give them an opportunity to use their rituals
 - [ ] [[Alaric and Liorna]]
 - [x] [[The Shattered Legion]] They have now been named and encountered
 - [ ] The Shade and the Well
-#### Set progression:
+#### Set progression: [[Evershade]]
 - [x] Bonfire -- can spend 1 gold to repair 1 armor. You DO NOT recover RUIN.
 - [x] [[Shattered Legion Camp]]
 - [ ] [[The Hollowed Tavern]]
@@ -26,13 +36,15 @@ How do I give them an opportunity to use their rituals
 #### Questions to ask:
 #### TO DO/Build technical stuff: [[Waterlogged Journal]]
 - [ ] Weeping Well entrance (no ladder, but built in rungs on the inside--not easy to see)
-- [ ] Establishing shot, minimizing the well
-- [ ] Rework the Hidden Crypt to be the Bell Tower quest.
-- [ ] Fix Crown of Drowned Kinng and Sword of th Sunken Empire
-- [ ] bottle of salted Flame... make an asset. 
-- [ ] silver locket
+- [x] Establishing shot, minimizing the well
+- [x] Rework the Hidden Crypt to be the Bell Tower quest.
+- [x] Fix Crown of Drowned Kinng and Sword of th Sunken Empire
+- [x] bottle of salted Flame... make an asset. 
+- [ ] [[Gold Locket of Eternal Vows]]
 - [ ] dreams
-- [ ] Update [[Vero (Pete)]]'s image
+- [x] Update [[Vero (Pete)]]'s image
+- [ ] Make a book asset for the Waterlogged Journal for all the pages to be revealed.
+- [ ] Go ahead and make a similar Crumbling Diary entry -- just give them all the notes and data.
 #### Cool shit to add to lore and otherwise
 - [ ] The reverie turned tragic as the wedding toast turned to a memorial after his daughter choked
 - [ ] [[Benah (Mark)]] saw a vision of the destruction of Evershade, the Shattered Legion tromping through.
@@ -45,3 +57,53 @@ What are the most important things about Evershade?
 - Church stuff... we need to reveal more info about it
 - Are we doing another journal? Like the diary?
 Option to the Weeping Well
+
+Updates and reveals:
+Faded Love Letter
+Dreams will reveal directions
+* The Bell Tower: Liorna and Alaric are outside the bell tower, they duck beneath some branches. They are inside a chamber. Alaric hands Liorna a locket.  There is far more in here, but they are ignoring it. They whisper vows to love each other eternally. **note:** Bell tower has the Rite of Reclamation first step and reveal that points to the Weeping Well and the hidden chamber within. **GOAL:** Find the secrets beneath the Bell Tower; **GOAL:** Find the entrance to the Weeping Well.
+* Alaric: A man is making an impassioned speech in the Wandering Eye/[[The Hollowed Tavern]]. There is a militia that has formed, men and women in tattered armor. Alaric says goodbye to Liorna, she cuts a piece of the blue ribbon from her hair and ties it around his wrist. The man fights against the Shattered Legion. Many fall, they battle without honor or humanity. The last image is him returning to [[Evershade]], the village is decimated and abandoned. He kneels at the edge of the lake and weeps into it. After a time he rises.
+* Liorna: Highlight the golden hair and the ribbon so you make the connection to the echo, a light shine from the top of the bell tower. You see her collapse. When she does, a blue ribbon floats away on the wind.
+* The Well: You are in the depths of what looks like a sewer. There is a faint light far down a tunnel. You are in a room filled with books and lit by a single candle. A figure hunches over books and papers a shroud covering the face. You hear the sound of murmuring, but can't make out any sound. The figure lifts its head, but you can not see its full face. But their lips are visible. They are twitching, and you can see that they have been stitched shut. 
+* The Sentinel
+
+Workflow:
+* Dreams
+	* Bell Tower
+	* Alaric
+	* Liorna
+	* The Well
+* Find Letter
+	* Whoever dreamed of Liorna wakes with the [[Faded Love Letter]] ==asset==
+	* GOAL: Uncover the fate of The Lovers
+	* GOAL: Uncover the secrets of the Bell Tower
+* Go to Graveyard
+* Liorna's Grave
+	* Locket ==asset==
+	* [[The Last Pilgrim]] ==asset==
+* Belltower
+	* Hammer ==asset==
+	* [[Burnt Out Lantern]] ==asset==
+* Hidden Room ==asset== (it's accessed via a nearby crypt)
+	* Notes about Rite of Reclamation, Aelitha found the secret, and it is hidden in the well
+	* GOAL: Find the secret entrance to the weeping well
+*
+
+Assets needed:
+- [x] [[Faded Love Letter]]
+- [x] [[The Bell Tower]] external
+- [x] [[The Bell Tower]] internal
+- [x] [[The Bell Tower]] upstairs
+- [x] [[The Bell Tower]] hidden room
+- [x] [[Gold Locket of Eternal Vows]]
+- [ ] [[Bell-Hammer]]
+- [ ] Abandoned Lantern (find it at the top of the Bell Tower)
+- [x] [[The Silent Graveyard]] entrance (rough)
+- [x] [[The Silent Graveyard]] with bell tower middle distance
+- [ ] [[The Silent Graveyard]] 
+- [x] Liorna's Grave with Locket
+- [x] Liorna's Grave with summoning sign
+- [x] Last Pilgrim red
+- [x] Last Pilgrim regular?
+- [x] [[The Last Pilgrim]] echo
+- [x] Footsteps to Tower

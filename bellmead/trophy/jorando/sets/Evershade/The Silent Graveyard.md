@@ -25,7 +25,7 @@ _Tucked behind the village on higher ground, the Silent Graveyard is overgrown w
     - **Optional Twist**: If summoned with respect (e.g., through grief), the Pilgrim may not attack, instead issuing a warning or offering a test. If summoned through theft or violence, the Pilgrim arrives enraged.
         
 - **Gravestone of Liorna**: Half-covered in ivy, the stone reads only: _“She waited at the lake, even as it forgot her name.”_ 
-	- Those holding the [[Silver Locket of Eternal Vows]] may receive a whispered message from her spirit here. 
+	- Those holding the [[Gold Locket of Eternal Vows]] may receive a whispered message from her spirit here. 
 	- Kneeling before it while holding the _Silver Locket_ reveals a brief vision of her final moments—standing at the lakeside, eyes full of faith.
 - **[[Tear-Stained Chalice]]**: Hidden beneath a child’s grave marker, wrapped in rotted cloth. When used at [[Weeping Well]], it **grants temporary immunity to curses** but causes sorrowful hallucinations for a day.    
 - **Spirit Trail**: By lighting the **Censer of Lament** near the statue of the Hollowed Saint, a trail of glowing footprints appears briefly, showing a path to a hidden crypt entrance beneath the graveyard.    

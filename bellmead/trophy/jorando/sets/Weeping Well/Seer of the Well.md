@@ -36,3 +36,9 @@ The **Broken Music Box** once belonged to a child Aelitha comforted—a little g
 When Aelitha was imprisoned in the well, she would hum the tune in the darkness until her voice gave out. Even now, the faint melody carried by the music box stills her rage for a moment and reminds her of something she no longer fully understands: kindness.
 
 Aelitha hummed with 
+
+Alternate for MX Game:
+Aelitha was seeing how the Lacrimara was changing. She worked in the Bell Tower in secret trying to work out a cure. She was discovered by corrupted forces and sentenced to the Well.
+
+She was an oracle still, but when she learned there may be a cure she was silenced, and when she persisted in her studies, she was banished to the well.
+

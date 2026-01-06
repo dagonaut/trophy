@@ -1,8 +1,7 @@
 * [[Barnacle Bug]]
-* [[Muck Wraith]]
 * [[The Dank]]
+* [[Muck Wraith]]
 * [[Pyraat]]
 * [[Wailing Lantern]]
-
 ### Bosses:
-* 
+* [[The Drowned King]]

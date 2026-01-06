@@ -5,7 +5,8 @@ _Once a noble ruler, the Drowned King came to Jorando to atone for his sins, but
 
 He wore his guilt in the barnacles that grew from the scars of his self flagellation. 
 #### Dropped:
-* 
+* [[Crown of the Drowned King]]
+* [[Sword of the Sunken Empire]]
 * [[Echo of a King's Guilt]]
 
 {% if h != "hide" %}
