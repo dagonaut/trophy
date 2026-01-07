@@ -86,3 +86,9 @@ The Wandering Eye
 Z sees the Shattered Legion... 
 
 Aram will always have the weeping father around. 
+
+---
+2026-01-06
+
+**ARAM is being haunted by the weeping father** (can use an echo or chalice to remove) 
+**VERO** got some shit on his face. 
