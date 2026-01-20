@@ -91,4 +91,42 @@ Aram will always have the weeping father around.
 2026-01-06
 
 **ARAM is being haunted by the weeping father** (can use an echo or chalice to remove) 
-**VERO** got some shit on his face. 
+**VERO got some shit on his face**. Marking it as armor, may cause unintended consequences
+
+Dreams
+
+**New Goal: Discover the Secrets beneath the Bell Tower.**
+
+ARAM's ghosts' daughter is Meridyth
+
+Valen empathizes with the Echo and sees the belltower
+
+Serah drinks the magic juice to make everyone invisible, they think it happens, fight a baddie and kill him without realizing it may not have worked.
+
+Aram found the letter.
+
+Benah & Vero do some grave robbing. Benah finds the Reedwoven Cloak, Vero finds some gold.
+
+Valen makes an attempt and stumbles on Liorna's grave. He takes the locket summoning The Last Pilgrim. Vero clanks the Sundering Bell disturbing the pilgrim, buying them some time. Valen offers the Echo of the Silent Vigil to The Pilgrim. The ribbon around his wrist comes off and joins with the other and they float off. He dissipates. They gain **The Rusty Scythe**.
+
+The team makes their way to the Bell Tower. 
+
+Valen drinks the magic juice allowing him to do his feather ritual. Vero takes off all his belongings and floats up to the top, but it's very awkward and he breaks some stairs and hits the bell along the way dropping the hammer, which comes so close to braining Benah it smacks the pipe out of her mouth. Vero finds the **Burnt Out Lantern**.
+
+End:
+Vero is up on the top of the Bell Tower. Everyone else is down below.
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+

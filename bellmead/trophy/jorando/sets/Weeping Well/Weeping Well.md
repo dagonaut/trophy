@@ -1,5 +1,5 @@
 
-_There is a place beneath Evershade where grief has pooled for centuries—a place unspoken, yet known. The Weeping Well is older than the village above, its stones eroded smooth by tears and time. A vine-choked ladder leads down into shadow and stillness, past slick stone and votive carvings barely visible under moss. At the bottom: silence, broken only by the drip of water and the sigh of something remembering._
+_There is a place beneath Evershade where grief has pooled for centuries—a place unspoken, yet known. The Weeping Well is older than the village above, its stones eroded smooth by tears and time. A vine-choked ladder leads down into shadow and stillness, past slick stone and votive carvings barely visible under moss. At the bottom: silence, broken only by the drip of water and the sigh of memory._
 
 The faithful once came here to cast away sorrow, but the sorrow clung. It soaked into the stone and wept back. Now, forgotten relics rot beside fetid water, and something stirs within—a watcher of grief, the Seer of the Well. And deeper still lies a path nearly forgotten—one taken by only the most desperate or damned. The Hidden Tunnel connects this place to the Cistern beneath the Ruined Church of the Hollowed Saints.
 ### Goals:

@@ -23,6 +23,8 @@ Debt: caught throwing fights
 
 Reason: fighting/melee --Shima's festival is the ultimate goal  
 
+Stuff:  
+Echo of the Silent Vigil  
 
 {% if h != 'hide' %}
 

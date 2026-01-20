@@ -5,3 +5,6 @@
 * [[Wailing Lantern]]
 ### Bosses:
 * [[The Drowned King]]
+
+### Other:
+* [[The Last Pilgrim]]

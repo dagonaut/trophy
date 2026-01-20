@@ -12,3 +12,4 @@ The mysterious ghost in the fog whispered the name Aelitha
 [[Waterlogged Journal]] Entries
 
 The Shattered Legion had a hand in the downfall of [[The Village Evershade]]
+

@@ -3,15 +3,9 @@ Remind them about Drives, mementos, items
 How do I remind them to use the Journal? -- Just give them everything.
 How do I give them an opportunity to use their rituals?
 
-Explain new Ruin rubric. The mandatory mark 1 ruin is removed. However, when you hit 6 you are toast. We are reducing Ruin accordingly and with a rest.
-Reduce Ruin:
-Pete: goes to 1
-Brad: goes to 2
-Mark: goes to 2
-Shea: goes to 2
-Philip: goes to 1
-
-Quick review of goals/items/what has happened/lore?
+#### GOALS:
+- [ ] Find the shores of the Lacrimara
+- [ ] 
 #### Item/Action Milestones
 #### Lore Milestones:
 - [ ] Echoes, what are they? What do they do?
@@ -23,10 +17,10 @@ Quick review of goals/items/what has happened/lore?
 #### Set progression: [[Evershade]]
 - [x] Bonfire -- can spend 1 gold to repair 1 armor. You DO NOT recover RUIN.
 - [x] [[Shattered Legion Camp]]
-- [ ] [[The Hollowed Tavern]]
-	- [ ] Sleep there
-- [ ] [[The Silent Graveyard]]
-- [ ] [[The Forgotten Shrine]]
+- [x] [[The Hollowed Tavern]]
+	- [x] Sleep there
+- [x] [[The Silent Graveyard]]
+- [x] [[The Forgotten Shrine]]
 - [ ] [[The Bell Tower]]
 - [ ] 
 #### Info to remember:
@@ -39,7 +33,7 @@ Quick review of goals/items/what has happened/lore?
 - [x] Fix Crown of Drowned Kinng and Sword of th Sunken Empire
 - [x] bottle of salted Flame... make an asset. 
 - [x] [[Gold Locket of Eternal Vows]]
-- [ ] dreams
+- [x] dreams
 - [x] Update [[Vero (Pete)]]'s image
 - [ ] Make a book asset for the Waterlogged Journal for all the pages to be revealed.
 - [ ] Go ahead and make a similar Crumbling Diary entry -- just give them all the notes and data.
@@ -72,36 +66,21 @@ Workflow:
 	* Liorna
 	* The Well
 * Find Letter
-	* Whoever dreamed of Liorna wakes with the [[Faded Love Letter]] ==asset==
+	* Whoever dreamed of Liorna wakes with the [[Faded Love Letter]]
 	* GOAL: Uncover the secrets beneath the Bell Tower
 * Go to Graveyard
 * Liorna's Grave
-	* [[Gold Locket of Eternal Vows]] ==asset== looks like the one from the dream
-	* [[The Last Pilgrim]] ==asset==
+	* [[Gold Locket of Eternal Vows]] looks like the one from the dream
+	* [[The Last Pilgrim]] 
 * Belltower
-	* [[Bell Hammer]] ==asset==
-	* [[Burnt Out Lantern]] ==asset==
-* Hidden Room ==asset== (it's accessed via a nearby crypt)
+	* [[Bell Hammer]] 
+	* [[Burnt Out Lantern]] 
+* Hidden Room (it's accessed via a nearby crypt)
 	* Notes about Rite of Reclamation, Aelitha found the secret, and it is hidden in the well
 	* Dead guy with a suicide note pinned to his chest... he also has a secret key
 	* GOAL: Find the secret entrance to the weeping well
-*
+
 
 Assets needed:
-- [x] [[Faded Love Letter]]
-- [x] [[The Bell Tower]] external
-- [x] [[The Bell Tower]] internal
-- [x] [[The Bell Tower]] upstairs
-- [x] [[The Bell Tower]] hidden room
-- [x] [[Gold Locket of Eternal Vows]]
-- [x] [[Bell Hammer]]
-- [x] Abandoned Lantern (find it at the top of the Bell Tower)
-- [x] [[The Silent Graveyard]] entrance (rough)
-- [x] [[The Silent Graveyard]] with bell tower middle distance
-- [ ] [[The Silent Graveyard]] 
-- [x] Liorna's Grave with Locket
-- [x] Liorna's Grave with summoning sign
-- [x] Last Pilgrim red
-- [x] Last Pilgrim regular?
-- [x] [[The Last Pilgrim]] echo
-- [x] Footsteps to Tower
+- [ ] [[Tears of Lacrimara]]
+- [ ] Weeping Well Entrance

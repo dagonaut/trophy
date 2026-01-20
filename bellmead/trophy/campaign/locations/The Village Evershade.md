@@ -18,3 +18,15 @@ _Once the center of the village, the Wandering Eye was a place of warmth, drink,
 ![[ev-tavern-internal.png]]
 ![[l-tavern-mirror.png]]
 ![[l-tavern-hostel.png]]
+
+#### The Graveyard
+![[ev-graveyard-entry-rough.png]]
+
+![[ev-graveyard-liorna-grave.png]]
+![[ev-graveyard-liorna-grave-sign.png]]
+
+![[ev-graveyard-tower.png]]
+![[ev-graveyard-belltower.png]]
+![[ev-graveyard-belltower-internal.png]]
+![[ev-graveyard-belltower-top.png]]
+

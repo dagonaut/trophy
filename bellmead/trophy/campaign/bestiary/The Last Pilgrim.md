@@ -1,10 +1,9 @@
 
-![[pilgrim-8-bit.webp|300]]  ![[b-last-pilgrim-32.png|300]]
+  ![[b-last-pilgrim-32.png|300]]  ![[b-last-pilgrim-scythe.png|300]]  ![[b-last-pilgrim-scythe-red.png|300]]
 
+Alaric
 
-![[ev-last-pilgrim-scythe.png|300]]  ![[ev-last-pilgrim-scythe-red.png|300]]
-
-
+{% if h != 'hide' %}
 **Description:**
 
 The Last Pilgrim is a gaunt, enigmatic figure who roams the desolate remnants of Evershade, driven by a singular, unwavering purpose. Clad in tattered, once-ceremonial robes that flutter in the wind, the Pilgrim’s face is obscured by a weathered hood and a metal mask resembling a weeping visage. Their hands are gloved and clutch a staff topped with an intricately carved symbol of a fallen star, a relic of forgotten rituals.
@@ -50,3 +49,5 @@ The Last Pilgrim: An invasion! Clad in tattered, once-ceremonial robes that flut
 **Lore:**
 
 The Last Pilgrim is a tragic remnant of Evershade’s once-sacred order. Their presence is a poignant reminder of the village’s lost glory and the profound sense of duty that bound its people. As they wander the ruins, their quest remains—to either reclaim their lost heritage or to ensure that the village’s secrets are preserved, even if it means facing those who now intrude upon their sacred ground.
+
+{% endif %}
