@@ -5,8 +5,7 @@ From the Jaw of the Priest after being attached to the Lantern
 When asked, "What do you want?"
 _"To allow souls to unburden themselves... to allow me to take it for myself... to cleanse the Cistern... to purify the Lake."_
 
-Found written in the margin of a hymn in the Choir's Loft:
-_"Say their names, don't sing their praise."_
+Found written in the margin of a hymn in the Choir's Loft: _"Say their names, don't sing their praise."_
 
 The mysterious ghost in the fog whispered the name [[Aelitha]]
 #### Aelitha
@@ -18,7 +17,7 @@ The mysterious ghost in the fog whispered the name [[Aelitha]]
 ![[rc-chamber-saints-fallacy.png|300]]  ![[rc-chamber-lorian-note.png|300]]
 
 
-[[Waterlogged Journal]] Entries
+[[Waterlogged Journal]] Entries   
 * _"Lorian's bell called to soothe them. After he was gone, the Saints raised a choir to collect them."_
 
 The Shattered Legion had a hand in the downfall of [[The Village Evershade]]
