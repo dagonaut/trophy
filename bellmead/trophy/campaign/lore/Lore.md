@@ -11,7 +11,7 @@ The mysterious ghost in the fog whispered the name [[Aelitha]]
 #### Aelitha
 ![[i-aelitha-note.png|300]]  ![[i-aelitha-captor-note2.png|300]]
 
-![[trophy/campaign/lore/i-aelitha-rite-note-1.png|300]]  ![[trophy/campaign/lore/i-aelitha-rite-note-2.png|300]]
+![[i-aelitha-rite-note-1.png|300]]  ![[i-aelitha-rite-note-2.png|300]]
 
 #### Other Notes:
 ![[rc-chamber-saints-fallacy.png|300]]  ![[rc-chamber-lorian-note.png|300]]
