@@ -1,5 +1,5 @@
 
-![[trophy/campaign/items/i-ds-aelitha-candle.png|300]]  ![[rc-i-ds-vial-borrowed-light.png|300]]  ![[rc-i-ds-ledger.png|300]]   ![[ds-tear-of-lacrimara.png|300]] ![[i-ds-bell-hammer.png|300]]  ![[i-ds-burnt-out-lantern.png|300]]  ![[wm-i-ds-fenroot-elixer.png|300]]  ![[i-crown-of-the-drowned-king.png|300]]  ![[i-sword-of-the-sunken-empire.png|300]]  ![[ev-i-ds-rusty-scythe.png|300]]   ![[i-bottle-salted-flame.png|300]]  ![[wm-i-ds-reedwoven-cloak.png|300]]  
+![[trophy/campaign/items/i-ds-aelitha-candle.png|300]]  ![[rc-i-ds-vial-borrowed-light.png|300]]  ![[rc-i-ds-ledger.png|300]]  ![[ds-bell-of-calling.png|300]]     ![[ds-tear-of-lacrimara.png|300]] ![[i-ds-bell-hammer.png|300]]  ![[i-ds-burnt-out-lantern.png|300]]  ![[wm-i-ds-fenroot-elixer.png|300]]  ![[i-crown-of-the-drowned-king.png|300]]  ![[i-sword-of-the-sunken-empire.png|300]]  ![[ev-i-ds-rusty-scythe.png|300]]   ![[i-bottle-salted-flame.png|300]]  ![[wm-i-ds-reedwoven-cloak.png|300]]  ![[wm-i-ds-mudcrab-claw2.png|300]]  
 
 ![[i-waterlogged-journal-edit.png|300]]   
 [[Waterlogged Journal]] Entries
