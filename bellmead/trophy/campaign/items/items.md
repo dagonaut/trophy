@@ -1,3 +1,9 @@
+
+![[trophy/campaign/items/i-ds-aelitha-candle.png|300]]
+
+![[i-ds-bell-hammer.png|300]]
+
+
 ![[i-crown-of-the-drowned-king.png|300]]
 [[Crown of the Drowned King]]
 
@@ -21,8 +27,8 @@
 ![[i-shard-of-sundering-bell.png|300]]  [[Shard of the Sundering Bell]]
 
 ### Echoes:
-![[i-echo-silent-vigil.png|300]] 
-[[Echo of the Silent Vigil]]
+![[ds-echo-of-the-silenced.png|300]] 
+
 
 ![[i-echo-of-kings-guilt.png|300]]
 [[Echo of a King's Guilt]]
@@ -31,3 +37,4 @@
 [[Oil of Oltuun]]  
 [[Marrow Cling]]  
 [[Lantern of the Hollowed Voice]]  
+[[Echo of the Silent Vigil]]

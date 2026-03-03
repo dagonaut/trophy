@@ -5,7 +5,8 @@ How do I give them an opportunity to use their rituals?
 
 #### GOALS:
 - [ ] Find the shores of the Lacrimara
-- [ ] 
+- [x] Discover the Secrets Beneath the Bell Tower
+- [ ] Find the secret entrance to the weeping well
 #### Item/Action Milestones
 #### Lore Milestones:
 - [ ] Echoes, what are they? What do they do?

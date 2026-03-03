@@ -9,8 +9,6 @@ A half-decayed journal with entries detailing the downfall of a lost expedition.
 #### Journal Entries:
 ![[i-journal-priest-jaw.png|300]]
 
-{% if h != "hide" %}
-Journal Entries:
 ![[i-journal-feyheart.png|300]]
 
 ![[i-journal-drowned-king.png|300]]
@@ -19,6 +17,7 @@ Journal Entries:
 
 ![[i-journal-legion.png]]
 
+{% if h != "hide" %}
 
 ![[wm-i-ds-waterlogged-journal.png|300]]
 

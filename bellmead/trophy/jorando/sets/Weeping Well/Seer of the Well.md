@@ -42,3 +42,31 @@ Aelitha was seeing how the Lacrimara was changing. She worked in the Bell Tower 
 
 She was an oracle still, but when she learned there may be a cure she was silenced, and when she persisted in her studies, she was banished to the well.
 
+
+---
+
+## **Echo of the Silenced**
+
+_An Echo Item_
+
+
+
+The cord is thin, crimson-dark, stiff with old blood and salt. It remembers the warmth of her lips, the tremor in her breath as the final knot was tied. Each fiber hums with unfinished words. Not screams. Not curses. Truths that were deemed inconvenient. Warnings that did not flatter the Choir’s authority. When held, the Echo tightens around the bearer’s thoughts, pressing inward, asking what _you_ would silence to preserve power.
+
+This is not a relic of devotion. It is the thread they used to end a woman. It does not accuse Aelitha, rather It indicts those who bound her.
+
+The thread never frays. It was never meant to be undone.
+
+The Saints called it _mercy_. 
+
+They did not fear her visions. They feared being seen.
+
+When invoked, the Echo does not grant clarity. It grants _weight_. The unbearable pressure of knowing something vital and being forbidden to name it. The Echo teaches this lesson without mercy: institutions that claim holiness will always choose quiet over justice, ritual over listening, and obedience over truth.
+
+
+
+_"They said silence would spare her the burden of prophecy. They said a closed mouth could not blaspheme. They said many things, because they could still speak."_
+
+_“They called it a vow.  
+But vows are chosen.”_
+

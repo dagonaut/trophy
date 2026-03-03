@@ -117,16 +117,105 @@ End:
 Vero is up on the top of the Bell Tower. Everyone else is down below.
 
 ---
+2026-01-20
+
+Vero looks out and discovers there may be something 
+
+Valen gets the Key of Imprisonment
+
+their ideas:
+Grief ledger... how do you remind the water?
+bell hammer?
+caught up on bells... 
+sad dad is an echo in and of itself.
+candle leads towards Aelitha
+
+new ideas:
+attach ghosts, collect them like Echoes
+ghosts... 
+ - grim reaper
+ - sad dad
+The Shepard has been brought into the soul container.
+
+They found the candle
 
 
+Aram: new condition: peniaphobia
+Sareh: 
+Benah: undead buried the journal.
+
+---
+2026-01-27:
+
+Starting at the bottom of the well.
+Vero graffiti's the wall
+
+Sareh - little boy was born in the gutter and didn't make it. 
+Aram - The grieving father is joined by the daughter, she can see him and wants to comfort him, but he can't see her
+Vero - Ghost crab is in conflict with the Drowned King
+
+Glowing strands are present in the lake water that is present here. Glowing filament.
+
+travel through the tunnel, Vero leads using the candle.
+
+Aelitha boss fight.
 
 
+Their thoughts:
+The voice is a "bell". 
+
+Feyheart with some tears from the well with a bit of regret.
+
+echo = ghost or entity of sorrow
+
+I need to make it clear that the Reliquary is the thing... MAKE IT CLEAR
+
+- [ ] In the middle of the shit in the Murmuring Chamber.
+
+---
+2026-02-03:
+
+Library use: "Lorian's bell called to soothe them. After he was gone, the Saints raised the choir to collect them."
+
+Their Thoughts:
+The Choir are the servitors of the Saints?
+What is Lorian's Bell?
+Sorrow beer... they're addicts
 
 
+They seem to be getting the legacy problem.
 
+Neven - The Name of Sareh's Haunted.
 
+Aram is trying to separate his two ghosts to get them to communicate via the confessional.
 
+She's confessing that her betrothed betrayed their own line, so she felt guilt. The father is shaken out and can't believe that she would think that. He instantly forgives her and allows her to lay down that guilt. 
 
+Vero: Friar Tuck - Tonser - He was a scribe... but reading about all this stuff sucks.
 
+Sharkons... weight measurement. 
 
+Josief - is the name on every page
 
+Exchanged a bunch of things for gold
+
+About ready to head "down".
+
+---
+2026-02-24
+About to go to the Crypt Door.
+
+Head to Nave
+
+Reviewed the Mural:
+The image has some carvings that correspond with ledger entries.
+Jaqs, Madrigal, Esolm, Esfahen, Jaqix --members of the choir / priesthood (these will be on the door)
+
+Pete tries twice to turn into a tree. He manages to. He asks what he can do for the tree.
+Tree 
+
+"Say their names, don't sing their praise."
+
+Serah - Madrigil... the former choir director that got brought into the "new way". was a bit attracted because he was failing. 
+
+headed back 
